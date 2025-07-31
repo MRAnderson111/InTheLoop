@@ -4126,3 +4126,804 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.07.31-15.00.57:163][795]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
 [2025.07.31-15.01.02:604][161]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2025.07.31-15.01.51:460][385]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20818 files in 21895 folders with total size 3003 MiB.
+[2025.07.31-15.04.56:512][ 15]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.31-15.05.02:286][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.07.31-15.05.02:747][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.05.02:783][551]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.05.02:807][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.05.02:807][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.05.02:813][551]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.05.02:813][551]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowdEC3B59EC47BA23309D8C6BBE6AA03CE2.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.05.02:821][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.174 ms (total: 5.02 sec)
+[2025.07.31-15.05.02:857][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.05.02:857][551]LogContentValidation: Enabled validators:
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.05.02:857][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.05.02:857][551]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.05.22:182][173]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-15.05.22:207][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:208][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:211][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:212][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:212][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:214][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:216][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:230][173]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2025.07.31-15.05.22:287][173]LogTexture: Display: Building textures: /Game/HeavyBot/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 517.499988 MB), EncodeSpeed: Fast
+[2025.07.31-15.05.22:386][173]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2025.07.31-15.05.22:574][173]LogSkeletalMesh: Built Skeletal Mesh [0.19s] /Game/HeavyBot/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2025.07.31-15.05.23:782][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.07.31-15.05.27:663][603]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.07.31-15.05.27:682][604]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.07.31-15.05.30:251][788]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/HeavyBot/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2025.07.31-15.05.30:287][788]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.07.31-15.05.30:292][788]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-15.05.30:304][788]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.07.31-15.05.30:310][788]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.07.31-15.05.30:336][788]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.07.31-15.05.30:336][788]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.07.31-15.05.30:344][788]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.31-15.05.32:583][914]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18420003452699113523
+[2025.07.31-15.05.32:583][914]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.07.31-15.05.32:584][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: ================================================
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Total job queries 579, among them cache hits 40 (6.91%), DDC hits 146 (25.22%), Duplicates 3 (0.52%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Tracking 536 distinct input hashes that result in 383 distinct outputs (71.46%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: RAM used: 255.55 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Shaders Compiled: 390
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Jobs assigned 390, completed 390 (100%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Average time worker was idle: 115.33 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Time job spent in pending queue: average 3.42 s, longest 9.23 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.60 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Job life time (pending + execution): average 4.06 s, max 9.86
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Shader code size: average 8.439 KiB, min 2.379 KiB, max 26.703 KiB
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.23 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Jobs were issued in 390 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Average processing rate: 14.32 jobs/sec
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Total thread time: 136.166 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Total thread preprocess time: 6.603 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Percentage time preprocessing: 4.85%
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Effective parallelization: 5.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.42 sec, max 1.45 sec, min 1.39 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.13 sec, max 1.14 sec, min 1.13 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   59 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 0.70 sec, max 0.74 sec, min 0.57 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   12 times, average 0.42 sec, max 0.80 sec, min 0.24 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.71% of total time (compiled   59 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.59% of total time (compiled   62 times, average 0.34 sec, max 0.46 sec, min 0.20 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.40% of total time (compiled   74 times, average 0.23 sec, max 0.31 sec, min 0.16 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.49% of total time (compiled   65 times, average 0.24 sec, max 0.35 sec, min 0.17 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.04% of total time (compiled   65 times, average 0.21 sec, max 0.29 sec, min 0.15 sec)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: === Material stats ===
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Materials Translated:    202
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: Material Cache Hits: 23 (11%)
+[2025.07.31-15.05.42:379][665]LogShaderCompilers: Display: ================================================
+[2025.07.31-15.05.53:950][869]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-15.05.53:979][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump (Required Memory Estimate: 1.35 MB)
+[2025.07.31-15.05.53:980][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop (Required Memory Estimate: 4.42 MB)
+[2025.07.31-15.05.53:981][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start (Required Memory Estimate: 2.99 MB)
+[2025.07.31-15.05.53:983][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle (Required Memory Estimate: 16.27 MB)
+[2025.07.31-15.05.53:985][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun (Required Memory Estimate: 3.80 MB)
+[2025.07.31-15.05.53:989][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump, at AnimationSequence/7d6f73ccd7c9a8d85a5a776496d554bfde728808
+[2025.07.31-15.05.53:989][869]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/HeavyBot/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk (Required Memory Estimate: 6.26 MB)
+[2025.07.31-15.05.53:993][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start, at AnimationSequence/9b1ef13ded1e41d852bb66d0f38f527a8e34109d
+[2025.07.31-15.05.53:997][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop, at AnimationSequence/324206c7dd209faa499ec85466f630fb094f4814
+[2025.07.31-15.05.53:999][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun, at AnimationSequence/b959806bed37318fae735a26f3b196d6e1f25c77
+[2025.07.31-15.05.54:012][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk, at AnimationSequence/75bcabed5db73d788d8e044f656e6207f51a32da
+[2025.07.31-15.05.54:024][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/HeavyBot/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle, at AnimationSequence/6c74f40ae934b16f06e1ea12362669e26da3f2be
+[2025.07.31-15.05.54:043][869]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.07.31-15.05.54:125][870]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.07.31-15.05.54:173][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.07.31-15.05.54:518][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.05.54:544][899]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.05.54:547][899]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.05.54:547][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.05.54:553][899]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.05.54:553][899]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowd0B8948564508054F7AB599B9A18B0F84.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.05.54:563][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.928 ms (total: 5.07 sec)
+[2025.07.31-15.05.54:593][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.05.54:593][899]LogContentValidation: Enabled validators:
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.05.54:593][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.05.54:594][899]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.05.56:320][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.31-15.05.56:724][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.05.56:761][ 68]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.05.56:786][ 68]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.05.56:786][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.05.56:792][ 68]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.05.56:792][ 68]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowd83FDCE274BCF65E808B698BED74D78BF.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.05.56:800][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.023 ms (total: 5.14 sec)
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: Enabled validators:
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.05.56:837][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.05.56:838][ 68]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.06.05:343][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd_C
+[2025.07.31-15.06.05:343][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd_C
+[2025.07.31-15.06.05:344][869]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd as actor: BP_HumanCrowd_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_HumanCrowd_C_0
+[2025.07.31-15.06.05:346][869]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd as actor: BP_HumanCrowd_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_HumanCrowd_C_0
+[2025.07.31-15.06.06:188][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.31-15.06.06:191][914]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-15.06.06:197][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd_C
+[2025.07.31-15.06.06:197][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd_C
+[2025.07.31-15.06.06:200][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd as actor: BP_HumanCrowd_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_HumanCrowd_C_UAID_BCFCE753AF45E38002_1840100621
+[2025.07.31-15.06.06:203][914]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd as actor: BP_HumanCrowd_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_HumanCrowd_C_UAID_BCFCE753AF45E38002_1840100621
+[2025.07.31-15.06.19:098][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.06.19:147][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.06.19:167][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.31-15.06.19:186][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.31-15.06.19:187][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/H7/CFNF07I777AA0POW8MZ4VW
+[2025.07.31-15.06.19:187][309]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/CFNF07I777AA0POW8MZ4VWD088F2CE4BC81FA3966C508B997E06F2.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/C/H7/CFNF07I777AA0POW8MZ4VW.uasset'
+[2025.07.31-15.06.19:190][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/LK/GNE124RD2LSB2CVL7GV2M7
+[2025.07.31-15.06.19:190][309]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/GNE124RD2LSB2CVL7GV2M70293E10A4A73B774EF71A28464B54439.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/C/LK/GNE124RD2LSB2CVL7GV2M7.uasset'
+[2025.07.31-15.06.19:198][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.574 ms (total: 5.24 sec)
+[2025.07.31-15.06.19:235][309]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.31-15.06.19:235][309]LogContentValidation: Enabled validators:
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.06.19:235][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.06.19:235][309]AssetCheck: /Game/FirstPerson/Maps/TestGround Validating asset
+[2025.07.31-15.06.22:005][626]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.07.31-15.06.22:005][626]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.07.31-15.06.31:693][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.06.31:743][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.06.31:758][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.31-15.06.31:774][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.31-15.06.31:775][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/H7/CFNF07I777AA0POW8MZ4VW
+[2025.07.31-15.06.31:775][755]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/CFNF07I777AA0POW8MZ4VW4E07D6514AB7F21C43D34CB863478306.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/C/H7/CFNF07I777AA0POW8MZ4VW.uasset'
+[2025.07.31-15.06.31:785][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.853 ms (total: 5.33 sec)
+[2025.07.31-15.06.31:819][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.06.31:819][755]LogContentValidation: Enabled validators:
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.06.31:819][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.06.31:819][755]AssetCheck: /Game/FirstPerson/Maps/TestGround Validating asset
+[2025.07.31-15.06.36:849][949]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.07.31-15.06.36:853][949]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.31-15.06.36:853][949]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.07.31-15.06.36:854][949]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.139 ms (total: 12.490 ms)
+[2025.07.31-15.06.36:865][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-15.06.36:865][949]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.07.31-15.06.36:867][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002227s)
+[2025.07.31-15.06.36:867][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002251s)
+[2025.07.31-15.06.36:879][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.06.36:881][949]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.07.31-15.06.36:882][949]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.31-15.06.36:882][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.31-15.06.36:882][949]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.31-15.06.36:882][949]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.31-15.06.36:883][949]LogWorldPartition: Display: WorldPartition initialize took 819 us (total: 265.699 ms)
+[2025.07.31-15.06.36:883][949]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2025.07.31-15.06.36:883][949]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-15.06.36:883][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.31-15.06.36:883][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-15.06.36:883][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-15.06.36:883][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-15.06.36:883][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-15.06.36:886][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-15.06.36:904][949]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.07.31-15.06.36:904][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-15.06.36:904][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-15.06.36:904][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-15.06.36:905][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.07.31-15.06.36:905][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.07.31-15.06.36:906][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.07.31-15.06.36:906][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.07.31-15.06.36:906][949]LogInit: FAudioDevice initialized with ID 13.
+[2025.07.31-15.06.36:906][949]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestGround'.
+[2025.07.31-15.06.36:906][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.31-15.06.36:935][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-15.06.36:935][949]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.31-15.06.36:937][949]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.07.31-23.06.36
+[2025.07.31-15.06.36:937][949]LogWorld: Bringing up level for play took: 0.001000
+[2025.07.31-15.06.36:939][949]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.07.31-15.06.36:945][949]PIE: Server logged in
+[2025.07.31-15.06.36:947][949]PIE: Play in editor total start time 0.095 seconds.
+[2025.07.31-15.06.42:048][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-15.06.42:048][310]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.07.31-15.06.42:049][310]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.07.31-15.06.42:066][310]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-15.06.42:066][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.06.42:066][310]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.07.31-15.06.42:080][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-15.06.42:082][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.06.42:097][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.31-15.06.42:097][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.31-15.06.42:099][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.31-15.06.42:103][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.31-15.06.42:139][311]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.07.31-15.06.51:026][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.06.51:062][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.06.51:089][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.06.51:089][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.06.51:095][153]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.06.51:095][153]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowd06C47E144138593138CE5191296FA1E1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.06.51:104][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.557 ms (total: 5.41 sec)
+[2025.07.31-15.06.51:137][153]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.06.51:137][153]LogContentValidation: Enabled validators:
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.06.51:137][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.06.51:137][153]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.06.51:764][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.31-15.06.55:609][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4045.208496
+[2025.07.31-15.06.55:977][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.06.55:977][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4045.567139, Update Interval: 304.839630
+[2025.07.31-15.10.19:719][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.10.19:750][239]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.10.19:777][239]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.10.19:777][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.10.19:783][239]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.10.19:783][239]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowd829FD2AC4B2AA9F233D14DB544A2AEE5.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.10.19:790][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.713 ms (total: 5.48 sec)
+[2025.07.31-15.10.19:826][239]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.10.19:826][239]LogContentValidation: Enabled validators:
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.10.19:826][239]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.10.19:826][239]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.10.26:308][911]Cmd: DELETE
+[2025.07.31-15.10.26:308][911]Cmd: ACTOR DELETE
+[2025.07.31-15.10.26:311][911]LogEditorActor: Actor BP_Car_Track2 is referenced by BP_HumanCrowd.
+[2025.07.31-15.10.28:960][911]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.07.31-15.10.28:971][911]LogEditorActor: Deleted Actor: BP_Car_Track_C
+[2025.07.31-15.10.28:990][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.31-15.10.28:992][911]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.07.31-15.10.29:020][911]LogAutomationController: Ignoring very large delta of 2.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-15.11.41:469][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.31-15.11.41:867][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.11.41:899][260]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd] ([2] browsable assets)...
+[2025.07.31-15.11.41:925][260]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd]
+[2025.07.31-15.11.41:925][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd]
+[2025.07.31-15.11.41:928][260]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd
+[2025.07.31-15.11.41:928][260]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCrowd79F76707412866A5B94865BCEEC5AE56.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.uasset'
+[2025.07.31-15.11.41:935][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.233 ms (total: 5.55 sec)
+[2025.07.31-15.11.41:967][260]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.11.41:967][260]LogContentValidation: Enabled validators:
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.11.41:967][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.11.41:967][260]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd Validating asset
+[2025.07.31-15.11.47:598][780]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-15.11.47:598][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.11.47:655][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.31-15.11.52:255][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.31-15.11.54:115][247]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.31-15.11.54:221][247]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.31-15.11.54:221][247]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-15.11.54:221][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.11.54:261][247]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-15.11.54:262][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.11.54:275][247]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/Station_Bravo/Blueprints/BP_HumanCrowd.BP_HumanCrowd
+	Asset Type: Blueprint
+[2025.07.31-15.11.54:453][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.31-15.11.54:507][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.31-15.11.54:521][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.31-15.11.54:537][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.31-15.11.54:557][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.31-15.11.54:569][247]LogAutomationController: Ignoring very large delta of 2.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-15.12.20:137][346]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.31-15.12.20:137][346]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.31-15.12.20:138][346]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.NavMeshBoundsVolume_0
+[2025.07.31-15.12.20:142][346]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.NavMeshBoundsVolume_0
+[2025.07.31-15.12.20:551][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-15.12.20:553][373]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.07.31-15.12.20:560][373]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.31-15.12.20:561][373]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2025.07.31-15.12.20:562][373]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.NavMeshBoundsVolume_UAID_BCFCE753AF45E48002_1140721799
+[2025.07.31-15.12.20:562][373]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.NavMeshBoundsVolume_UAID_BCFCE753AF45E48002_1140721799
+[2025.07.31-15.12.32:367][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4381.988770
+[2025.07.31-15.12.32:733][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.12.32:733][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4382.347168, Update Interval: 344.713898
+[2025.07.31-15.12.37:438][176]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.07.31-15.12.37:950][235]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.07.31-15.12.38:452][293]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.07.31-15.12.39:937][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.12.39:984][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.12.40:000][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.31-15.12.40:015][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.31-15.12.40:018][451]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/J8/QFWME8J99HENDONS8YQO6C
+[2025.07.31-15.12.40:018][451]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/QFWME8J99HENDONS8YQO6CFA70CC554AD63D3CF1F6E5AB5354E1FD.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/B/J8/QFWME8J99HENDONS8YQO6C.uasset'
+[2025.07.31-15.12.40:019][451]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/BK/KWIR5BDLOJX3N98JJOFQ5O
+[2025.07.31-15.12.40:019][451]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/KWIR5BDLOJX3N98JJOFQ5O69AEECDF47D3313E830C918F2C6525DF.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/C/BK/KWIR5BDLOJX3N98JJOFQ5O.uasset'
+[2025.07.31-15.12.40:021][451]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/LQ/H97HVBLKNZRI9EEOGDD1EX
+[2025.07.31-15.12.40:021][451]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/H97HVBLKNZRI9EEOGDD1EX036601B24249956D23768286D75733F9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/E/LQ/H97HVBLKNZRI9EEOGDD1EX.uasset'
+[2025.07.31-15.12.40:039][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.965 ms (total: 5.65 sec)
+[2025.07.31-15.12.40:072][451]LogContentValidation: Display: Starting to validate 3 assets
+[2025.07.31-15.12.40:072][451]LogContentValidation: Enabled validators:
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.12.40:072][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.12.40:072][451]AssetCheck: /Game/FirstPerson/Maps/TestGround Validating asset
+[2025.07.31-15.12.40:080][451]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2025.07.31-15.13.39:543][764]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.31-15.13.39:555][764]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.31-15.13.39:562][764]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.31-15.13.39:573][765]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.31-15.13.48:151][788]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Human
+[2025.07.31-15.13.48:157][788]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.31-15.13.54:800][268]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.31-15.13.54:821][268]LogAutomationController: Ignoring very large delta of 2.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-15.14.00:100][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.31-15.14.00:916][880]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.31-15.14.00:943][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.14.00:958][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.31-15.14.00:972][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.31-15.14.03:024][  7]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.31-15.14.03:052][  7]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.31-15.14.03:057][  7]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.31-15.14.03:068][  8]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.31-15.14.07:553][541]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Human
+[2025.07.31-15.14.07:557][541]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.31-15.14.08:865][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human
+[2025.07.31-15.14.08:865][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: ================================================
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Total job queries 582, among them cache hits 41 (7.04%), DDC hits 146 (25.09%), Duplicates 3 (0.52%)
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Tracking 538 distinct input hashes that result in 384 distinct outputs (71.38%)
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: RAM used: 255.87 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Shaders Compiled: 392
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Jobs assigned 392, completed 392 (100%)
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Average time worker was idle: 116.89 s
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Time job spent in pending queue: average 3.40 s, longest 9.23 s
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.60 s
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Job life time (pending + execution): average 4.04 s, max 9.86
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Shader code size: average 8.444 KiB, min 2.379 KiB, max 26.703 KiB
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.12 s
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Jobs were issued in 392 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.31-15.14.42:927][ 32]LogShaderCompilers: Display: Average processing rate: 13.94 jobs/sec
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Total thread time: 136.634 s
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Total thread preprocess time: 6.633 s
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Percentage time preprocessing: 4.85%
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Effective parallelization: 4.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.42 sec, max 1.45 sec, min 1.39 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.13 sec, max 1.14 sec, min 1.13 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   59 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 0.70 sec, max 0.74 sec, min 0.57 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   12 times, average 0.42 sec, max 0.80 sec, min 0.24 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.60% of total time (compiled   59 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.74% of total time (compiled   63 times, average 0.34 sec, max 0.46 sec, min 0.20 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.50% of total time (compiled   75 times, average 0.23 sec, max 0.31 sec, min 0.16 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.45% of total time (compiled   65 times, average 0.24 sec, max 0.35 sec, min 0.17 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.01% of total time (compiled   65 times, average 0.21 sec, max 0.29 sec, min 0.15 sec)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: === Material stats ===
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Materials Translated:    202
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: Material Cache Hits: 23 (11%)
+[2025.07.31-15.14.42:928][ 32]LogShaderCompilers: Display: ================================================
+[2025.07.31-15.14.48:163][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.14.48:198][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.14.48:198][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.14.48:198][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.14.48:200][258]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.14.48:200][258]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human7F38EB9A4D7CD99B9899CE970039F8D2.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.14.48:210][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.368 ms (total: 5.70 sec)
+[2025.07.31-15.14.48:247][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.14.48:248][258]LogContentValidation: Enabled validators:
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.14.48:248][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.14.48:248][258]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.14.51:464][532]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.07.31-15.14.52:659][634]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.07.31-15.15.02:875][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.02:907][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.02:913][504]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.02:913][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.07.31-15.15.02:923][504]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C]
+[2025.07.31-15.15.02:923][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.02:923][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.02:924][504]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.02:925][504]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human1EECBCF34176AF494FD8479D2A18B910.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.02:932][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.546 ms (total: 5.76 sec)
+[2025.07.31-15.15.02:970][504]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.02:970][504]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.02:970][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.02:970][504]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.03:787][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.31-15.15.04:205][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.04:242][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.04:266][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.04:266][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.04:266][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.04:268][583]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.04:268][583]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanC4CFC4F44944B73968999995DBD7D7EE.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.04:275][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.261 ms (total: 5.83 sec)
+[2025.07.31-15.15.04:311][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.04:311][583]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.04:311][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.04:311][583]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.13:357][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.13:390][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.13:390][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.13:390][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.13:392][480]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.13:392][480]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human375961CE46301FDCEC9E848DB983E370.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.13:399][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.758 ms (total: 5.87 sec)
+[2025.07.31-15.15.13:431][480]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.13:431][480]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.13:431][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.13:431][480]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.15:416][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.15:447][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.15:447][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.15:447][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.15:449][702]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.15:449][702]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human407E8172450F64A4F85DC785FF204A29.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.15:457][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.249 ms (total: 5.91 sec)
+[2025.07.31-15.15.15:492][702]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.15:492][702]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.15:492][702]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.15:492][702]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.37:248][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.37:284][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.37:312][111]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.37:312][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.37:312][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.37:314][111]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.37:314][111]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human3F500DEE42571B028E4D74BFD17B429A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.37:323][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.029 ms (total: 5.98 sec)
+[2025.07.31-15.15.37:358][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.37:358][111]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.37:358][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.37:358][111]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.41:714][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.41:748][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.41:772][584]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.41:772][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.41:772][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.41:775][584]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.41:775][584]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human62DF0A38495612543CD0CDA5465111A1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.41:782][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.021 ms (total: 6.05 sec)
+[2025.07.31-15.15.41:809][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.41:809][584]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.41:809][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.41:809][584]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.42:557][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.31-15.15.42:962][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.42:995][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.43:022][698]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.43:022][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.43:022][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.43:024][698]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.43:024][698]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanEB161AC24647B91C651868BC31694C6F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.43:033][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.830 ms (total: 6.12 sec)
+[2025.07.31-15.15.43:067][698]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.43:067][698]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.43:067][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.43:067][698]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.15.57:468][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.15.57:500][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.15.57:524][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.15.57:525][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.15.57:525][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.15.57:527][325]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.15.57:527][325]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human30B6A41A49429BA5EF75118662D39A83.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.15.57:535][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.426 ms (total: 6.19 sec)
+[2025.07.31-15.15.57:568][325]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.15.57:568][325]LogContentValidation: Enabled validators:
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.15.57:568][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.15.57:568][325]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.16.09:881][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.16.09:908][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.16.09:934][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.16.09:934][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.16.09:934][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.16.09:937][566]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.16.09:937][566]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human85DC049740CA2286BC9172B98D972189.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.16.09:946][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.307 ms (total: 6.25 sec)
+[2025.07.31-15.16.09:975][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.16.09:975][566]LogContentValidation: Enabled validators:
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.16.09:975][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.16.09:975][566]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.16.10:808][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.31-15.16.11:201][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.16.11:228][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.16.11:252][687]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.16.11:252][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.16.11:252][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.16.11:255][687]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.16.11:256][687]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanF65ABE4D4B83BB6D544313B5D75D7FE7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.16.11:263][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.557 ms (total: 6.32 sec)
+[2025.07.31-15.16.11:298][687]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.16.11:298][687]LogContentValidation: Enabled validators:
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.16.11:298][687]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.16.11:299][687]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.16.47:011][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.16.47:045][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.16.47:071][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.16.47:072][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.16.47:072][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.16.47:075][142]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.16.47:076][142]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanDA101E4D4390F307724CF6BE46090C09.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.16.47:083][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.014 ms (total: 6.39 sec)
+[2025.07.31-15.16.47:120][142]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.16.47:120][142]LogContentValidation: Enabled validators:
+[2025.07.31-15.16.47:120][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.16.47:121][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.16.47:121][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.16.47:121][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.16.47:121][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.16.47:121][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.16.47:121][142]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.17.09:166][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.17.09:198][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.17.09:225][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.17.09:225][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.17.09:225][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.17.09:228][126]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.17.09:229][126]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human2B7CDA394868D9635400638A5A070E7D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.17.09:236][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.208 ms (total: 6.46 sec)
+[2025.07.31-15.17.09:268][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.17.09:268][126]LogContentValidation: Enabled validators:
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.17.09:268][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.17.09:268][126]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.17.42:041][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.17.42:076][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.17.42:102][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.17.42:102][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.17.42:102][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.17.42:106][860]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.17.42:106][860]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human5F544A0E4B7234829E9E549D07D622F0.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.17.42:115][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.216 ms (total: 6.53 sec)
+[2025.07.31-15.17.42:151][860]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.17.42:151][860]LogContentValidation: Enabled validators:
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.17.42:151][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.17.42:151][860]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.17.43:330][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.31-15.17.43:712][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.17.43:743][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.17.43:767][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.07.31-15.17.43:767][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.17.43:767][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.17.43:772][ 12]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.17.43:772][ 12]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human31379B1B4E2F70563F4A1CA0165CA335.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.17.43:780][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.464 ms (total: 6.60 sec)
+[2025.07.31-15.17.43:818][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: Enabled validators:
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.17.43:819][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.17.43:819][ 12]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.17.45:574][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C
+[2025.07.31-15.17.45:574][191]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C
+[2025.07.31-15.17.45:576][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human as actor: BP_Human_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_Human_C_0
+[2025.07.31-15.17.45:576][191]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human as actor: BP_Human_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_Human_C_0
+[2025.07.31-15.17.46:186][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.31-15.17.46:204][243]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.07.31-15.17.46:212][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C
+[2025.07.31-15.17.46:212][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C
+[2025.07.31-15.17.46:216][243]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human as actor: BP_Human_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_Human_C_UAID_BCFCE753AF45E48002_1466373801
+[2025.07.31-15.17.46:217][243]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human as actor: BP_Human_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_Human_C_UAID_BCFCE753AF45E48002_1466373801
+[2025.07.31-15.17.47:285][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.17.47:316][352]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/8/K3/0BVA57PI1EY1HFQQK75Y45
+[2025.07.31-15.17.47:316][352]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/0BVA57PI1EY1HFQQK75Y45F74A4130433F8E658ABED1A8E0C62EC1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/8/K3/0BVA57PI1EY1HFQQK75Y45.uasset'
+[2025.07.31-15.17.47:324][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.540 ms (total: 6.64 sec)
+[2025.07.31-15.17.47:357][352]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.17.47:357][352]LogContentValidation: Enabled validators:
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.17.47:357][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.17.47:357][352]AssetCheck: /Game/FirstPerson/Maps/TestGround Validating asset
+[2025.07.31-15.17.47:897][411]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.07.31-15.17.47:900][411]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.31-15.17.47:900][411]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.07.31-15.17.47:901][411]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.148 ms (total: 13.639 ms)
+[2025.07.31-15.17.47:901][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-15.17.47:902][411]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.07.31-15.17.47:904][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002822s)
+[2025.07.31-15.17.47:904][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002843s)
+[2025.07.31-15.17.47:916][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.31-15.17.47:918][411]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.07.31-15.17.47:919][411]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.31-15.17.47:919][411]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.31-15.17.47:919][411]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.31-15.17.47:919][411]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.31-15.17.47:920][411]LogWorldPartition: Display: WorldPartition initialize took 879 us (total: 266.579 ms)
+[2025.07.31-15.17.47:920][411]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2025.07.31-15.17.47:921][411]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-15.17.47:921][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.07.31-15.17.47:921][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-15.17.47:921][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-15.17.47:921][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-15.17.47:921][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-15.17.47:923][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-15.17.47:940][411]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.07.31-15.17.47:940][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-15.17.47:940][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-15.17.47:940][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-15.17.47:941][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.07.31-15.17.47:941][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.07.31-15.17.47:942][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.07.31-15.17.47:942][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.07.31-15.17.47:942][411]LogInit: FAudioDevice initialized with ID 14.
+[2025.07.31-15.17.47:942][411]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestGround'.
+[2025.07.31-15.17.47:942][411]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.31-15.17.47:976][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-15.17.47:976][411]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.31-15.17.47:978][411]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.07.31-23.17.47
+[2025.07.31-15.17.47:982][411]LogWorld: Bringing up level for play took: 0.005011
+[2025.07.31-15.17.47:984][411]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.07.31-15.17.47:993][411]PIE: Server logged in
+[2025.07.31-15.17.47:994][411]PIE: Play in editor total start time 0.094 seconds.
+[2025.07.31-15.17.51:641][673]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.07.31-15.17.55:351][945]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.07.31-15.17.58:842][203]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.07.31-15.18.02:698][485]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.07.31-15.18.04:117][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-15.18.04:117][586]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.07.31-15.18.04:118][586]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.07.31-15.18.04:132][586]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-15.18.04:132][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.18.04:132][586]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.07.31-15.18.04:134][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-15.18.04:136][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-15.18.04:151][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.31-15.18.04:152][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.31-15.18.04:153][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.31-15.18.04:160][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.31-15.18.04:185][587]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.07.31-15.18.05:418][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.18.05:453][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.18.05:453][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.18.05:453][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.18.05:456][730]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.18.05:456][730]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanD8EC9EAE484EA6587D50959E33E030BB.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.18.05:464][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.851 ms (total: 6.69 sec)
+[2025.07.31-15.18.05:501][730]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.18.05:501][730]LogContentValidation: Enabled validators:
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.18.05:501][730]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.18.05:501][730]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.18.20:083][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-15.18.20:105][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.07.31-15.18.20:105][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.07.31-15.18.20:106][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.07.31-15.18.20:111][357]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.07.31-15.18.20:111][357]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanB92A8D414740C4B7FB85E6B61E4082D3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.07.31-15.18.20:118][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.040 ms (total: 6.72 sec)
+[2025.07.31-15.18.20:153][357]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-15.18.20:153][357]LogContentValidation: Enabled validators:
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-15.18.20:153][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-15.18.20:153][357]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.07.31-15.18.49:410][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4759.017090
+[2025.07.31-15.18.50:743][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.18.50:743][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4760.017090, Update Interval: 312.030396
