@@ -24470,3 +24470,535 @@ Make sure '/Game/Blueprint/UI/WB_DragBackground.WB_DragBackground_C' has been co
 [2025.08.01-09.36.24:933][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70924.273438
 [2025.08.01-09.36.26:600][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.01-09.36.26:600][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70925.609375, Update Interval: 341.143219
+[2025.08.01-09.38.32:714][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.38.32:766][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.08.01-09.38.32:787][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.01-09.38.32:806][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.01-09.38.32:823][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.770 ms (total: 38.1 sec)
+[2025.08.01-09.38.43:332][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.08.01-09.38.43:333][944]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_463
+[2025.08.01-09.38.43:362][944]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.01-09.38.43:362][944]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-09.38.43:362][944]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-09.38.43:362][944]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-09.38.43:362][944]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-09.38.50:760][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.01-09.38.51:426][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.38.51:468][484]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.38.51:491][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.38.51:491][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.38.51:498][484]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.38.51:498][484]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter5B74CA3C454CC0D02C45DBACA0415724.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.38.51:510][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.634 ms (total: 38.2 sec)
+[2025.08.01-09.38.51:550][484]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.38.51:550][484]LogContentValidation: Enabled validators:
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.38.51:550][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.38.51:551][484]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.39.18:249][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.39.18:289][808]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.39.18:317][808]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.39.18:317][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.39.18:324][808]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.39.18:324][808]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter9FAB58324BB1461DA3CA7BA30745511C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.39.18:335][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.853 ms (total: 38.3 sec)
+[2025.08.01-09.39.18:378][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.39.18:378][808]LogContentValidation: Enabled validators:
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.39.18:378][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.39.18:378][808]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.39.18:588][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.01-09.39.19:300][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.39.19:337][848]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.39.19:364][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.39.19:364][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.39.19:371][848]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.39.19:371][848]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter05310E814CDDDB8CF5CD938921F1A4CB.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.39.19:382][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.273 ms (total: 38.3 sec)
+[2025.08.01-09.39.19:420][848]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.39.19:420][848]LogContentValidation: Enabled validators:
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.39.19:420][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.39.19:420][848]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.39.23:580][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.39.23:613][188]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.39.23:638][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.39.23:638][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.39.23:644][188]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.39.23:644][188]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter0042744D401E626AD3A5C2B24CA38A7A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.39.23:656][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.197 ms (total: 38.4 sec)
+[2025.08.01-09.39.23:695][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.39.23:695][188]LogContentValidation: Enabled validators:
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.39.23:695][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.39.23:695][188]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.39.32:664][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.39.32:708][916]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.39.32:735][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.39.32:735][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.39.32:741][916]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.39.32:741][916]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter8BB592694D092FF259CD85AACA5E26E3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.39.32:752][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.361 ms (total: 38.5 sec)
+[2025.08.01-09.39.32:798][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.39.32:798][916]LogContentValidation: Enabled validators:
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.39.32:798][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.39.32:798][916]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.39.38:360][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.01-09.39.39:075][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.39.39:115][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.39.39:141][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.39.39:141][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.39.39:148][404]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.39.39:148][404]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter6EDDB4024F1BDE0541DA568AF4BB3679.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.39.39:159][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.019 ms (total: 38.6 sec)
+[2025.08.01-09.39.39:193][404]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.39.39:193][404]LogContentValidation: Enabled validators:
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.39.39:193][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.39.39:194][404]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.40.23:626][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.01-09.40.24:377][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.40.24:413][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.40.24:437][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.40.24:437][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.40.24:443][164]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.40.24:443][164]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter5E5E44E844E23795319363BC5E9122D3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.40.24:457][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.775 ms (total: 38.7 sec)
+[2025.08.01-09.40.24:495][164]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.40.24:495][164]LogContentValidation: Enabled validators:
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.40.24:495][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.40.24:495][164]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.40.30:532][602]LogClass: Warning: Type mismatch in Windows of BP_FirstPersonCharacter_C - Previous (ObjectProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.08.01-09.40.30:563][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.01-09.40.31:476][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.40.31:509][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.40.31:535][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.40.31:535][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.40.31:541][642]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.40.31:542][642]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacterCABEE1D0473EE95953F3F8B5EA922425.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.40.31:554][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.742 ms (total: 38.7 sec)
+[2025.08.01-09.40.31:592][642]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.40.31:592][642]LogContentValidation: Enabled validators:
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.40.31:592][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.40.31:592][642]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.41.34:861][884]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.08.01-09.42.01:583][ 18]LogStreaming: Display: FlushAsyncLoading(836): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.01-09.42.01:686][ 18]LogProperty: Warning: Serialized Class /Script/UMGEditor.WidgetBlueprint for a property of Class /Script/CoreUObject.Class. Reference will be nulled.
+    ReferencingObject = BP_FirstPersonCharacter_C /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.Default__BP_FirstPersonCharacter_C
+    Property = ClassProperty /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:Windows.Windows
+    Item = WidgetBlueprint /Game/Blueprint/UI/WB_Drag.WB_Drag
+[2025.08.01-09.42.01:686][ 18]LogProperty: Warning: Serialized Class /Script/UMGEditor.WidgetBlueprint for a property of Class /Script/CoreUObject.Class. Reference will be nulled.
+    ReferencingObject = BP_FirstPersonCharacter_C /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.Default__BP_FirstPersonCharacter_C
+    Property = ClassProperty /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:Windows.Windows
+    Item = WidgetBlueprint /Game/Blueprint/UI/WB_Drag1.WB_Drag1
+[2025.08.01-09.42.01:848][ 18]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_464
+[2025.08.01-09.42.01:995][ 21]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_465
+[2025.08.01-09.42.09:272][552]LogClass: Warning: Type mismatch in Windows of BP_FirstPersonCharacter_C - Previous (ArrayProperty) Current(ObjectProperty) in package: FObjectReader
+[2025.08.01-09.42.09:412][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.08.01-09.42.10:291][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.42.10:328][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.42.10:353][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.42.10:353][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.42.10:360][588]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.42.10:360][588]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter33B1D5C142A8B1800BF7A79E38B46B8E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.42.10:373][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.140 ms (total: 38.8 sec)
+[2025.08.01-09.42.10:412][588]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.42.10:412][588]LogContentValidation: Enabled validators:
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.42.10:412][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.42.10:412][588]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.42.14:136][724]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.08.01-09.42.14:509][724]LogAutomationController: Ignoring very large delta of 2.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.01-09.42.25:721][397]LogSlate: Window 'Create New Blueprint' being destroyed
+[2025.08.01-09.42.43:457][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71295.453125
+[2025.08.01-09.42.43:843][786]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.42.43:843][786]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71295.828125, Update Interval: 304.958649
+[2025.08.01-09.43.06:901][577]LogSlate: Window 'Create New Blueprint' being destroyed
+[2025.08.01-09.43.11:400][918]LogClass: Warning: Type mismatch in Windows of BP_FirstPersonCharacter_C - Previous (ObjectProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.08.01-09.43.11:539][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.01-09.43.12:409][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.43.12:449][945]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.43.12:474][945]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.43.12:474][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.43.12:480][945]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.43.12:482][945]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter1ADA90A34ACADFAA9B7552A191E927BB.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.43.12:493][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.912 ms (total: 38.9 sec)
+[2025.08.01-09.43.12:531][945]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.43.12:531][945]LogContentValidation: Enabled validators:
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.43.12:531][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.43.12:531][945]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.43.17:882][349]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.08.01-09.43.17:882][349]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.547e+07
+[2025.08.01-09.43.18:292][379]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.08.01-11.43.17 Remaining: 7200.34] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15468079.40] State: Valid
+[2025.08.01-09.43.29:836][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.43.29:879][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_MainView] ([2] browsable assets)...
+[2025.08.01-09.43.29:880][134]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_MainView.WB_MainView]
+[2025.08.01-09.43.29:880][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_MainView]
+[2025.08.01-09.43.29:880][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_MainView" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_MainView.uasset" SILENT=true
+[2025.08.01-09.43.29:892][134]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_MainView
+[2025.08.01-09.43.29:892][134]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_MainViewE1D44D54406D2A93729E45A200B0FD75.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_MainView.uasset'
+[2025.08.01-09.43.29:906][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.082 ms (total: 39.0 sec)
+[2025.08.01-09.43.29:948][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.43.29:948][134]LogContentValidation: Enabled validators:
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.43.29:948][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.43.29:948][134]AssetCheck: /Game/Blueprint/UI/WB_MainView Validating asset
+[2025.08.01-09.43.30:441][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.01-09.43.52:349][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.43.52:388][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_WindowTrigger] ([2] browsable assets)...
+[2025.08.01-09.43.52:388][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_WindowTrigger]
+[2025.08.01-09.43.52:388][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_WindowTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_WindowTrigger.uasset" SILENT=true
+[2025.08.01-09.43.52:393][670]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_WindowTrigger
+[2025.08.01-09.43.52:393][670]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_WindowTrigger29D71E3B4FCFAD5687AC53A2946E6DF0.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_WindowTrigger.uasset'
+[2025.08.01-09.43.52:405][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.471 ms (total: 39.0 sec)
+[2025.08.01-09.43.52:449][670]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.43.52:449][670]LogContentValidation: Enabled validators:
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.43.52:449][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.43.52:450][670]AssetCheck: /Game/Blueprint/BluePrint/BP_WindowTrigger Validating asset
+[2025.08.01-09.44.06:272][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.06:310][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.06:337][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.06:337][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.06:344][655]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.06:344][655]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter6855A3E146805586C49C29A1D98C5B40.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.06:355][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.999 ms (total: 39.1 sec)
+[2025.08.01-09.44.06:393][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.06:393][655]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.06:393][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.06:393][655]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.16:451][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.16:488][405]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.16:515][405]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.16:515][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.16:522][405]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.16:523][405]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter21C517A54F0CBDBCCC06F7A75262917D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.16:534][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.083 ms (total: 39.2 sec)
+[2025.08.01-09.44.16:571][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.16:571][405]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.16:571][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.16:571][405]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.17:484][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.01-09.44.18:233][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.18:268][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.18:293][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.18:293][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.18:300][481]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.18:300][481]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter708BDD944C7EED2B8EEF558CD65921C4.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.18:312][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.550 ms (total: 39.3 sec)
+[2025.08.01-09.44.18:350][481]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.18:350][481]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.18:350][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.18:350][481]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.22:930][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.22:969][808]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.22:997][808]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.22:997][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.23:004][808]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.23:004][808]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter5C7D26FA421C38383B994BA6CA2A2DB9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.23:016][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.629 ms (total: 39.4 sec)
+[2025.08.01-09.44.23:054][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.23:054][808]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.23:054][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.23:054][808]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.35:106][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.35:146][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.35:174][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.35:174][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.35:182][783]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.35:182][783]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter87FD2655402E71DBDF1D398795CC3494.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.35:194][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.943 ms (total: 39.5 sec)
+[2025.08.01-09.44.35:229][783]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.35:229][783]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.35:229][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.35:229][783]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.36:492][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.01-09.44.37:215][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.44.37:255][899]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.44.37:280][899]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.44.37:280][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.44.37:287][899]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.44.37:287][899]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter1277785D4D6EF78B739251A967F117A2.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.44.37:299][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.702 ms (total: 39.5 sec)
+[2025.08.01-09.44.37:341][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.44.37:341][899]LogContentValidation: Enabled validators:
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.44.37:341][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.44.37:341][899]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.44.41:217][222]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.01-09.44.41:220][222]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-09.44.41:220][222]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.08.01-09.44.41:222][222]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.575 ms (total: 190.737 ms)
+[2025.08.01-09.44.41:223][222]LogPlayLevel: [PlayLevel] Compiling BP_WindowTrigger before play...
+[2025.08.01-09.44.41:369][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.01-09.44.41:376][222]LogPlayLevel: PlayLevel: Blueprint regeneration took 154 ms (1 blueprints)
+[2025.08.01-09.44.41:376][222]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-09.44.41:380][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002892s)
+[2025.08.01-09.44.41:380][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002917s)
+[2025.08.01-09.44.41:500][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.01-09.44.41:504][222]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.01-09.44.41:505][222]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-09.44.41:505][222]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-09.44.41:505][222]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-09.44.41:505][222]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-09.44.41:506][222]LogWorldPartition: Display: WorldPartition initialize took 1.053 ms (total: 391.594 ms)
+[2025.08.01-09.44.41:506][222]LogPlayLevel: PIE: World Init took: (0.002187s)
+[2025.08.01-09.44.41:507][222]LogAudio: Display: Creating Audio Device:                 Id: 136, Scope: Unique, Realtime: True
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-09.44.41:507][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.01-09.44.41:507][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-09.44.41:507][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-09.44.41:507][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-09.44.41:507][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-09.44.41:508][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-09.44.41:525][222]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.01-09.44.41:525][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-09.44.41:525][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-09.44.41:525][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-09.44.41:525][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=136
+[2025.08.01-09.44.41:525][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=136
+[2025.08.01-09.44.41:528][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=136
+[2025.08.01-09.44.41:528][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=136
+[2025.08.01-09.44.41:528][222]LogInit: FAudioDevice initialized with ID 136.
+[2025.08.01-09.44.41:528][222]LogAudio: Display: Audio Device (ID: 136) registered with world 'TestGround'.
+[2025.08.01-09.44.41:528][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 136
+[2025.08.01-09.44.41:567][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-09.44.41:567][222]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.01-09.44.41:568][222]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.08.01-17.44.41
+[2025.08.01-09.44.41:568][222]LogWorld: Bringing up level for play took: 0.001629
+[2025.08.01-09.44.41:571][222]LogOnline: OSS: Created online subsystem instance for: :Context_206
+[2025.08.01-09.44.41:578][222]PIE: Server logged in
+[2025.08.01-09.44.41:581][222]PIE: Play in editor total start time 0.36 seconds.
+[2025.08.01-09.44.44:968][437]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-09.44.49:600][754]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-09.44.53:771][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-09.44.53:771][ 39]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-09.44.53:772][ 39]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.01-09.44.53:793][ 39]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-09.44.53:793][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-09.44.53:793][ 39]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.08.01-09.44.53:797][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-09.44.53:799][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-09.44.53:920][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 136
+[2025.08.01-09.44.53:921][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2025.08.01-09.44.53:922][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=136
+[2025.08.01-09.44.53:928][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.01-09.44.54:032][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_206
+[2025.08.01-09.45.08:955][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.45.08:996][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.45.08:996][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.45.09:003][ 50]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.45.09:003][ 50]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter01D85380487E8F18C10BDAA0C79B8945.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.45.09:015][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.839 ms (total: 39.6 sec)
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: Enabled validators:
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.45.09:056][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.45.09:056][ 50]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.45.33:908][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.45.33:954][ 29]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.45.33:982][ 29]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.45.33:982][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.45.33:989][ 29]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.45.33:989][ 29]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacterE4AF5E91466025E44E2CB6BDFDD96134.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.45.34:004][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.531 ms (total: 39.7 sec)
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: Enabled validators:
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.45.34:048][ 29]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.45.34:048][ 29]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.45.35:436][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.01-09.45.36:249][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.45.36:289][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.45.36:313][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-09.45.36:313][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.45.36:321][152]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.45.36:321][152]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacterC0A41E414A3E7C5C801B26893CA0971D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.45.36:333][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.288 ms (total: 39.8 sec)
+[2025.08.01-09.45.36:375][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.45.36:375][152]LogContentValidation: Enabled validators:
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.45.36:375][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.45.36:375][152]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-09.45.36:940][197]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.01-09.45.36:944][197]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-09.45.36:944][197]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.08.01-09.45.36:945][197]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.367 ms (total: 192.105 ms)
+[2025.08.01-09.45.36:945][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-09.45.36:945][197]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-09.45.36:948][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002883s)
+[2025.08.01-09.45.36:948][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002904s)
+[2025.08.01-09.45.37:069][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.01-09.45.37:076][197]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.01-09.45.37:077][197]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-09.45.37:077][197]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-09.45.37:077][197]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-09.45.37:079][197]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-09.45.37:079][197]LogWorldPartition: Display: WorldPartition initialize took 1.022 ms (total: 392.616 ms)
+[2025.08.01-09.45.37:080][197]LogPlayLevel: PIE: World Init took: (0.002212s)
+[2025.08.01-09.45.37:080][197]LogAudio: Display: Creating Audio Device:                 Id: 137, Scope: Unique, Realtime: True
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-09.45.37:080][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.01-09.45.37:080][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-09.45.37:080][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-09.45.37:080][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-09.45.37:080][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-09.45.37:082][197]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-09.45.37:096][197]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.01-09.45.37:096][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-09.45.37:096][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-09.45.37:096][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-09.45.37:096][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=137
+[2025.08.01-09.45.37:096][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=137
+[2025.08.01-09.45.37:099][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=137
+[2025.08.01-09.45.37:099][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=137
+[2025.08.01-09.45.37:099][197]LogInit: FAudioDevice initialized with ID 137.
+[2025.08.01-09.45.37:099][197]LogAudio: Display: Audio Device (ID: 137) registered with world 'TestGround'.
+[2025.08.01-09.45.37:099][197]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 137
+[2025.08.01-09.45.37:133][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-09.45.37:134][197]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.01-09.45.37:135][197]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.08.01-17.45.37
+[2025.08.01-09.45.37:135][197]LogWorld: Bringing up level for play took: 0.001440
+[2025.08.01-09.45.37:137][197]LogOnline: OSS: Created online subsystem instance for: :Context_207
+[2025.08.01-09.45.37:144][197]PIE: Server logged in
+[2025.08.01-09.45.37:147][197]PIE: Play in editor total start time 0.204 seconds.
+[2025.08.01-09.45.40:356][407]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-09.45.44:991][724]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-09.45.49:457][ 31]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-09.45.49:457][ 31]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'PatrolPoint' of length 3 in '/Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human_C'!
+[2025.08.01-09.45.49:457][ 31]LogScript: Warning: Script Msg called by: BP_Human_C /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround:PersistentLevel.BP_Human_C_UAID_BCFCE753AF45E48002_1466373801
+[2025.08.01-09.45.49:457][ 31]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  AI MoveTo Graph:  EventGraph Function:  Execute Ubergraph BP Human Blueprint:  BP_Human
+[2025.08.01-09.45.52:201][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-09.45.52:201][216]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-09.45.52:203][216]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.01-09.45.52:235][216]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-09.45.52:235][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-09.45.52:235][216]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.08.01-09.45.52:238][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-09.45.52:241][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-09.45.52:362][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-09.45.52:362][216]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 137
+[2025.08.01-09.45.52:362][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=137
+[2025.08.01-09.45.52:365][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=137
+[2025.08.01-09.45.52:369][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.01-09.45.52:578][217]LogPlayLevel: Display: Destroying online subsystem :Context_207
+[2025.08.01-09.45.53:614][294]LogSlate: Window 'Message Log' being destroyed
+[2025.08.01-09.45.53:624][294]LogSlate: Window 'Message Log' being destroyed
+[2025.08.01-09.45.54:341][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-09.45.54:382][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-09.45.54:382][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-09.45.54:389][353]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-09.45.54:389][353]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacterA818684E469E4B17BF978F8E87EBE321.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-09.45.54:402][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.407 ms (total: 39.8 sec)
+[2025.08.01-09.45.54:445][353]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-09.45.54:445][353]LogContentValidation: Enabled validators:
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-09.45.54:445][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-09.45.54:445][353]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
