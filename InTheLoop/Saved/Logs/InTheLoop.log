@@ -6299,3 +6299,1333 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.07.31-15.39.23:691][288]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2025.07.31-15.39.23:691][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.07.31-15.39.23:748][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.31-15.43.25:435][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6234.969238
+[2025.07.31-15.43.26:768][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.43.26:768][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6235.968262, Update Interval: 318.300110
+[2025.07.31-15.49.30:584][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6600.126953
+[2025.07.31-15.49.33:585][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.49.33:585][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6602.794922, Update Interval: 343.082367
+[2025.07.31-15.56.07:971][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6997.524414
+[2025.07.31-15.56.09:305][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.56.09:306][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6998.523438, Update Interval: 305.048370
+[2025.07.31-15.58.03:321][359]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.07.31-15.58.03:322][359]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.553e+07
+[2025.07.31-15.58.04:655][363]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.07.31-17.58.03 Remaining: 7200.74] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15531993.40] State: Valid
+[2025.07.31-16.01.47:352][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7336.905762
+[2025.07.31-16.01.48:683][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.01.48:683][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7337.904785, Update Interval: 322.116150
+[2025.07.31-16.01.50:493][ 41]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-16.03.10:120][280]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.07.31-16.03.10:431][280]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.31-16.03.10:431][280]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.07.31-16.03.10:764][281]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.31-16.03.10:767][281]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{db3be477-e57e-48bb-a4c7-4acb81cdc6c1}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.38
+[2025.07.31-16.03.10:767][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.31-16.03.10:769][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.31-16.08.03:140][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7712.694336
+[2025.07.31-16.08.04:468][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.08.04:468][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7713.691406, Update Interval: 306.502258
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 0 (Found bundle for host: 0x453be840360 [serially])
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-16.12.50:509][ 20]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.31-16.12.50:509][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.07.31-16.12.50:509][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 5 (Closing connection)
+[2025.07.31-16.12.50:509][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-16.12.50:509][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.07.31-16.12.50:509][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 9 (  Trying 127.0.0.1:7890...)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 12 (allocate connect buffer)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 13 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 14 (CONNECT phase completed)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 17 (SSL reusing session ID)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 24 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 26 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 28 (Server certificate:)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 30 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 31 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 35 (using HTTP/1.1)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 37 (Closing connection)
+[2025.07.31-16.12.50:510][ 21]LogHttp: Warning: 000004542B1FF500: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-16.13.57:191][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8066.741211
+[2025.07.31-16.13.58:522][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.13.58:522][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8067.742188, Update Interval: 352.016357
+[2025.07.31-16.20.48:911][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8478.449219
+[2025.07.31-16.20.50:242][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.20.50:242][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8479.449219, Update Interval: 323.110443
+[2025.07.31-16.27.07:634][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8857.178711
+[2025.07.31-16.27.08:964][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.27.08:964][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8858.177734, Update Interval: 320.198975
+[2025.07.31-16.33.20:349][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9229.899414
+[2025.07.31-16.33.21:682][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.33.21:682][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9230.900391, Update Interval: 304.947662
+[2025.07.31-16.39.22:070][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9591.622070
+[2025.07.31-16.39.23:399][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.39.23:399][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9592.618164, Update Interval: 349.090240
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: request failed, libcurl error: 0 (No error)
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 0 (Found bundle for host: 0x454328804b0 [serially])
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 3 (Closing connection)
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-16.40.21:407][972]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.07.31-16.40.21:407][973]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.07.31-16.40.21:740][973]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 9d6...7a2
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 0 (  Trying 127.0.0.1:7890...)
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 1 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 2 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 3 (allocate connect buffer)
+[2025.07.31-16.40.33:743][  9]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 4 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 5 (CONNECT phase completed)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 6 (CONNECT tunnel established, response 200)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 7 (ALPN: curl offers http/1.1)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 8 (SSL reusing session ID)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-16.40.33:743][ 10]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 11 (Closing connection)
+[2025.07.31-16.40.34:080][ 10]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.31-16.46.02:464][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9991.991211
+[2025.07.31-16.46.03:794][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.46.03:794][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9992.986328, Update Interval: 303.431488
+[2025.07.31-16.50.50:164][858]LogEOSSDK: Warning: LogHttp: 0000045434094200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-16.50.50:164][858]LogEOSSDK: Warning: LogHttp: 0000045434094200: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-16.50.50:164][858]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 0 (Found bundle for host: 0x454328807b0 [serially])
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 5 (Closing connection)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 9 (Found bundle for host: 0x454328807b0 [serially])
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 10 (Connection #14 isn't open enough, can't reuse)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 11 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 12 (  Trying 127.0.0.1:7890...)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 13 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 14 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 15 (allocate connect buffer)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 16 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 17 (CONNECT phase completed)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 18 (CONNECT tunnel established, response 200)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 19 (ALPN: curl offers http/1.1)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 20 (SSL reusing session ID)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 21 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 22 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: 0000045434094200: libcurl info message cache 23 (Closing connection)
+[2025.07.31-16.50.50:164][859]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 0 (Found bundle for host: 0x454328807b0 [serially])
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 4 (allocate connect buffer)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 6 (CONNECT phase completed)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.07.31-16.50.50:830][860]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 9 (SSL reusing session ID)
+[2025.07.31-16.50.50:830][861]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-16.50.50:830][861]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-16.50.50:830][861]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 12 (Closing connection)
+[2025.07.31-16.50.50:830][861]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.07.31-16.50.50:830][861]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.07.31-16.50.51:165][861]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 9d6...7a2
+[2025.07.31-16.52.03:512][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10353.038086
+[2025.07.31-16.52.04:841][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.52.04:841][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10354.035156, Update Interval: 327.741333
+[2025.07.31-16.58.10:568][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10720.092773
+[2025.07.31-16.58.11:897][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.58.11:898][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10721.088867, Update Interval: 336.827301
+[2025.07.31-17.01.50:493][839]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.088 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-17.04.34:292][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11103.806641
+[2025.07.31-17.04.35:292][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.04.35:292][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11104.476562, Update Interval: 331.526245
+[2025.07.31-17.10.49:689][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11479.200195
+[2025.07.31-17.10.51:023][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.10.51:023][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11480.199219, Update Interval: 342.406677
+[2025.07.31-17.17.18:087][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11867.592773
+[2025.07.31-17.17.19:422][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.17.19:422][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11868.595703, Update Interval: 326.609711
+[2025.07.31-17.23.32:826][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12242.319336
+[2025.07.31-17.23.34:159][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.23.34:159][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12243.317383, Update Interval: 351.868042
+[2025.07.31-17.30.24:895][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12654.385742
+[2025.07.31-17.30.26:225][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.30.26:225][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12655.384766, Update Interval: 323.641479
+[2025.07.31-17.36.32:955][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13022.459961
+[2025.07.31-17.36.34:293][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.36.34:293][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13023.463867, Update Interval: 329.354523
+[2025.07.31-17.42.49:352][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13398.848633
+[2025.07.31-17.42.50:682][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.42.50:682][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13399.846680, Update Interval: 314.962006
+[2025.07.31-17.49.02:074][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13771.563477
+[2025.07.31-17.49.03:402][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.49.03:402][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13772.562500, Update Interval: 341.472839
+[2025.07.31-17.55.43:133][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14172.611328
+[2025.07.31-17.55.44:466][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-17.55.44:466][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14173.616211, Update Interval: 319.763184
+[2025.07.31-17.56.25:142][661]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.07.31-17.56.25:143][661]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.73 RefreshExpires: 1.552e+07
+[2025.07.31-17.56.26:475][665]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.07.31-19.56.25 Remaining: 7200.50] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15524891.40] State: Valid
+[2025.07.31-18.01.51:433][640]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.027 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-18.02.02:200][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14551.681641
+[2025.07.31-18.02.03:534][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.02.03:534][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14552.681641, Update Interval: 321.989807
+[2025.07.31-18.08.04:614][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14914.089844
+[2025.07.31-18.08.05:948][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.08.05:948][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14915.087891, Update Interval: 316.117432
+[2025.07.31-18.14.17:998][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15287.457031
+[2025.07.31-18.14.19:333][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.14.19:333][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15288.458008, Update Interval: 314.581146
+[2025.07.31-18.20.12:724][943]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15642.186523
+[2025.07.31-18.20.14:058][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.20.14:058][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15643.188477, Update Interval: 304.532013
+[2025.07.31-18.26.04:770][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15994.227539
+[2025.07.31-18.26.06:104][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.26.06:104][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15995.224609, Update Interval: 324.170654
+[2025.07.31-18.32.01:501][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16350.950195
+[2025.07.31-18.32.02:833][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.32.02:833][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16351.952148, Update Interval: 317.181305
+[2025.07.31-18.37.53:887][126]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16703.341797
+[2025.07.31-18.37.55:221][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.37.55:221][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16704.345703, Update Interval: 330.557587
+[2025.07.31-18.44.24:615][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17094.058594
+[2025.07.31-18.44.25:953][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.44.25:953][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17095.060547, Update Interval: 326.758026
+[2025.07.31-18.50.36:338][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17465.744141
+[2025.07.31-18.50.37:671][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.50.37:671][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17466.746094, Update Interval: 338.590668
+[2025.07.31-18.57.11:050][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17860.457031
+[2025.07.31-18.57.12:386][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-18.57.12:386][601]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17861.457031, Update Interval: 352.355103
+[2025.07.31-19.01.50:471][436]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-19.03.57:452][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18266.865234
+[2025.07.31-19.03.58:784][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.03.58:784][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18267.865234, Update Interval: 359.135712
+[2025.07.31-19.10.28:513][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18657.937500
+[2025.07.31-19.10.29:853][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.10.29:853][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18658.941406, Update Interval: 303.134857
+[2025.07.31-19.16.26:570][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19016.007812
+[2025.07.31-19.16.27:903][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.16.27:905][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19017.005859, Update Interval: 337.180695
+[2025.07.31-19.22.52:289][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19401.703125
+[2025.07.31-19.22.54:291][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.22.54:291][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19403.371094, Update Interval: 306.363098
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4C387B0F4A2FAB5CE0542B83610D1413, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 0 (Found bundle for host: 0x45432880450 [serially])
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 4 (allocate connect buffer)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 6 (CONNECT phase completed)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.07.31-19.27.55:334][129]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 9 (SSL reusing session ID)
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogHttp: 000004543409DE00: libcurl info message cache 12 (Closing connection)
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4C387B0F4A2FAB5CE0542B83610D1413
+[2025.07.31-19.27.55:334][130]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.07.31-19.28.44:340][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19753.759766
+[2025.07.31-19.28.45:674][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.28.45:674][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19754.763672, Update Interval: 358.989227
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4C387B0F4A2FAB5CE0542B83610D1413, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 0 (Found bundle for host: 0x45432880450 [serially])
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-19.29.40:021][443]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 4 (allocate connect buffer)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 6 (CONNECT phase completed)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 9 (SSL reusing session ID)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: 000004543409BA00: libcurl info message cache 12 (Closing connection)
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=4C387B0F4A2FAB5CE0542B83610D1413
+[2025.07.31-19.29.40:021][444]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 0 (Found bundle for host: 0x45432880450 [serially])
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 5 (Closing connection)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 9 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 10 (  Trying 127.0.0.1:7890...)
+[2025.07.31-19.29.50:355][474]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 11 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 13 (allocate connect buffer)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 14 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 15 (CONNECT phase completed)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 17 (ALPN: curl offers http/1.1)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 18 (SSL reusing session ID)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 20 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-19.29.50:355][475]LogEOSSDK: Warning: LogHttp: 0000045434097200: libcurl info message cache 21 (Closing connection)
+[2025.07.31-19.29.50:357][475]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B586B480C-456C-0F2C-698F-8FBB0839981B%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/tokenInfo, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: request failed, libcurl error: 35 (SSL connect error)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 1 (  Trying 127.0.0.1:7890...)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 4 (allocate connect buffer)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 6 (CONNECT phase completed)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 9 (SSL reusing session ID)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: 000004543409B400: libcurl info message cache 12 (Closing connection)
+[2025.07.31-19.30.12:688][541]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/epic/oauth/v2/tokenInfo
+[2025.07.31-19.30.12:688][542]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>]
+[2025.07.31-19.30.13:022][542]LogEOSSDK: Error: LogEOSAuth: Ignoring failed attempt to verify active authentication session due to an unexpected error. Error: EOS_NoConnection UserId: 9d6...7a2
+[2025.07.31-19.35.38:408][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20167.820312
+[2025.07.31-19.35.39:742][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.35.39:742][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20168.820312, Update Interval: 306.615814
+[2025.07.31-19.41.37:128][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20526.556641
+[2025.07.31-19.41.38:459][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.41.38:459][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20527.554688, Update Interval: 300.111694
+[2025.07.31-19.47.23:844][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20873.283203
+[2025.07.31-19.47.25:178][638]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.47.25:178][638]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20874.283203, Update Interval: 333.102814
+[2025.07.31-19.53.31:897][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21241.357422
+[2025.07.31-19.53.33:232][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.53.33:232][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21242.361328, Update Interval: 326.217834
+[2025.07.31-19.54.46:907][963]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.07.31-19.54.46:908][963]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.83 RefreshExpires: 1.552e+07
+[2025.07.31-19.54.48:242][967]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.07.31-21.54.47 Remaining: 7200.18] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15517789.40] State: Valid
+[2025.07.31-19.59.52:621][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21622.101562
+[2025.07.31-19.59.53:954][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-19.59.53:954][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21623.103516, Update Interval: 354.327209
+[2025.07.31-20.01.51:461][237]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-20.06.39:013][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22028.445312
+[2025.07.31-20.06.40:349][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.06.40:349][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22029.455078, Update Interval: 312.288574
+[2025.07.31-20.12.36:744][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22386.175781
+[2025.07.31-20.12.38:080][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.12.38:080][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22387.175781, Update Interval: 353.814514
+[2025.07.31-20.19.07:147][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22776.591797
+[2025.07.31-20.19.08:480][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.19.08:480][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22777.593750, Update Interval: 306.527924
+[2025.07.31-20.24.47:862][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23117.296875
+[2025.07.31-20.24.49:196][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.24.49:196][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23118.296875, Update Interval: 353.957336
+[2025.07.31-20.31.27:602][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23517.052734
+[2025.07.31-20.31.28:934][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.31.28:934][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23518.050781, Update Interval: 316.718048
+[2025.07.31-20.37.22:991][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23872.515625
+[2025.07.31-20.37.24:325][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.37.24:325][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23873.515625, Update Interval: 355.753662
+[2025.07.31-20.44.15:717][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24285.310547
+[2025.07.31-20.44.16:714][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.44.16:714][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24285.974609, Update Interval: 332.242188
+[2025.07.31-20.50.29:423][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24659.060547
+[2025.07.31-20.50.30:757][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.50.30:758][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24660.062500, Update Interval: 326.986908
+[2025.07.31-20.56.29:483][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25019.123047
+[2025.07.31-20.56.30:819][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-20.56.30:819][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25020.132812, Update Interval: 333.201691
+[2025.07.31-21.01.50:486][ 32]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-21.02.39:202][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25388.873047
+[2025.07.31-21.02.40:540][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.02.40:540][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25389.875000, Update Interval: 359.115570
+[2025.07.31-21.09.27:274][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25796.962891
+[2025.07.31-21.09.28:605][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.09.28:605][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25797.962891, Update Interval: 337.448059
+[2025.07.31-21.15.55:335][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26185.009766
+[2025.07.31-21.15.56:669][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.15.56:669][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26186.007812, Update Interval: 325.525696
+[2025.07.31-21.22.20:056][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26569.724609
+[2025.07.31-21.22.21:392][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.22.21:394][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26570.724609, Update Interval: 339.920044
+[2025.07.31-21.28.46:472][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26956.119141
+[2025.07.31-21.28.47:800][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.28.47:800][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26957.115234, Update Interval: 310.543549
+[2025.07.31-21.34.35:183][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27304.925781
+[2025.07.31-21.34.36:514][929]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.34.36:514][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27305.925781, Update Interval: 348.647125
+[2025.07.31-21.41.11:914][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27701.671875
+[2025.07.31-21.41.13:241][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.41.13:241][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27702.667969, Update Interval: 348.544556
+[2025.07.31-21.47.34:966][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28084.748047
+[2025.07.31-21.47.36:296][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.47.36:296][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28085.744141, Update Interval: 331.826538
+[2025.07.31-21.53.08:688][265]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.07.31-21.53.08:688][265]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.84 RefreshExpires: 1.551e+07
+[2025.07.31-21.53.10:025][269]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.07.31-23.53.08 Remaining: 7200.90] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15510688.40] State: Valid
+[2025.07.31-21.53.46:698][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28456.501953
+[2025.07.31-21.53.48:035][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-21.53.48:035][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28457.500000, Update Interval: 332.846466
+[2025.07.31-22.00.02:079][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28831.861328
+[2025.07.31-22.00.03:409][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.00.03:409][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28832.859375, Update Interval: 318.983124
+[2025.07.31-22.01.51:462][834]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-22.06.12:470][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29202.269531
+[2025.07.31-22.06.13:470][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.06.13:470][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29202.943359, Update Interval: 320.779449
+[2025.07.31-22.12.05:188][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29554.982422
+[2025.07.31-22.12.06:519][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.12.06:520][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29555.980469, Update Interval: 309.051178
+[2025.07.31-22.17.55:569][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29905.310547
+[2025.07.31-22.17.56:900][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.17.56:900][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29906.316406, Update Interval: 309.917297
+[2025.07.31-22.23.40:308][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30250.093750
+[2025.07.31-22.23.41:638][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.23.41:638][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30251.091797, Update Interval: 352.254395
+[2025.07.31-22.30.32:699][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30662.599609
+[2025.07.31-22.30.34:033][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.30.34:033][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30663.601562, Update Interval: 355.273895
+[2025.07.31-22.37.11:760][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31061.677734
+[2025.07.31-22.37.13:091][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.37.13:091][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31062.675781, Update Interval: 321.002838
+[2025.07.31-22.43.23:144][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31433.066406
+[2025.07.31-22.43.24:483][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.43.24:483][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31434.066406, Update Interval: 304.484375
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 0 (Found bundle for host: 0x453be8409f0 [serially])
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 5 (Closing connection)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2025.07.31-22.43.51:149][391]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 9 (  Trying 127.0.0.1:7890...)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 12 (allocate connect buffer)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 13 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 14 (CONNECT phase completed)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 17 (SSL reusing session ID)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 24 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 26 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 28 (Server certificate:)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 30 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 31 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 35 (using HTTP/1.1)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 37 (Closing connection)
+[2025.07.31-22.43.51:149][392]LogHttp: Warning: 000004542B1FB600: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-22.49.17:863][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31787.765625
+[2025.07.31-22.49.19:198][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.49.19:198][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31788.763672, Update Interval: 307.335419
+[2025.07.31-22.55.20:592][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32150.490234
+[2025.07.31-22.55.21:922][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-22.55.21:922][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32151.486328, Update Interval: 355.239105
+[2025.07.31-23.01.50:473][629]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.07.31-23.02.10:993][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32560.984375
+[2025.07.31-23.02.12:329][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.02.12:329][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32561.982422, Update Interval: 314.599457
+[2025.07.31-23.08.15:718][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32925.757812
+[2025.07.31-23.08.17:051][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.08.17:051][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32926.757812, Update Interval: 335.441162
+[2025.07.31-23.13.37:761][750]LogHttp: Warning: 000004542B1F8C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 0 (Found bundle for host: 0x453be840b70 [serially])
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 6 (Closing connection)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-23.13.37:762][750]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC25E95CE-4F98-EA24-DD76-C98FDB33D3DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5b6cfc71449c630d24b91cb25fa34ed5%7C9d655aa102134931bb78ceb2d16eb7a2%7Cabd42a36-fef8-4315-af59-0d61555853f5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 9 (  Trying 127.0.0.1:7890...)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7890)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 12 (allocate connect buffer)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 13 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 14 (CONNECT phase completed)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 17 (SSL reusing session ID)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 23 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 24 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 25 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 26 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 28 (Server certificate:)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 29 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 30 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 31 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 35 (using HTTP/1.1)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 37 (Closing connection)
+[2025.07.31-23.13.37:762][751]LogHttp: Warning: 000004542B1F8C00: libcurl info message cache 38 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.31-23.14.50:442][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33320.488281
+[2025.07.31-23.14.51:781][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.14.51:781][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33321.488281, Update Interval: 334.097107
+[2025.07.31-23.21.25:504][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33715.562500
+[2025.07.31-23.21.26:838][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.21.26:838][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33716.566406, Update Interval: 348.053833
+[2025.07.31-23.27.49:909][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34099.941406
+[2025.07.31-23.27.51:245][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.27.51:245][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34100.949219, Update Interval: 343.573120
+[2025.07.31-23.34.18:641][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34488.664062
+[2025.07.31-23.34.19:978][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.34.19:978][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34489.664062, Update Interval: 352.452148
+[2025.07.31-23.40.47:038][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34877.054688
+[2025.07.31-23.40.48:370][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.40.48:370][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34878.054688, Update Interval: 334.410217
+[2025.07.31-23.47.03:421][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35253.378906
+[2025.07.31-23.47.04:756][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.47.04:756][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35254.378906, Update Interval: 304.174927
+[2025.07.31-23.51.30:457][567]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.07.31-23.51.30:457][567]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.9 RefreshExpires: 1.55e+07
+[2025.07.31-23.51.32:125][572]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.08.01-01.51.31 Remaining: 7200.19] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15503585.40] State: Valid
+[2025.07.31-23.52.56:469][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35606.386719
+[2025.07.31-23.52.57:804][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.52.57:804][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35607.386719, Update Interval: 354.812469
+[2025.07.31-23.59.34:866][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36004.769531
+[2025.07.31-23.59.36:201][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-23.59.36:201][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36005.769531, Update Interval: 324.593658
+[2025.08.01-00.01.50:484][427]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.08.01-00.05.53:245][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36383.144531
+[2025.08.01-00.05.54:580][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.05.54:580][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36384.144531, Update Interval: 303.070770
+[2025.08.01-00.11.49:309][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36739.136719
+[2025.08.01-00.11.50:637][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.11.50:638][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36740.136719, Update Interval: 319.700928
+[2025.08.01-00.17.52:714][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37102.515625
+[2025.08.01-00.17.54:044][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.17.54:044][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37103.511719, Update Interval: 350.793182
+[2025.08.01-00.24.37:767][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37507.523438
+[2025.08.01-00.24.39:104][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.24.39:104][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37508.527344, Update Interval: 358.646820
+[2025.08.01-00.31.11:831][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37901.613281
+[2025.08.01-00.31.13:163][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.31.13:163][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37902.613281, Update Interval: 338.676727
+[2025.08.01-00.37.44:562][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38294.347656
+[2025.08.01-00.37.45:897][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.37.45:897][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38295.351562, Update Interval: 337.171539
+[2025.08.01-00.44.06:949][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38676.722656
+[2025.08.01-00.44.08:283][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.44.08:283][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38677.726562, Update Interval: 313.321320
+[2025.08.01-00.50.19:683][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39049.492188
+[2025.08.01-00.50.21:014][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.50.21:014][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39050.488281, Update Interval: 358.767670
+[2025.08.01-00.56.54:740][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39444.523438
+[2025.08.01-00.56.56:075][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-00.56.56:075][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39445.527344, Update Interval: 343.210541
+[2025.08.01-01.01.51:428][228]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.020 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.08.01-01.03.17:478][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39827.246094
+[2025.08.01-01.03.18:812][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.03.18:812][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39828.246094, Update Interval: 353.609436
+[2025.08.01-01.09.46:542][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40216.320312
+[2025.08.01-01.09.47:874][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.09.47:874][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40217.320312, Update Interval: 344.204834
+[2025.08.01-01.16.06:264][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40596.074219
+[2025.08.01-01.16.07:597][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.16.07:597][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40597.070312, Update Interval: 322.931000
+[2025.08.01-01.22.22:987][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40972.789062
+[2025.08.01-01.22.24:325][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.22.24:325][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40973.785156, Update Interval: 313.888977
+[2025.08.01-01.28.31:703][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41341.468750
+[2025.08.01-01.28.33:038][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.28.33:038][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41342.472656, Update Interval: 303.208099
+[2025.08.01-01.34.27:096][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41696.921875
+[2025.08.01-01.34.28:428][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.34.28:428][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41697.917969, Update Interval: 324.177979
+[2025.08.01-01.40.42:819][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42072.695312
+[2025.08.01-01.40.44:154][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.40.44:154][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42073.695312, Update Interval: 314.507874
+[2025.08.01-01.46.30:540][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42420.460938
+[2025.08.01-01.46.32:203][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.46.32:203][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42421.792969, Update Interval: 311.515869
+[2025.08.01-01.49.52:894][871]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 9d6...7a2
+[2025.08.01-01.49.52:895][871]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.86 RefreshExpires: 1.55e+07
+[2025.08.01-01.49.54:229][875]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 9d6...7a2 Access[Expires: 2025.08.01-03.49.52 Remaining: 7200.95] Refresh[Expires: 2026-01-27T10:24:36.397Z Remaining: 15496484.40] State: Valid
+[2025.08.01-01.52.35:579][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42785.492188
+[2025.08.01-01.52.36:911][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.52.36:911][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42786.496094, Update Interval: 336.699127
+[2025.08.01-01.59.07:302][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43177.246094
+[2025.08.01-01.59.08:637][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-01.59.08:637][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43178.250000, Update Interval: 320.433350
+[2025.08.01-02.01.50:482][ 24]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.08.01-02.05.16:362][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43546.300781
+[2025.08.01-02.05.17:700][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.05.17:700][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43547.304688, Update Interval: 350.545959
+[2025.08.01-02.07.06:131][969]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG32UQ (NVIDIA High Definition Audio), InstanceID=1
+[2025.08.01-02.07.06:312][970]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.06:312][970]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.07.06:512][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.08.01-02.07.06:841][971]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.06:843][971]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{294228de-a41a-4a99-84d6-e95afc628f33}, Name=XG32UQ (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.38
+[2025.08.01-02.07.06:843][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.07.06:844][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.07.07:175][972]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.07:175][972]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.07.07:507][973]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.07:509][973]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{db3be477-e57e-48bb-a4c7-4acb81cdc6c1}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.82
+[2025.08.01-02.07.07:509][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.07.07:511][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.07.08:515][976]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG32UQ (NVIDIA High Definition Audio), InstanceID=1
+[2025.08.01-02.07.08:556][976]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.08:556][976]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.07.09:045][977]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.07.09:047][977]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{294228de-a41a-4a99-84d6-e95afc628f33}, Name=XG32UQ (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=416.43
+[2025.08.01-02.07.09:047][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.07.09:049][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.09.13:937][ 51]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.01-02.09.13:941][ 51]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-02.09.13:941][ 51]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.08.01-02.09.13:942][ 51]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.530 ms (total: 29.384 ms)
+[2025.08.01-02.09.13:942][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-02.09.13:942][ 51]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-02.09.13:945][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2025.08.01-02.09.13:945][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002685s)
+[2025.08.01-02.09.13:961][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.08.01-02.09.13:964][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.01-02.09.13:965][ 51]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-02.09.13:965][ 51]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-02.09.13:965][ 51]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-02.09.13:965][ 51]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-02.09.13:966][ 51]LogWorldPartition: Display: WorldPartition initialize took 854 us (total: 276.970 ms)
+[2025.08.01-02.09.13:966][ 51]LogPlayLevel: PIE: World Init took: (0.002115s)
+[2025.08.01-02.09.13:967][ 51]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-02.09.13:967][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.01-02.09.13:967][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-02.09.13:967][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-02.09.13:967][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-02.09.13:967][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-02.09.13:970][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-02.09.13:985][ 51]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.01-02.09.13:986][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-02.09.13:986][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-02.09.13:986][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-02.09.13:986][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.08.01-02.09.13:986][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.08.01-02.09.13:987][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.08.01-02.09.13:987][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.08.01-02.09.13:987][ 51]LogInit: FAudioDevice initialized with ID 26.
+[2025.08.01-02.09.13:987][ 51]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestGround'.
+[2025.08.01-02.09.13:987][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.08.01-02.09.14:021][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-02.09.14:021][ 51]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.01-02.09.14:022][ 51]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.08.01-10.09.14
+[2025.08.01-02.09.14:023][ 51]LogWorld: Bringing up level for play took: 0.001670
+[2025.08.01-02.09.14:025][ 51]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.08.01-02.09.14:029][ 51]PIE: Server logged in
+[2025.08.01-02.09.14:031][ 51]PIE: Play in editor total start time 0.09 seconds.
+[2025.08.01-02.09.18:879][390]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-02.09.23:488][723]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-02.09.24:888][825]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Fuck Out
+[2025.08.01-02.09.26:971][973]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Fuck Out
+[2025.08.01-02.09.32:802][392]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-02.09.34:256][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-02.09.34:256][498]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-02.09.34:256][498]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.01-02.09.34:289][498]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-02.09.34:290][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-02.09.34:290][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.08.01-02.09.34:291][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-02.09.34:294][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-02.09.34:310][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.08.01-02.09.34:310][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.08.01-02.09.34:312][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.08.01-02.09.34:317][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.01-02.09.34:403][499]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: ================================================
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Total job queries 587, among them cache hits 41 (6.98%), DDC hits 146 (24.87%), Duplicates 3 (0.51%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Tracking 543 distinct input hashes that result in 389 distinct outputs (71.64%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: RAM used: 257.43 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Shaders Compiled: 397
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Jobs assigned 397, completed 397 (100%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Average time worker was idle: 634.74 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Time job spent in pending queue: average 3.36 s, longest 9.23 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.97 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Job life time (pending + execution): average 4.03 s, max 9.86
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Shader code size: average 8.443 KiB, min 2.379 KiB, max 26.703 KiB
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.13 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Jobs were issued in 397 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Average processing rate: 12.75 jobs/sec
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Total thread time: 138.189 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Total thread preprocess time: 6.688 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Percentage time preprocessing: 4.84%
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Effective parallelization: 4.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.42 sec, max 1.45 sec, min 1.39 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.13 sec, max 1.14 sec, min 1.13 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   60 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 0.70 sec, max 0.74 sec, min 0.57 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   12 times, average 0.42 sec, max 0.80 sec, min 0.24 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.66% of total time (compiled   60 times, average 0.73 sec, max 0.95 sec, min 0.52 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.80% of total time (compiled   64 times, average 0.34 sec, max 0.46 sec, min 0.20 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.50% of total time (compiled   76 times, average 0.23 sec, max 0.31 sec, min 0.16 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.50% of total time (compiled   66 times, average 0.24 sec, max 0.35 sec, min 0.17 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.04% of total time (compiled   66 times, average 0.21 sec, max 0.29 sec, min 0.15 sec)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: === Material stats ===
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Materials Translated:    202
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Material Translation Only: 0.04 s (33%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: Material Cache Hits: 23 (11%)
+[2025.08.01-02.11.49:980][810]LogShaderCompilers: Display: ================================================
+[2025.08.01-02.12.04:647][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43954.269531
+[2025.08.01-02.12.05:982][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.12.05:982][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43955.265625, Update Interval: 343.093353
+[2025.08.01-02.18.24:692][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44333.371094
+[2025.08.01-02.18.26:025][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.18.26:025][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44334.367188, Update Interval: 303.834351
+[2025.08.01-02.22.32:000][850]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.01-02.24.18:010][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44685.511719
+[2025.08.01-02.24.19:345][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.24.19:345][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44686.511719, Update Interval: 324.053467
+[2025.08.01-02.26.13:194][624]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.01-02.26.20:854][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.08.01-02.26.20:854][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.08.01-02.26.20:919][158]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.01-02.26.20:920][158]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-02.26.20:920][158]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-02.26.20:920][158]LogUObjectGlobals: Warning: Failed to find object 'UserDefinedEnum /Game/Scifi_HUD_Effects_Pack/EpicDemoContent/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2025.08.01-02.26.20:920][158]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-02.26.20:920][158]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-02.26.20:920][158]LogUObjectGlobals: Warning: Failed to find object 'UserDefinedEnum /Game/Scifi_HUD_Effects_Pack/EpicDemoContent/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2025.08.01-02.26.29:463][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-02.26.29:495][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-02.26.29:526][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-02.26.29:526][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-02.26.29:531][898]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-02.26.29:531][898]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter94C9D6AC49F216C753459B96CA31D380.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-02.26.29:539][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.262 ms (total: 9.02 sec)
+[2025.08.01-02.26.29:574][898]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-02.26.29:574][898]LogContentValidation: Enabled validators:
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-02.26.29:574][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-02.26.29:574][898]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-02.26.29:986][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.01-02.26.37:852][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-02.26.37:886][657]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-02.26.37:915][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-02.26.37:915][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-02.26.37:920][657]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-02.26.37:920][657]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter455D469C46D25EAD8A62399D6C7453FD.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-02.26.37:928][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.627 ms (total: 9.09 sec)
+[2025.08.01-02.26.37:956][657]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-02.26.37:956][657]LogContentValidation: Enabled validators:
+[2025.08.01-02.26.37:956][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-02.26.37:957][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-02.26.37:957][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-02.26.37:957][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-02.26.37:957][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-02.26.37:957][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-02.26.37:957][657]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-02.26.45:019][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-02.26.45:054][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-02.26.45:082][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-02.26.45:082][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-02.26.45:088][330]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-02.26.45:088][330]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacterB69ABB984B851A5F1D4874A8A15AC9F8.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-02.26.45:097][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.872 ms (total: 9.17 sec)
+[2025.08.01-02.26.45:130][330]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-02.26.45:130][330]LogContentValidation: Enabled validators:
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-02.26.45:130][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-02.26.45:130][330]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-02.26.46:109][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.01-02.26.46:788][470]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.01-02.26.46:791][470]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-02.26.46:791][470]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.08.01-02.26.46:793][470]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 1.282 ms (total: 30.666 ms)
+[2025.08.01-02.26.46:794][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-02.26.46:794][470]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-02.26.46:796][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002488s)
+[2025.08.01-02.26.46:796][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002513s)
+[2025.08.01-02.26.46:808][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.01-02.26.46:811][470]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.01-02.26.46:812][470]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-02.26.46:812][470]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-02.26.46:812][470]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-02.26.46:812][470]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-02.26.46:813][470]LogWorldPartition: Display: WorldPartition initialize took 913 us (total: 277.884 ms)
+[2025.08.01-02.26.46:813][470]LogPlayLevel: PIE: World Init took: (0.001990s)
+[2025.08.01-02.26.46:813][470]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-02.26.46:813][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.01-02.26.46:813][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-02.26.46:813][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-02.26.46:813][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-02.26.46:813][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-02.26.46:816][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-02.26.46:832][470]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.01-02.26.46:832][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-02.26.46:832][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-02.26.46:832][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-02.26.46:833][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.08.01-02.26.46:833][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.08.01-02.26.46:834][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.08.01-02.26.46:834][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.08.01-02.26.46:834][470]LogInit: FAudioDevice initialized with ID 27.
+[2025.08.01-02.26.46:834][470]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestGround'.
+[2025.08.01-02.26.46:834][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.01-02.26.46:870][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-02.26.46:870][470]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.01-02.26.46:871][470]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.08.01-10.26.46
+[2025.08.01-02.26.46:871][470]LogWorld: Bringing up level for play took: 0.001509
+[2025.08.01-02.26.46:873][470]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.08.01-02.26.46:879][470]PIE: Server logged in
+[2025.08.01-02.26.46:882][470]PIE: Play in editor total start time 0.09 seconds.
+[2025.08.01-02.26.52:312][851]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-02.26.56:865][178]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-02.26.59:359][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-02.26.59:359][358]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-02.26.59:360][358]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.01-02.26.59:380][358]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-02.26.59:380][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-02.26.59:380][358]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.08.01-02.26.59:382][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-02.26.59:386][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-02.26.59:400][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-02.26.59:400][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.08.01-02.26.59:400][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.01-02.26.59:402][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.08.01-02.26.59:406][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.01-02.26.59:496][359]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.08.01-02.27.15:782][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-02.27.15:812][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.01-02.27.15:837][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.01-02.27.15:837][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.01-02.27.15:843][895]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.01-02.27.15:843][895]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter8CE4D22749700F4DA9B58B8548285F08.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.01-02.27.15:851][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.899 ms (total: 9.24 sec)
+[2025.08.01-02.27.15:884][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-02.27.15:884][895]LogContentValidation: Enabled validators:
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-02.27.15:884][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-02.27.15:885][895]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.01-02.27.17:537][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.01-02.30.40:604][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45094.730469
+[2025.08.01-02.30.40:994][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.30.40:994][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45095.152344, Update Interval: 304.929352
+[2025.08.01-02.36.38:014][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45496.722656
+[2025.08.01-02.36.38:368][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.36.38:368][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45497.109375, Update Interval: 339.963989
+[2025.08.01-02.42.15:611][191]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.08.01-02.42.15:621][192]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.42.15:621][192]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.42.15:642][194]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.42.15:644][194]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{db3be477-e57e-48bb-a4c7-4acb81cdc6c1}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.13
+[2025.08.01-02.42.15:644][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.42.15:646][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.43.06:777][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45931.214844
+[2025.08.01-02.43.07:149][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.43.07:149][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45931.605469, Update Interval: 349.460144
+[2025.08.01-02.49.56:258][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46376.812500
+[2025.08.01-02.49.56:641][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.49.56:641][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46377.210938, Update Interval: 353.849304
+[2025.08.01-02.55.02:650][849]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG32UQ (NVIDIA High Definition Audio), InstanceID=1
+[2025.08.01-02.55.02:726][850]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.02:726][850]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.55.02:844][854]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.02:847][854]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{294228de-a41a-4a99-84d6-e95afc628f33}, Name=XG32UQ (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.59
+[2025.08.01-02.55.02:847][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.55.02:849][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.55.03:025][865]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.08.01-02.55.03:084][866]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.03:084][866]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.55.03:484][867]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.03:486][867]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{db3be477-e57e-48bb-a4c7-4acb81cdc6c1}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=84.89
+[2025.08.01-02.55.03:486][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.55.03:487][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.55.05:044][959]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=XG32UQ (NVIDIA High Definition Audio), InstanceID=1
+[2025.08.01-02.55.05:128][960]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.05:128][960]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=93920
+[2025.08.01-02.55.05:656][961]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.01-02.55.05:659][961]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{294228de-a41a-4a99-84d6-e95afc628f33}, Name=XG32UQ (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=464.26
+[2025.08.01-02.55.05:659][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.01-02.55.05:660][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.01-02.56.42:448][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46811.292969
+[2025.08.01-02.56.43:777][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-02.56.43:777][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46812.292969, Update Interval: 304.229858
+[2025.08.01-03.01.51:440][652]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 20878 files in 21957 folders with total size 3006 MiB.
+[2025.08.01-03.02.19:880][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47148.324219
+[2025.08.01-03.02.21:217][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-03.02.21:217][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47149.332031, Update Interval: 320.398560
+[2025.08.01-03.08.15:678][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47503.511719
+[2025.08.01-03.08.17:011][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-03.08.17:011][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47504.511719, Update Interval: 354.905853
+[2025.08.01-03.10.31:539][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human
+[2025.08.01-03.10.31:539][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.08.01-03.10.31:570][776]LogStreaming: Display: FlushAsyncLoading(748): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.01-03.10.31:570][776]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-03.10.31:570][776]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-03.10.31:570][776]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-03.10.31:570][776]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-03.10.53:287][551]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.01-03.10.53:294][551]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.01-03.10.53:305][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.01-03.10.55:832][852]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.08.01-03.10.55:832][852]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.01-03.11.04:006][774]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.01-03.11.04:012][774]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.01-03.11.04:022][775]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.01-03.11.07:703][213]LogContentBrowser: Attempting asset rename: NewFolder -> PatrolPoint
+[2025.08.01-03.11.07:703][213]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.01-03.11.14:447][842]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.01-03.11.14:459][842]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.01-03.11.14:465][842]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.01-03.11.14:484][844]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.01-03.11.20:430][540]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PatrolPoint
+[2025.08.01-03.11.20:436][540]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.01-03.11.21:399][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint
+[2025.08.01-03.11.21:400][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.08.01-03.11.21:433][650]LogStreaming: Display: FlushAsyncLoading(752): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.01-03.11.21:433][650]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Error opening file.
+[2025.08.01-03.11.21:433][650]LogLinker: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Scifi_HUD_Effects_Pack\EpicDemoContent\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Error opening file.
+[2025.08.01-03.11.36:150][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.11.36:194][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/PatrolPoint/BP_PatrolPoint] ([2] browsable assets)...
+[2025.08.01-03.11.36:194][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/PatrolPoint/BP_PatrolPoint]
+[2025.08.01-03.11.36:194][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/PatrolPoint/BP_PatrolPoint" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/PatrolPoint/BP_PatrolPoint.uasset" SILENT=true
+[2025.08.01-03.11.36:196][992]LogSavePackage: Moving output files for package: /Game/Blueprint/PatrolPoint/BP_PatrolPoint
+[2025.08.01-03.11.36:196][992]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_PatrolPoint526246E142D4747C0DFFB4B220B3EA55.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/PatrolPoint/BP_PatrolPoint.uasset'
+[2025.08.01-03.11.36:207][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.357 ms (total: 9.30 sec)
+[2025.08.01-03.11.36:246][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.11.36:246][992]LogContentValidation: Enabled validators:
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.11.36:246][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.11.36:246][992]AssetCheck: /Game/Blueprint/PatrolPoint/BP_PatrolPoint Validating asset
+[2025.08.01-03.11.37:100][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.01-03.12.01:972][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.12.02:003][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.12.02:031][253]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.12.02:031][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.12.02:031][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.12.02:038][253]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.12.02:038][253]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human5AAC6F4D4EBE89939D6C90A8988AAFB5.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.12.02:046][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.063 ms (total: 9.37 sec)
+[2025.08.01-03.12.02:085][253]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.12.02:085][253]LogContentValidation: Enabled validators:
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.12.02:085][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.12.02:085][253]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.12.16:093][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.01-03.12.16:609][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.12.16:642][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.12.16:670][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.12.16:670][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.12.16:670][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.12.16:677][697]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.12.16:678][697]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human67E6E61C40F8C901D3E6BC8ADCEC8C9A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.12.16:686][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.525 ms (total: 9.45 sec)
+[2025.08.01-03.12.16:723][697]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.12.16:723][697]LogContentValidation: Enabled validators:
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.12.16:724][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.12.16:724][697]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.13.04:439][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.13.04:472][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.13.04:498][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.13.04:498][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.13.04:498][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.13.04:504][162]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.13.04:504][162]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human64A426714E4BA715E6AB13931989A0CC.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.13.04:513][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.574 ms (total: 9.52 sec)
+[2025.08.01-03.13.04:539][162]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.13.04:539][162]LogContentValidation: Enabled validators:
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.13.04:539][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.13.04:539][162]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.13.57:807][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.08.01-03.13.58:278][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.13.58:311][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.13.58:335][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.13.58:335][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.13.58:335][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.13.58:344][885]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.13.58:344][885]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human2A07FA5941BC85C36E85698FC2E615BC.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.13.58:353][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.431 ms (total: 9.60 sec)
+[2025.08.01-03.13.58:398][885]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.13.58:398][885]LogContentValidation: Enabled validators:
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.13.58:398][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.13.58:398][885]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.14.38:004][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.14.38:042][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.14.38:070][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.14.38:070][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.14.38:070][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.14.38:077][249]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.14.38:077][249]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanB3101AF54568EDA8562A5980C123DA6F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.14.38:086][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.455 ms (total: 9.68 sec)
+[2025.08.01-03.14.38:123][249]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.14.38:123][249]LogContentValidation: Enabled validators:
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.14.38:123][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.14.38:123][249]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.14.38:613][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.01-03.14.40:948][444]LogSlate: Took 0.005287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.08.01-03.14.43:002][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47886.468750
+[2025.08.01-03.14.43:372][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-03.14.43:372][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47886.820312, Update Interval: 304.925690
+[2025.08.01-03.14.46:991][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.14.47:028][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.14.47:057][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.14.47:057][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.14.47:057][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.14.47:065][935]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.14.47:065][935]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanC5E2878049DFB61CFA6EEFA1C20E8F1F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.14.47:075][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.137 ms (total: 9.77 sec)
+[2025.08.01-03.14.47:111][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.14.47:112][935]LogContentValidation: Enabled validators:
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.14.47:112][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.14.47:112][935]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.14.48:205][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.01-03.14.54:698][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.14.54:731][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.14.54:758][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.14.54:758][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.14.54:758][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.14.54:765][480]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.14.54:766][480]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanCD88A11343A301AE6A937D8C026421A7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.14.54:774][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.885 ms (total: 9.84 sec)
+[2025.08.01-03.14.54:817][480]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.14.54:817][480]LogContentValidation: Enabled validators:
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.14.54:817][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.14.54:817][480]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.14.55:329][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.01-03.15.14:287][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.15.14:320][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.15.14:346][172]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.15.14:346][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.15.14:346][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.15.14:353][172]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.15.14:353][172]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human0E89229C4DCBB1F9C80482B950CBA0B9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.15.14:362][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.998 ms (total: 9.92 sec)
+[2025.08.01-03.15.14:396][172]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.15.14:396][172]LogContentValidation: Enabled validators:
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.15.14:396][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.15.14:396][172]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.15.14:913][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.01-03.15.23:809][115]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.15.23:809][115]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.15.56:510][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.15.56:547][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.15.56:578][117]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.15.56:578][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.15.56:578][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.15.56:585][117]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.15.56:585][117]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanC13DA36642E2A4A02B7B5697124A61B4.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.15.56:596][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.411 ms (total: 10.0 sec)
+[2025.08.01-03.15.56:636][117]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.15.56:636][117]LogContentValidation: Enabled validators:
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.15.56:636][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.15.56:636][117]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.15.57:274][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.01-03.16.35:815][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.16.35:843][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.16.35:873][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.16.35:873][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.16.35:873][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.16.35:880][494]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.16.35:880][494]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_Human56B22BF54E989B8ECFE0B0A9A409635C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.16.35:890][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.233 ms (total: 10.0 sec)
+[2025.08.01-03.16.35:928][494]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.16.35:928][494]LogContentValidation: Enabled validators:
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.16.35:928][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.16.35:928][494]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.16.41:699][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.01-03.16.42:151][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.16.42:185][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.16.42:212][ 26]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.16.42:212][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.16.42:212][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.16.42:220][ 26]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.16.42:220][ 26]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanF3287B95471979FA432C39B7249AF044.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.16.42:231][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.904 ms (total: 10.1 sec)
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: Enabled validators:
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.16.42:270][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.16.42:270][ 26]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.17.19:782][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.17.19:821][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human] ([2] browsable assets)...
+[2025.08.01-03.17.19:848][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Human.BP_Human]
+[2025.08.01-03.17.19:848][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Station_Bravo/Blueprints/BP_Human]
+[2025.08.01-03.17.19:848][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Station_Bravo/Blueprints/BP_Human" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset" SILENT=true
+[2025.08.01-03.17.19:856][523]LogSavePackage: Moving output files for package: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human
+[2025.08.01-03.17.19:857][523]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_HumanC530D3D64CA47ED91BD79A881086F1F5.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/Station_Bravo/Blueprints/BP_Human.uasset'
+[2025.08.01-03.17.19:868][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.149 ms (total: 10.2 sec)
+[2025.08.01-03.17.19:902][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.17.19:902][523]LogContentValidation: Enabled validators:
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.17.19:902][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.17.19:902][523]AssetCheck: /Game/Blueprint/Station_Bravo/Blueprints/BP_Human Validating asset
+[2025.08.01-03.17.20:646][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.01-03.17.23:801][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint_C
+[2025.08.01-03.17.23:801][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint_C
+[2025.08.01-03.17.23:801][855]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint as actor: BP_PatrolPoint_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_PatrolPoint_C_0
+[2025.08.01-03.17.23:802][855]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint as actor: BP_PatrolPoint_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_PatrolPoint_C_0
+[2025.08.01-03.17.24:241][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.01-03.17.24:244][880]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.08.01-03.17.24:252][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint_C
+[2025.08.01-03.17.24:252][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint_C
+[2025.08.01-03.17.24:254][880]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint as actor: BP_PatrolPoint_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_PatrolPoint_C_UAID_BCFCE753AF450C8102_1694740842
+[2025.08.01-03.17.24:256][880]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/PatrolPoint/BP_PatrolPoint.BP_PatrolPoint as actor: BP_PatrolPoint_C /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.BP_PatrolPoint_C_UAID_BCFCE753AF450C8102_1694740842
+[2025.08.01-03.17.33:506][922]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.33:506][922]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.34:969][ 83]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.34:969][ 83]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.36:097][207]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.36:097][207]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.08.01-03.17.37:099][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.17.37:138][315]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/8/K3/0BVA57PI1EY1HFQQK75Y45
+[2025.08.01-03.17.37:138][315]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/0BVA57PI1EY1HFQQK75Y4552BA72644B1D1A0DAF52DDA4E9DE790E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/8/K3/0BVA57PI1EY1HFQQK75Y45.uasset'
+[2025.08.01-03.17.37:139][315]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/SQ/ZA1FTICHR7126STX6WI66A
+[2025.08.01-03.17.37:139][315]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/ZA1FTICHR7126STX6WI66AF865F89240FB135308239A9A3C11C821.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/5/SQ/ZA1FTICHR7126STX6WI66A.uasset'
+[2025.08.01-03.17.37:141][315]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/5T/KR4VNH5PVR1CN65N9O54B8
+[2025.08.01-03.17.37:141][315]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/KR4VNH5PVR1CN65N9O54B82B9324104432A619A4EC53BD7629DC97.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/A/5T/KR4VNH5PVR1CN65N9O54B8.uasset'
+[2025.08.01-03.17.37:142][315]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/9/06/MJRNT8R2MWRPL91NJPSLK8
+[2025.08.01-03.17.37:142][315]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/MJRNT8R2MWRPL91NJPSLK81BA8EEDA472A86D412DE179B59E9744B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/__ExternalActors__/FirstPerson/Maps/TestGround/9/06/MJRNT8R2MWRPL91NJPSLK8.uasset'
+[2025.08.01-03.17.37:150][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.332 ms (total: 10.2 sec)
+[2025.08.01-03.17.37:191][315]LogContentValidation: Display: Starting to validate 10 assets
+[2025.08.01-03.17.37:191][315]LogContentValidation: Enabled validators:
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.17.37:191][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.17.37:191][315]AssetCheck: /Game/FirstPerson/Maps/TestGround Validating asset
+[2025.08.01-03.17.38:139][422]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.01-03.17.38:145][422]LogContentBundle: [TestGround(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.08.01-03.17.38:145][422]LogWorldPartition: Display: GenerateStreaming for 'TestGround' started...
+[2025.08.01-03.17.38:147][422]LogWorldPartition: Display: GenerateStreaming for 'TestGround' took 2.502 ms (total: 33.168 ms)
+[2025.08.01-03.17.38:147][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.01-03.17.38:147][422]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-03.17.38:150][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002581s)
+[2025.08.01-03.17.38:150][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/TestGround.TestGround to /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround (0.002606s)
+[2025.08.01-03.17.38:165][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.01-03.17.38:168][422]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.01-03.17.38:168][422]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.01-03.17.38:168][422]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.01-03.17.38:168][422]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.01-03.17.38:168][422]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.01-03.17.38:169][422]LogWorldPartition: Display: WorldPartition initialize took 942 us (total: 278.826 ms)
+[2025.08.01-03.17.38:169][422]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2025.08.01-03.17.38:171][422]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.01-03.17.38:171][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.01-03.17.38:171][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.01-03.17.38:171][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.01-03.17.38:171][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.01-03.17.38:171][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.01-03.17.38:172][422]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.01-03.17.38:189][422]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.01-03.17.38:189][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.01-03.17.38:189][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.01-03.17.38:189][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.01-03.17.38:190][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.08.01-03.17.38:190][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.08.01-03.17.38:192][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.08.01-03.17.38:192][422]LogInit: FAudioDevice initialized with ID 28.
+[2025.08.01-03.17.38:192][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.08.01-03.17.38:192][422]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestGround'.
+[2025.08.01-03.17.38:192][422]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.01-03.17.38:228][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-03.17.38:228][422]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.01-03.17.38:229][422]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround up for play (max tick rate 0) at 2025.08.01-11.17.38
+[2025.08.01-03.17.38:231][422]LogWorld: Bringing up level for play took: 0.001450
+[2025.08.01-03.17.38:232][422]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.08.01-03.17.38:239][422]PIE: Server logged in
+[2025.08.01-03.17.38:243][422]PIE: Play in editor total start time 0.098 seconds.
+[2025.08.01-03.17.41:304][638]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-03.17.45:873][970]LogBlueprintUserMessages: [BP_Human_C_UAID_BCFCE753AF45E48002_1466373801] Success
+[2025.08.01-03.17.46:581][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.01-03.17.46:581][ 19]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_TestGround
+[2025.08.01-03.17.46:582][ 19]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.01-03.17.46:599][ 19]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.01-03.17.46:599][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-03.17.46:599][ 19]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_TestGround.TestGround
+[2025.08.01-03.17.46:632][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.01-03.17.46:634][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.01-03.17.46:650][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.01-03.17.46:650][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.08.01-03.17.46:650][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.01-03.17.46:651][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2025.08.01-03.17.46:656][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.01-03.17.46:749][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.08.01-03.20.22:766][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48226.078125
+[2025.08.01-03.20.24:097][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-03.20.24:097][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48227.078125, Update Interval: 353.354889
+[2025.08.01-03.20.41:759][789]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.01-03.20.41:826][789]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.01-03.20.41:834][790]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.01-03.20.42:764][902]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.08.01-03.20.42:764][902]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.01-03.20.49:807][220]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.01-03.20.49:824][220]LogAutomationController: Ignoring very large delta of 4.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.01-03.20.59:693][124]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.08.01-03.20.59:708][124]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.08.01-03.20.59:712][124]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.08.01-03.20.59:740][126]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.08.01-03.21.08:624][182]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_MainView
+[2025.08.01-03.21.08:648][182]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.08.01-03.21.27:983][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.01-03.21.27:987][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.01-03.21.28:062][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.01-03.21.28:064][465]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_MainView] ([2] browsable assets)...
+[2025.08.01-03.21.28:082][465]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_MainView.WB_MainView]
+[2025.08.01-03.21.28:082][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_MainView]
+[2025.08.01-03.21.28:082][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_MainView" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_MainView.uasset" SILENT=true
+[2025.08.01-03.21.28:085][465]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_MainView
+[2025.08.01-03.21.28:085][465]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_MainView6CB217584C443951687C29806431F478.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_MainView.uasset'
+[2025.08.01-03.21.28:097][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.863 ms (total: 10.4 sec)
+[2025.08.01-03.21.28:135][465]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.01-03.21.28:135][465]LogContentValidation: Enabled validators:
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.01-03.21.28:135][465]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.01-03.21.28:136][465]AssetCheck: /Game/Blueprint/UI/WB_MainView Validating asset
