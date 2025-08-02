@@ -10714,3 +10714,1199 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.08.02-22.44.20:639][410]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.02-22.44.20:639][410]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.02-22.44.20:639][410]AssetCheck: /Game/SFX/Click_Negatvie Validating asset
+[2025.08.02-22.45.53:386][728]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.45.53:416][728]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Chat.WB_Chat
+[2025.08.02-22.45.53:416][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_272
+[2025.08.02-22.45.53:421][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_273
+[2025.08.02-22.45.59:520][199]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5
+[2025.08.02-22.45.59:520][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_274
+[2025.08.02-22.45.59:537][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_275
+[2025.08.02-22.47.03:909][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BluePrint/BP_ChatTextTrigger.BP_ChatTextTrigger
+[2025.08.02-22.47.03:909][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_276
+[2025.08.02-22.47.26:520][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.47.26:568][193]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.47.26:568][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.47.26:568][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.47.26:595][193]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.47.26:595][193]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger1218562442104A96FFDEE18EF85B74BE.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.47.26:607][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.476 ms (total: 51.1 sec)
+[2025.08.02-22.47.26:650][193]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.47.26:650][193]LogContentValidation: Enabled validators:
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.47.26:650][193]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.47.26:650][193]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.47.27:310][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-22.47.51:549][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-22.47.52:493][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.47.52:534][687]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.47.52:534][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.47.52:534][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.47.52:560][687]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.47.52:562][687]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger28301F3147784A6560B34CAE332D671A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.47.52:571][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.976 ms (total: 51.2 sec)
+[2025.08.02-22.47.52:610][687]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.47.52:610][687]LogContentValidation: Enabled validators:
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.47.52:610][687]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.47.52:610][687]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.47.57:909][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.47.57:952][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.47.57:952][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.47.57:952][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.47.57:981][ 50]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.47.57:981][ 50]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger1579593D41B156ABE9525788DDC18777.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.47.57:990][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.110 ms (total: 51.3 sec)
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: Enabled validators:
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.47.58:032][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.47.58:032][ 50]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.48.01:047][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.02-22.48.01:785][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.48.01:828][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.48.01:828][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.48.01:828][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.48.01:856][278]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.48.01:856][278]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger42166F874F9976BA42AEB48E9AE61CF7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.48.01:865][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.475 ms (total: 51.4 sec)
+[2025.08.02-22.48.01:900][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.48.01:900][278]LogContentValidation: Enabled validators:
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.48.01:900][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.48.01:900][278]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.48.29:770][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-22.48.30:428][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.48.30:470][ 85]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.02-22.48.30:502][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.02-22.48.30:502][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.02-22.48.30:520][ 85]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.02-22.48.30:520][ 85]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter0CF31D4A4D0F438C1BCC3D9F22B9A59B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.02-22.48.30:529][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.459 ms (total: 51.5 sec)
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: Enabled validators:
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.48.30:575][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.48.30:575][ 85]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.02-22.48.31:518][138]LogSlate: Took 0.000667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.02-22.48.40:000][750]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.48.59:012][ 71]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.00:121][162]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.01:172][248]LogStreaming: Display: FlushAsyncLoading(635): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.02:348][347]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.03:241][422]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.09:136][848]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.10:824][988]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.49.20:264][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8154.181152
+[2025.08.02-22.49.21:264][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-22.49.21:264][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8154.847656, Update Interval: 303.660400
+[2025.08.02-22.49.50:244][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.08.02-22.49.51:217][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.49.51:262][ 56]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.02-22.49.51:292][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.02-22.49.51:292][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.02-22.49.51:309][ 56]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.02-22.49.51:309][ 56]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter39BEA2B34D9AC725AE83BC901CB0CAB8.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.02-22.49.51:320][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.307 ms (total: 51.6 sec)
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: Enabled validators:
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.49.51:359][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.49.51:359][ 56]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.02-22.50.05:395][ 65]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.18:361][911]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_277
+[2025.08.02-22.50.18:365][911]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.37:042][421]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.47:287][172]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.48:775][291]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.50:380][411]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-22.50.59:062][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.02-22.50.59:635][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.50.59:675][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.08.02-22.50.59:705][991]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.08.02-22.50.59:705][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.08.02-22.50.59:722][991]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.08.02-22.50.59:722][991]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_FirstPersonCharacter075A524D406AA92CDDBF17B9EB6BF89D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.08.02-22.50.59:734][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.172 ms (total: 51.7 sec)
+[2025.08.02-22.50.59:780][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.50.59:780][991]LogContentValidation: Enabled validators:
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.50.59:780][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.50.59:780][991]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.02-22.51.25:451][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.02-22.51.26:501][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.51.26:549][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.51.26:549][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.51.26:549][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.51.26:576][417]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.51.26:576][417]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerB8C60BFB44338CDC0EE73E836FC37073.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.51.26:588][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.069 ms (total: 51.7 sec)
+[2025.08.02-22.51.26:634][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.51.26:634][417]LogContentValidation: Enabled validators:
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.51.26:634][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.51.26:634][417]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: ================================================
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Total job queries 637, among them cache hits 223 (35.01%), DDC hits 361 (56.67%), Duplicates 2 (0.31%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 300 distinct outputs (72.82%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: RAM used: 168.81 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Shaders Compiled: 51
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Jobs assigned 51, completed 51 (100%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Average time worker was idle: 1046.73 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 2.05 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 2.12
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Shader code size: average 7.438 KiB, min 3.832 KiB, max 13.641 KiB
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.98 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Total thread time: 14.321 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Total thread preprocess time: 7.132 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Percentage time preprocessing: 49.80%
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 0.76 sec, max 0.79 sec, min 0.73 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.49 sec, max 0.53 sec, min 0.44 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.26 sec, max 0.31 sec, min 0.23 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.22 sec, max 0.29 sec, min 0.19 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    6 times, average 0.21 sec, max 0.28 sec, min 0.17 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.92% of total time (compiled    3 times, average 0.76 sec, max 0.79 sec, min 0.73 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.57% of total time (compiled    4 times, average 0.49 sec, max 0.53 sec, min 0.44 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.81% of total time (compiled    7 times, average 0.26 sec, max 0.31 sec, min 0.23 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.86% of total time (compiled    7 times, average 0.18 sec, max 0.27 sec, min 0.15 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.69% of total time (compiled    6 times, average 0.21 sec, max 0.28 sec, min 0.17 sec)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: === Material stats ===
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Materials Translated:    187
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Material Translation Only: 0.03 s (45%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: Material Cache Hits: 40 (21%)
+[2025.08.02-22.51.31:564][702]LogShaderCompilers: Display: ================================================
+[2025.08.02-22.51.32:452][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-22.51.33:414][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.51.33:459][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.51.33:459][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.51.33:459][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.51.33:486][772]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.51.33:486][772]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerA330F8FB451BDF7611110A979B47DD03.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.51.33:498][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.938 ms (total: 51.8 sec)
+[2025.08.02-22.51.33:543][772]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.51.33:543][772]LogContentValidation: Enabled validators:
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.51.33:543][772]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.51.33:543][772]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.52.09:066][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-22.52.09:809][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.52.09:858][846]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.52.09:862][846]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.52.09:862][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.52.09:862][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.52.09:891][846]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.52.09:891][846]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5A84F370E489FD6594DC398BE8231FEC9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.52.09:902][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.492 ms (total: 51.9 sec)
+[2025.08.02-22.52.09:949][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.52.09:949][846]LogContentValidation: Enabled validators:
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.52.09:949][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.52.09:952][846]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.52.31:550][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-22.52.32:467][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.52.32:515][ 28]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.52.32:516][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.52.32:516][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.52.32:542][ 28]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.52.32:542][ 28]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger1E3233634B17FD6FF9B78B874BE38F2B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.52.32:552][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.665 ms (total: 52.0 sec)
+[2025.08.02-22.52.32:608][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: Enabled validators:
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.52.32:609][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.52.32:609][ 28]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.53.06:707][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-22.53.07:503][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.53.07:550][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.53.07:550][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.53.07:550][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.53.07:577][758]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.53.07:577][758]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger1CD058444CB0B14CF0099DB43616668E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.53.07:588][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.429 ms (total: 52.1 sec)
+[2025.08.02-22.53.07:638][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.53.07:638][758]LogContentValidation: Enabled validators:
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.53.07:638][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.53.07:638][758]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.53.09:078][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.53.09:121][831]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.53.09:124][831]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.53.09:124][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.53.09:124][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.53.09:150][831]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.53.09:150][831]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_50B8C2EC147F51A4A177467831924D7DA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.53.09:164][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.440 ms (total: 52.2 sec)
+[2025.08.02-22.53.09:214][831]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.53.09:214][831]LogContentValidation: Enabled validators:
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.53.09:214][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.53.09:215][831]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.53.25:338][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-22.53.26:092][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.53.26:141][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.53.26:144][863]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.53.26:144][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.53.26:144][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.53.26:170][863]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.53.26:170][863]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_575A59B2D4D693101FE9F1E93486C0317.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.53.26:183][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.168 ms (total: 52.3 sec)
+[2025.08.02-22.53.26:232][863]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.53.26:232][863]LogContentValidation: Enabled validators:
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.53.26:232][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.53.26:233][863]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.54.40:048][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.08.02-22.54.40:604][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.54.40:648][435]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.54.40:650][435]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.54.40:652][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.54.40:652][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.54.40:678][435]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.54.40:678][435]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_51D5EB36B489AB6B67C024C93D69BE9A1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.54.40:690][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.618 ms (total: 52.4 sec)
+[2025.08.02-22.54.40:739][435]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.54.40:739][435]LogContentValidation: Enabled validators:
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.54.40:739][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.54.40:741][435]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.54.47:529][886]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (Option1A)  and was replaced as a Custom Event!
+[2025.08.02-22.54.57:398][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8491.339844
+[2025.08.02-22.54.57:701][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-22.54.57:701][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8491.625977, Update Interval: 331.236908
+[2025.08.02-22.55.06:244][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.55.06:293][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.55.06:296][ 65]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.55.06:296][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.55.06:296][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.55.06:325][ 65]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.55.06:325][ 65]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5D822048E4151C3D715828883A54AFAD7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.55.06:339][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.171 ms (total: 52.5 sec)
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: Enabled validators:
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.55.06:383][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.55.06:386][ 65]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.55.06:904][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-22.55.37:658][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-22.55.38:302][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.55.38:347][748]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.55.38:349][748]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.55.38:349][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.55.38:349][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.55.38:382][748]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.55.38:383][748]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_50DEC7DBF44428A3EF6E3F68658A76553.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.55.38:393][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.420 ms (total: 52.5 sec)
+[2025.08.02-22.55.38:447][748]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.55.38:447][748]LogContentValidation: Enabled validators:
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.55.38:447][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.55.38:448][748]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.56.57:052][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-22.56.57:652][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.56.57:697][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.56.57:699][ 91]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-22.56.57:699][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.56.57:699][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.56.57:732][ 91]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.56.57:732][ 91]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_594FDCF9740326EDB7DE6D6BFBEE0895B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.56.57:743][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.904 ms (total: 52.6 sec)
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: Enabled validators:
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.56.57:790][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.56.57:793][ 91]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.57.05:156][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.05:208][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.57.05:208][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.57.05:208][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.57.05:240][542]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.57.05:240][542]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5CBE35AD94A095949F83F33800C15C35D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.57.05:256][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.424 ms (total: 52.7 sec)
+[2025.08.02-22.57.05:311][542]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.05:311][542]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.05:311][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.05:312][542]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.57.08:658][740]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::GetActorOfClass' [找不到指定的模块。]
+[2025.08.02-22.57.14:168][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.14:209][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.57.14:210][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.57.14:210][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.57.14:241][ 38]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.57.14:242][ 38]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_504873FCC45AF390BD9E1ADB3E1AEAE51.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.57.14:255][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.808 ms (total: 52.8 sec)
+[2025.08.02-22.57.14:307][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.14:308][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.14:309][ 38]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.57.32:543][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.32:597][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.57.32:597][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.57.32:597][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.57.32:629][124]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.57.32:629][124]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5F78D0A5549A645A7D70F6F9749D01129.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.57.32:643][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.156 ms (total: 52.9 sec)
+[2025.08.02-22.57.32:687][124]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.32:687][124]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.32:687][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.32:689][124]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.57.35:356][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.35:404][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.57.35:404][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.57.35:404][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.57.35:437][283]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.57.35:437][283]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5297F7A354568F52A74AE768432DE4EB8.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.57.35:450][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.280 ms (total: 53.0 sec)
+[2025.08.02-22.57.35:499][283]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.35:499][283]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.35:499][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.35:500][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.35:500][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.35:500][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.35:500][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.35:500][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.35:501][283]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.57.49:940][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.49:990][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.57.49:990][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.57.49:990][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.57.50:018][  6]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.57.50:018][  6]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerF803C87F4FCF543208285D995A09D6F8.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.57.50:034][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.183 ms (total: 53.1 sec)
+[2025.08.02-22.57.50:088][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.50:088][  6]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.50:088][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.50:088][  6]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.57.52:569][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.52:617][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.57.52:617][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.57.52:617][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.57.52:644][131]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.57.52:644][131]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger9A7209064F5B620AD990CAB0433D60BA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.57.52:655][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.448 ms (total: 53.2 sec)
+[2025.08.02-22.57.52:703][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.52:703][131]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.52:703][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.52:703][131]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.57.58:220][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.57.58:263][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-22.57.58:263][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-22.57.58:263][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-22.57.58:297][441]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-22.57.58:297][441]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_54BDE8F6C49AC73D8C076C2A49A9870C9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-22.57.58:310][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.394 ms (total: 53.3 sec)
+[2025.08.02-22.57.58:360][441]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.57.58:360][441]LogContentValidation: Enabled validators:
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.57.58:360][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.57.58:362][441]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-22.58.08:373][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.58.08:428][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.58.08:428][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.58.08:428][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.58.08:456][992]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.58.08:456][992]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerBA742EDE4379713E80AECA9A68F2AF56.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.58.08:469][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.711 ms (total: 53.4 sec)
+[2025.08.02-22.58.08:515][992]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.58.08:515][992]LogContentValidation: Enabled validators:
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.58.08:515][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.58.08:515][992]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.58.33:076][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-22.58.33:959][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.58.34:003][338]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.58.34:003][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.58.34:003][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.58.34:029][338]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.58.34:030][338]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger85D41B5F42F2C4EAD3AE3EAD9B270513.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.58.34:042][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.708 ms (total: 53.5 sec)
+[2025.08.02-22.58.34:089][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.58.34:089][338]LogContentValidation: Enabled validators:
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.58.34:089][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.58.34:089][338]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.58.47:736][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.58.47:784][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.58.47:784][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.58.47:784][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.58.47:811][233]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.58.47:811][233]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger8DDE6A5A4F052E8CEA5A8C9B5C743F34.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.58.47:826][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.022 ms (total: 53.6 sec)
+[2025.08.02-22.58.47:877][233]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.58.47:877][233]LogContentValidation: Enabled validators:
+[2025.08.02-22.58.47:877][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.58.47:877][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.58.47:878][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.58.47:878][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.58.47:878][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.58.47:878][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.58.47:878][233]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.59.22:021][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.08.02-22.59.22:968][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.59.23:012][434]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.59.23:012][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.59.23:012][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.59.23:039][434]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.59.23:039][434]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger68A34F0E4C7CF770C4774490240D2FBB.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.59.23:052][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.064 ms (total: 53.6 sec)
+[2025.08.02-22.59.23:097][434]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.59.23:097][434]LogContentValidation: Enabled validators:
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.59.23:097][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.59.23:097][434]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-22.59.47:204][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-22.59.48:118][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-22.59.48:162][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-22.59.48:162][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-22.59.48:162][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-22.59.48:191][849]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-22.59.48:191][849]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger8C5D38A6406534F3E1313691689DAF73.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-22.59.48:202][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.976 ms (total: 53.7 sec)
+[2025.08.02-22.59.48:240][849]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-22.59.48:240][849]LogContentValidation: Enabled validators:
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-22.59.48:240][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-22.59.48:240][849]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.00.01:013][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.00.01:058][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.00.01:058][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.00.01:058][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.00.01:087][683]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.00.01:087][683]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerA3CBDF7A485F369049E0FABFE413410D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.00.01:097][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.039 ms (total: 53.8 sec)
+[2025.08.02-23.00.01:144][683]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.00.01:144][683]LogContentValidation: Enabled validators:
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.00.01:144][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.00.01:144][683]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.00.06:316][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.00.06:362][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.00.06:362][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.00.06:362][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.00.06:390][965]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.00.06:390][965]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger286C603F47799564ED254193E5E11D9B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.00.06:405][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.181 ms (total: 53.9 sec)
+[2025.08.02-23.00.06:459][965]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.00.06:459][965]LogContentValidation: Enabled validators:
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.00.06:459][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.00.06:459][965]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.00.06:940][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-23.00.49:510][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-23.00.50:441][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.00.50:483][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.00.50:483][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.00.50:483][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.00.50:512][509]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.00.50:512][509]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerD05904554255B3421728B6938779DD5D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.00.50:523][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.927 ms (total: 54.0 sec)
+[2025.08.02-23.00.50:571][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.00.50:571][509]LogContentValidation: Enabled validators:
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.00.50:571][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.00.50:571][509]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.00.59:382][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.02-23.01.00:346][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.01.00:391][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.01.00:391][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.01.00:391][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.01.00:420][ 14]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.01.00:420][ 14]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerDC77ABDF41018A8BAD5FCCA1A2C87B42.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.01.00:431][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.281 ms (total: 54.1 sec)
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: Enabled validators:
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.01.00:477][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.01.00:477][ 14]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.01.09:090][476]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.08.02-23.01.10:645][482]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.08.02-23.01.10:658][482]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.013 s
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: === Handled ensure: ===
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: 
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: Ensure condition failed: FPackageName::DoesPackageExist(PackageName, &PackageFilename)  [File:D:\build\++UE5\Sync\Engine\Source\Editor\Kismet\Private\FindInBlueprintManager.cpp] [Line: 422] 
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: FiB: Failed to map package to filename.
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: Stack: 
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc362774d UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc31085c9 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc30e4f72 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc303ec6f UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc30430d4 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcc3054611 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb5c0ee35 UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb5c0ecfe UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb5c361ad UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb5bfb0d6 UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb5e07e23 UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb625c0ad UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffcb62535cf UnrealEditor-Core.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffd8b08e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: [Callstack] 0x00007ffd8c4fc34c ntdll.dll!UnknownFunction []
+[2025.08.02-23.01.10:658][482]LogOutputDevice: Error: 
+[2025.08.02-23.01.10:671][482]LogStats:                SubmitErrorReport -  0.000 s
+[2025.08.02-23.01.12:830][486]LogStats:                    SendNewReport -  2.159 s
+[2025.08.02-23.01.12:830][486]LogStats:             FDebug::EnsureFailed -  2.185 s
+[2025.08.02-23.01.20:283][778]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.08.02-23.01.20:302][778]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.08.02-23.01.21:429][842]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\BluePrint\BP_ChatTextTrigger.uasset: [Compiler] Can't connect pins  Good List  and  B : Array of Texts is not compatible with Text (by ref).
+[2025.08.02-23.01.21:429][842]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\BluePrint\BP_ChatTextTrigger.uasset: [Compiler] Can't connect pins  B  and  Good List : Text (by ref) is not compatible with Array of Texts.
+[2025.08.02-23.01.21:433][842]LogClass: Warning: Type mismatch in GoodList of BP_ChatTextTrigger_C - Previous (TextProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.08.02-23.01.21:455][842]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-23.01.21:557][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-23.01.22:627][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.01.22:671][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.01.22:671][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.01.22:671][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.01.22:699][865]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.01.22:699][865]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger2DDFD7A34EDA644177C8DCA48C0459E9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.01.22:710][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.283 ms (total: 54.1 sec)
+[2025.08.02-23.01.22:763][865]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.01.22:763][865]LogContentValidation: Enabled validators:
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.01.22:763][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.01.22:763][865]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.01.24:384][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8878.238281
+[2025.08.02-23.01.24:726][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-23.01.24:726][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8878.563477, Update Interval: 316.392090
+[2025.08.02-23.01.25:241][ 17]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\BluePrint\BP_ChatTextTrigger.uasset: [Compiler] The current value of the ' B ' pin is invalid: 'B' in action 'Equal Exactly (Text)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.08.02-23.01.25:360][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-23.01.26:323][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.01.26:362][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.01.26:362][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.01.26:362][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.01.26:389][ 37]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.01.26:389][ 37]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger5640D3354263C7F58FE971944E5365E1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.01.26:400][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.785 ms (total: 54.2 sec)
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: Enabled validators:
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.01.26:447][ 37]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.01.26:447][ 37]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.01.47:871][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.01.47:914][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.01.47:914][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.01.47:914][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.01.47:943][276]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.01.47:943][276]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger894AE3194DCC4D60BEA4BF9D0AE7674E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.01.47:956][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.946 ms (total: 54.3 sec)
+[2025.08.02-23.01.48:004][276]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.01.48:004][276]LogContentValidation: Enabled validators:
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.01.48:004][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.01.48:004][276]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.01.48:441][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-23.02.04:812][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-23.02.05:758][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.02.05:808][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.02.05:808][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.02.05:808][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.02.05:838][312]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.02.05:838][312]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerED7D95FA47F213DA0F31C38C4B63212E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.02.05:848][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.205 ms (total: 54.4 sec)
+[2025.08.02-23.02.05:899][312]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.02.05:899][312]LogContentValidation: Enabled validators:
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.02.05:899][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.02.05:899][312]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.02.11:898][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.02.11:946][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.02.11:946][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.02.11:946][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.02.11:973][678]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.02.11:973][678]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger708FA7E84211CD824F4DA9858F44B4B4.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.02.11:986][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.917 ms (total: 54.5 sec)
+[2025.08.02-23.02.12:043][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.02.12:043][678]LogContentValidation: Enabled validators:
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.02.12:043][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.02.12:043][678]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.02.20:246][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-23.02.21:302][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.02.21:349][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.02.21:349][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.02.21:349][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.02.21:377][212]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.02.21:377][212]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger8BE7274A4F4CDF54F3589390C5CD6B70.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.02.21:389][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.063 ms (total: 54.6 sec)
+[2025.08.02-23.02.21:435][212]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.02.21:435][212]LogContentValidation: Enabled validators:
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.02.21:435][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.02.21:435][212]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.02.55:364][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-23.02.56:352][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.02.56:399][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.02.56:399][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.02.56:399][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.02.56:427][306]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.02.56:427][306]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerCAC3AD3E4F8165D38C45D280DC281607.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.02.56:440][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.532 ms (total: 54.7 sec)
+[2025.08.02-23.02.56:485][306]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.02.56:485][306]LogContentValidation: Enabled validators:
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.02.56:485][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.02.56:485][306]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.03.05:567][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-23.03.06:565][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.03.06:605][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.03.06:605][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.03.06:605][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.03.06:634][878]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.03.06:634][878]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerE7E5F536469F946C3C1B67AAF081D5E6.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.03.06:645][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.700 ms (total: 54.7 sec)
+[2025.08.02-23.03.06:698][878]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.03.06:698][878]LogContentValidation: Enabled validators:
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.03.06:698][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.03.06:698][878]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.03.32:490][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-23.03.33:445][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.03.33:490][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.03.33:490][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.03.33:490][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.03.33:519][551]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.03.33:519][551]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger118656C44EA92196FE87BE9655337312.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.03.33:531][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.211 ms (total: 54.8 sec)
+[2025.08.02-23.03.33:581][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.03.33:581][551]LogContentValidation: Enabled validators:
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.03.33:581][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.03.33:581][551]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.05.05:386][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-23.05.06:458][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.05.06:503][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.05.06:503][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.05.06:503][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.05.06:531][238]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.05.06:532][238]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger13B28A024D9D5375786B1A807C92F457.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.05.06:542][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.093 ms (total: 54.9 sec)
+[2025.08.02-23.05.06:594][238]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.05.06:594][238]LogContentValidation: Enabled validators:
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.05.06:594][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.05.06:595][238]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.05.27:163][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.05.27:209][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.05.27:209][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.05.27:209][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.05.27:238][476]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.05.27:239][476]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger79D58FFC432C85385F3DB888DC9B9C50.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.05.27:250][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.773 ms (total: 55.0 sec)
+[2025.08.02-23.05.27:300][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.05.27:300][476]LogContentValidation: Enabled validators:
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.05.27:300][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.05.27:300][476]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.05.50:744][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.02-23.05.51:657][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.05.51:704][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.05.51:704][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.05.51:704][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.05.51:734][933]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.05.51:734][933]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTrigger543BA556420731DD6C0A0F920153CC4E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.05.51:745][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.726 ms (total: 55.1 sec)
+[2025.08.02-23.05.51:795][933]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.05.51:795][933]LogContentValidation: Enabled validators:
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.05.51:795][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.05.51:795][933]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.07.05:763][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-23.07.06:752][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.07.06:795][317]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.07.06:795][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.07.06:795][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.07.06:825][317]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.07.06:825][317]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerF84A63354083F77B214F8A82479CA711.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.07.06:842][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.346 ms (total: 55.2 sec)
+[2025.08.02-23.07.06:894][317]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.07.06:894][317]LogContentValidation: Enabled validators:
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.07.06:894][317]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.07.06:894][317]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.07.07:558][352]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.02-23.07.07:563][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-23.07.07:563][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.07.07:709][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145134s)
+[2025.08.02-23.07.07:709][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InTheLoopEnvArt.InTheLoopEnvArt to /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt (0.145164s)
+[2025.08.02-23.07.07:753][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.02-23.07.07:756][352]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-23.07.07:757][352]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2025.08.02-23.07.07:758][352]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-23.07.07:758][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.02-23.07.07:758][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-23.07.07:758][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-23.07.07:758][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-23.07.07:758][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-23.07.07:761][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-23.07.07:778][352]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.02-23.07.07:778][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-23.07.07:778][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-23.07.07:778][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-23.07.07:779][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.08.02-23.07.07:779][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.08.02-23.07.07:781][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.08.02-23.07.07:781][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.08.02-23.07.07:781][352]LogInit: FAudioDevice initialized with ID 44.
+[2025.08.02-23.07.07:781][352]LogAudio: Display: Audio Device (ID: 44) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-23.07.07:781][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.08.02-23.07.07:824][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.07.07:824][352]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.02-23.07.07:916][352]LogWorld: Bringing World /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt up for play (max tick rate 0) at 2025.08.03-07.07.07
+[2025.08.02-23.07.07:920][352]LogWorld: Bringing up level for play took: 0.096027
+[2025.08.02-23.07.07:922][352]LogOnline: OSS: Created online subsystem instance for: :Context_232
+[2025.08.02-23.07.07:939][352]LogScript: Warning: Script Msg: The widget 'WB_Drag_Chat_5_C_1' was already added to the screen.
+[2025.08.02-23.07.07:939][352]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.08.02-23.07.07:949][352]PIE: Server logged in
+[2025.08.02-23.07.07:957][352]PIE: Play in editor total start time 0.394 seconds.
+[2025.08.02-23.07.18:431][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.07.18:431][864]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.07.18:431][864]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.02-23.07.18:464][864]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-23.07.18:488][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.07.18:678][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-23.07.18:684][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.07.18:745][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-23.07.18:746][864]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.08.02-23.07.18:746][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.08.02-23.07.18:747][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.08.02-23.07.18:774][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.08.02-23.07.19:062][865]LogPlayLevel: Display: Destroying online subsystem :Context_232
+[2025.08.02-23.07.28:004][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9241.774414
+[2025.08.02-23.07.28:345][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-23.07.28:345][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9242.100586, Update Interval: 334.368103
+[2025.08.02-23.07.36:528][794]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.02-23.07.36:533][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-23.07.36:534][794]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.07.36:688][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153736s)
+[2025.08.02-23.07.36:688][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InTheLoopEnvArt.InTheLoopEnvArt to /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt (0.153763s)
+[2025.08.02-23.07.36:721][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.02-23.07.36:724][794]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-23.07.36:726][794]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2025.08.02-23.07.36:727][794]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-23.07.36:727][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.02-23.07.36:727][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-23.07.36:727][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-23.07.36:727][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-23.07.36:727][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-23.07.36:728][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-23.07.36:745][794]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.02-23.07.36:745][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-23.07.36:745][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-23.07.36:745][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-23.07.36:745][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.08.02-23.07.36:745][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.08.02-23.07.36:748][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.08.02-23.07.36:748][794]LogInit: FAudioDevice initialized with ID 45.
+[2025.08.02-23.07.36:748][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.08.02-23.07.36:748][794]LogAudio: Display: Audio Device (ID: 45) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-23.07.36:748][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.08.02-23.07.36:790][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.07.36:790][794]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.02-23.07.36:874][794]LogWorld: Bringing World /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt up for play (max tick rate 0) at 2025.08.03-07.07.36
+[2025.08.02-23.07.36:878][794]LogWorld: Bringing up level for play took: 0.087988
+[2025.08.02-23.07.36:882][794]LogOnline: OSS: Created online subsystem instance for: :Context_233
+[2025.08.02-23.07.36:896][794]LogScript: Warning: Script Msg: The widget 'WB_Drag_Chat_5_C_1' was already added to the screen.
+[2025.08.02-23.07.36:896][794]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.08.02-23.07.36:906][794]PIE: Server logged in
+[2025.08.02-23.07.36:914][794]PIE: Play in editor total start time 0.38 seconds.
+[2025.08.02-23.07.50:762][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.07.50:762][381]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.07.50:762][381]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.02-23.07.50:773][381]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-23.07.50:797][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.07.50:994][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-23.07.51:000][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.07.51:062][381]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.08.02-23.07.51:062][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.08.02-23.07.51:063][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.08.02-23.07.51:087][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.08.02-23.07.51:378][382]LogPlayLevel: Display: Destroying online subsystem :Context_233
+[2025.08.02-23.07.55:078][565]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.02-23.07.55:082][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-23.07.55:084][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.07.55:225][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141088s)
+[2025.08.02-23.07.55:225][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InTheLoopEnvArt.InTheLoopEnvArt to /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt (0.141114s)
+[2025.08.02-23.07.55:261][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.02-23.07.55:263][565]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-23.07.55:264][565]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2025.08.02-23.07.55:265][565]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-23.07.55:265][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.02-23.07.55:265][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-23.07.55:265][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-23.07.55:265][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-23.07.55:265][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-23.07.55:268][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-23.07.55:282][565]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.02-23.07.55:282][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-23.07.55:282][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-23.07.55:282][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-23.07.55:282][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.08.02-23.07.55:282][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.08.02-23.07.55:285][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.08.02-23.07.55:285][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.08.02-23.07.55:285][565]LogInit: FAudioDevice initialized with ID 46.
+[2025.08.02-23.07.55:285][565]LogAudio: Display: Audio Device (ID: 46) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-23.07.55:285][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.08.02-23.07.55:323][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.07.55:323][565]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.02-23.07.55:398][565]LogWorld: Bringing World /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt up for play (max tick rate 0) at 2025.08.03-07.07.55
+[2025.08.02-23.07.55:402][565]LogWorld: Bringing up level for play took: 0.078405
+[2025.08.02-23.07.55:405][565]LogOnline: OSS: Created online subsystem instance for: :Context_234
+[2025.08.02-23.07.55:418][565]LogScript: Warning: Script Msg: The widget 'WB_Drag_Chat_5_C_1' was already added to the screen.
+[2025.08.02-23.07.55:418][565]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.08.02-23.07.55:427][565]PIE: Server logged in
+[2025.08.02-23.07.55:436][565]PIE: Play in editor total start time 0.353 seconds.
+[2025.08.02-23.08.01:191][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.08.01:191][808]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.08.01:191][808]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.02-23.08.01:204][808]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-23.08.01:229][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.01:424][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-23.08.01:430][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.01:485][808]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.08.02-23.08.01:485][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.08.02-23.08.01:486][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.08.02-23.08.01:509][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.08.02-23.08.01:792][809]LogPlayLevel: Display: Destroying online subsystem :Context_234
+[2025.08.02-23.08.06:094][946]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.02-23.08.06:099][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-23.08.06:099][946]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.08.06:238][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139120s)
+[2025.08.02-23.08.06:238][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InTheLoopEnvArt.InTheLoopEnvArt to /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt (0.139146s)
+[2025.08.02-23.08.06:277][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.02-23.08.06:279][946]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-23.08.06:281][946]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2025.08.02-23.08.06:282][946]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-23.08.06:282][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.02-23.08.06:282][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-23.08.06:282][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-23.08.06:282][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-23.08.06:282][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-23.08.06:284][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-23.08.06:300][946]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.02-23.08.06:300][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-23.08.06:300][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-23.08.06:300][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-23.08.06:300][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.08.02-23.08.06:300][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.08.02-23.08.06:302][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.08.02-23.08.06:302][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.08.02-23.08.06:302][946]LogInit: FAudioDevice initialized with ID 47.
+[2025.08.02-23.08.06:302][946]LogAudio: Display: Audio Device (ID: 47) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-23.08.06:302][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.08.02-23.08.06:342][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.08.06:342][946]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.02-23.08.06:415][946]LogWorld: Bringing World /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt up for play (max tick rate 0) at 2025.08.03-07.08.06
+[2025.08.02-23.08.06:418][946]LogWorld: Bringing up level for play took: 0.075711
+[2025.08.02-23.08.06:421][946]LogOnline: OSS: Created online subsystem instance for: :Context_235
+[2025.08.02-23.08.06:434][946]LogScript: Warning: Script Msg: The widget 'WB_Drag_Chat_5_C_1' was already added to the screen.
+[2025.08.02-23.08.06:434][946]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.08.02-23.08.06:444][946]PIE: Server logged in
+[2025.08.02-23.08.06:452][946]PIE: Play in editor total start time 0.353 seconds.
+[2025.08.02-23.08.20:281][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.08.20:281][539]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.08.20:281][539]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.02-23.08.20:294][539]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-23.08.20:317][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.20:513][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-23.08.20:519][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.20:581][539]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.08.02-23.08.20:581][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.08.02-23.08.20:582][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.08.02-23.08.20:606][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.08.02-23.08.20:891][540]LogPlayLevel: Display: Destroying online subsystem :Context_235
+[2025.08.02-23.08.37:565][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.08.02-23.08.38:569][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-23.08.38:611][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger] ([2] browsable assets)...
+[2025.08.02-23.08.38:611][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_ChatTextTrigger]
+[2025.08.02-23.08.38:611][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_ChatTextTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset" SILENT=true
+[2025.08.02-23.08.38:640][354]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_ChatTextTrigger
+[2025.08.02-23.08.38:640][354]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_ChatTextTriggerDA9712B844E0215DE39AB0A02ED107B1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_ChatTextTrigger.uasset'
+[2025.08.02-23.08.38:651][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.576 ms (total: 55.3 sec)
+[2025.08.02-23.08.38:705][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-23.08.38:705][354]LogContentValidation: Enabled validators:
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-23.08.38:705][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-23.08.38:705][354]AssetCheck: /Game/Blueprint/BluePrint/BP_ChatTextTrigger Validating asset
+[2025.08.02-23.08.40:695][454]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.08.02-23.08.40:700][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.02-23.08.40:700][454]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.08.40:837][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137232s)
+[2025.08.02-23.08.40:837][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InTheLoopEnvArt.InTheLoopEnvArt to /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt (0.137259s)
+[2025.08.02-23.08.40:868][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-23.08.40:871][454]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-23.08.40:873][454]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2025.08.02-23.08.40:874][454]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.02-23.08.40:874][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.02-23.08.40:874][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.02-23.08.40:874][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.02-23.08.40:874][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.02-23.08.40:874][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.02-23.08.40:875][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.02-23.08.40:893][454]LogAudioMixer: Display: Using Audio Hardware Device XG32UQ (NVIDIA High Definition Audio)
+[2025.08.02-23.08.40:893][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.02-23.08.40:893][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.02-23.08.40:893][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.02-23.08.40:893][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.08.02-23.08.40:893][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.08.02-23.08.40:895][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.08.02-23.08.40:895][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.08.02-23.08.40:895][454]LogInit: FAudioDevice initialized with ID 48.
+[2025.08.02-23.08.40:895][454]LogAudio: Display: Audio Device (ID: 48) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-23.08.40:895][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.08.02-23.08.40:936][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.08.40:936][454]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.02-23.08.41:009][454]LogWorld: Bringing World /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt up for play (max tick rate 0) at 2025.08.03-07.08.41
+[2025.08.02-23.08.41:013][454]LogWorld: Bringing up level for play took: 0.077044
+[2025.08.02-23.08.41:015][454]LogOnline: OSS: Created online subsystem instance for: :Context_236
+[2025.08.02-23.08.41:028][454]LogScript: Warning: Script Msg: The widget 'WB_Drag_Chat_5_C_1' was already added to the screen.
+[2025.08.02-23.08.41:028][454]LogScript: Warning: Script Msg called by: BP_FirstPersonCharacter_C /Game/UEDPIE_0_InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2025.08.02-23.08.41:037][454]PIE: Server logged in
+[2025.08.02-23.08.41:047][454]PIE: Play in editor total start time 0.347 seconds.
+[2025.08.02-23.08.55:212][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.02-23.08.55:212][ 71]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InTheLoopEnvArt
+[2025.08.02-23.08.55:212][ 71]LogSlate: Window 'InTheLoop Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.02-23.08.55:222][ 71]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-23.08.55:247][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.55:439][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.02-23.08.55:445][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-23.08.55:496][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-23.08.55:496][ 71]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.08.02-23.08.55:496][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.08.02-23.08.55:497][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.08.02-23.08.55:522][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.08.02-23.08.55:818][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_236
+[2025.08.02-23.13.56:646][ 55]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9630.419922
+[2025.08.02-23.13.57:647][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-23.13.57:647][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9631.086914, Update Interval: 352.604156
