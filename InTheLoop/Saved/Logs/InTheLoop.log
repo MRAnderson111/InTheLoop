@@ -6945,3 +6945,1343 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.08.02-16.07.58:285][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.02-16.07.58:285][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.02-16.07.58:285][819]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.08.02-16.10.12:463][585]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Chat.WB_Chat
+[2025.08.02-16.10.12:463][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.08.02-16.10.12:469][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2025.08.02-16.10.22:307][516]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.02-16.10.22:313][516]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.02-16.10.22:321][517]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.02-16.10.23:595][663]LogContentBrowser: Attempting asset rename: NewFolder -> Chat
+[2025.08.02-16.10.23:595][663]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.02-16.10.23:753][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10796.429688
+[2025.08.02-16.10.24:069][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-16.10.24:069][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10796.738281, Update Interval: 358.210999
+[2025.08.02-16.10.27:025][943]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-16.10.27:061][943]LogInterchangeEngine: [Pending] Importing
+[2025.08.02-16.10.27:061][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/1.png]
+[2025.08.02-16.10.27:061][943]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.02-16.10.27:061][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/2.png]
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/3.png]
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/4.png]
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.08.02-16.10.27:062][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/5.png]
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/对方气泡.png]
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/发送框.png]
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.08.02-16.10.27:063][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/玩家气泡.png]
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/消息红点.png]
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/选择框（四分之一）.png]
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.08.02-16.10.27:064][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——loop.png]
+[2025.08.02-16.10.27:065][943]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.08.02-16.10.27:065][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面背景.png]
+[2025.08.02-16.10.27:065][943]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.08.02-16.10.27:065][943]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——客服.png]
+[2025.08.02-16.10.27:065][943]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.08.02-16.10.27:066][943]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.08.02-16.10.27:066][943]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.08.02-16.10.27:066][943]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.08.02-16.10.27:714][945]LogStreaming: Display: FlushAsyncLoading(776): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-16.10.27:715][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:716][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:716][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:717][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:717][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:718][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:718][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:720][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:720][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:720][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:721][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:721][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.27:721][946]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.28:034][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/1.1 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:034][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/2.2 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:036][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/3.3 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:036][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/发送框.发送框 (BGRA8, 900x137 x1x1x1) (Required Memory Estimate: 5.23317 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:036][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/5.5 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:036][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/对方气泡.对方气泡 (BGRA8, 900x457 x1x1x1) (Required Memory Estimate: 15.120865 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:037][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/消息红点.消息红点 (BGRA8, 50x50 x1x1x1) (Required Memory Estimate: 1.085823 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:037][946]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/选择框（四分之一）.选择框（四分之一） (BGRA8, 394x156 x1x1x1) (Required Memory Estimate: 3.110199 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:050][947]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——loop.主界面——loop (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:050][947]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——客服.主界面——客服 (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:050][947]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/玩家气泡.玩家气泡 (BGRA8, 900x427 x1x1x1) (Required Memory Estimate: 14.193893 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:051][947]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/4.4 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:051][947]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面背景.主界面背景 (BGRA8, 900x1563 x1x1x1) (Required Memory Estimate: 49.295212 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.28:399][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/2.png]
+[2025.08.02-16.10.28:399][947]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.08.02-16.10.28:399][947]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.08.02-16.10.28:399][947]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——老板.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/1.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——奶奶.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/3.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——男友.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/5.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange start importing source [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——朋友.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/发送框.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/对方气泡.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/消息红点.png]
+[2025.08.02-16.10.28:400][947]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/选择框（四分之一）.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——loop.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/玩家气泡.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/4.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面背景.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——客服.png]
+[2025.08.02-16.10.28:401][947]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.08.02-16.10.29:368][950]LogStreaming: Display: FlushAsyncLoading(789): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-16.10.29:370][951]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.29:370][951]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.29:370][951]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.29:370][951]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.02-16.10.29:700][951]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——奶奶.主界面——奶奶 (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.29:700][951]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——老板.主界面——老板 (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.29:701][951]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——朋友.主界面——朋友 (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.29:701][952]LogTexture: Display: Building textures: /Game/Blueprint/UI/Chat/主界面——男友.主界面——男友 (BGRA8, 850x280 x1x1x1) (Required Memory Estimate: 9.171074 MB), EncodeSpeed: Fast
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——奶奶.png]
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——老板.png]
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——朋友.png]
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.08.02-16.10.30:052][952]LogInterchangeEngine: Display: Interchange import completed [E:/Desktop/GameJam/In the Loop/聊天界面/聊天界面/主界面——男友.png]
+[2025.08.02-16.10.30:122][952]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.02-16.10.30:122][952]LogInterchangeEngine: [Success] Import Done
+[2025.08.02-16.11.39:578][513]LogSlate: Window 'WB_Chat' being destroyed
+[2025.08.02-16.11.39:588][513]LogSlate: Window 'WB_Chat' being destroyed
+[2025.08.02-16.11.39:590][513]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.39:590][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.39:797][513]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.39:797][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.39:801][513]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.39:801][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.39:866][513]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.02-16.11.39:866][513]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.39:866][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:009][513]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:009][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:014][513]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:014][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:058][513]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.02-16.11.40:058][513]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:058][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:118][513]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.02-16.11.40:118][513]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:118][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:189][513]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:189][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:272][513]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:272][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:278][513]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.11.40:278][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.11.40:341][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.08.02-16.11.42:842][803]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5
+[2025.08.02-16.11.42:842][803]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.08.02-16.11.42:849][803]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.08.02-16.12.26:957][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.12.39:619][ 52]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:621][ 52]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:623][ 52]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:680][ 53]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:683][ 53]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:704][ 54]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:708][ 54]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:772][ 55]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:841][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:852][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:865][ 58]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:868][ 58]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:923][ 59]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:924][ 59]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:945][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:948][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.39:952][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:006][ 61]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:017][ 61]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:029][ 62]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:090][ 63]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:101][ 63]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:116][ 64]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.12.40:171][ 65]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.13.01:543][817]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:42.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22298 files in 23527 folders with total size 3036 MiB.
+[2025.08.02-16.14.05:267][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.08.02-16.14.05:776][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.14.05:817][718]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.14.05:819][718]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.14.05:819][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.14.05:819][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.14.05:847][718]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.14.05:848][718]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5904512DB4F710B39C27814A7BB1FEB1A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.14.05:857][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.139 ms (total: 13.3 sec)
+[2025.08.02-16.14.05:900][718]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.14.05:900][718]LogContentValidation: Enabled validators:
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.14.05:900][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.14.05:902][718]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.14.34:941][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.34:942][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:000][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:012][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:026][174]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:103][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:105][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:109][176]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:163][177]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:174][177]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:250][179]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:263][180]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:341][182]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:404][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:481][185]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:492][186]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:496][186]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:552][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:553][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:574][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:579][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:643][189]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:720][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:734][192]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:788][193]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:811][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:814][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:868][195]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:880][195]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:892][196]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:950][197]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:960][197]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.35:977][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:032][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:055][200]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:110][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:121][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:198][203]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:213][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.36:268][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:465][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:466][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:469][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:525][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:527][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:529][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:540][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:553][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:555][379]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:611][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:613][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:625][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:639][381]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:693][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:695][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:698][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:699][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:700][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:700][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:722][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:726][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:780][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:792][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:805][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:806][385]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:864][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:876][386]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:890][387]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.38:966][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.14.39:020][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.15.15:684][305]LogEditorTransaction: Undo Move Widget
+[2025.08.02-16.15.19:200][543]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.16.08:878][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.16.08:924][361]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——奶奶] ([1] browsable assets)...
+[2025.08.02-16.16.08:925][361]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——奶奶.主界面——奶奶]
+[2025.08.02-16.16.08:925][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——奶奶]
+[2025.08.02-16.16.08:926][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——奶奶" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——奶奶.uasset" SILENT=true
+[2025.08.02-16.16.08:927][361]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——奶奶
+[2025.08.02-16.16.08:927][361]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——奶奶4AA2066A4540830E808C53AF6F83577E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——奶奶.uasset'
+[2025.08.02-16.16.08:939][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.972 ms (total: 13.4 sec)
+[2025.08.02-16.16.08:978][361]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.16.08:978][361]LogContentValidation: Enabled validators:
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.16.08:978][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.16.08:978][361]AssetCheck: /Game/Blueprint/UI/Chat/主界面——奶奶 Validating asset
+[2025.08.02-16.16.18:403][ 79]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:405][ 79]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:406][ 79]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:469][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:471][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:472][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:483][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:495][ 81]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:500][ 81]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:555][ 82]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:557][ 82]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:579][ 83]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:584][ 83]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:638][ 84]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:640][ 84]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:652][ 84]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:665][ 85]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:725][ 86]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:736][ 86]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:751][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:827][ 89]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:891][ 90]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:960][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:961][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:971][ 92]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:985][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:986][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.18:989][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:045][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:047][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:048][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:049][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:051][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:073][ 95]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:077][ 95]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:078][ 95]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:080][ 95]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:135][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:146][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:223][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:237][ 99]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:293][100]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.19:295][100]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:469][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:471][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:473][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:474][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:475][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:476][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:477][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:479][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:480][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:539][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:542][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:553][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:566][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:569][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:625][364]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:648][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:649][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:654][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:708][366]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:719][366]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:788][368]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:799][368]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:811][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:814][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:815][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:816][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:819][369]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:876][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:878][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:879][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:881][370]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:904][371]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:909][371]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:962][372]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.22:973][372]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.23:051][374]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.16.23:063][375]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.17.08:744][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11201.744141
+[2025.08.02-16.17.09:392][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-16.17.09:392][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11202.381836, Update Interval: 340.659821
+[2025.08.02-16.17.19:281][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.08.02-16.17.19:738][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.17.19:777][961]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.17.19:783][961]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.17.19:783][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.17.19:783][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.17.19:811][961]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.17.19:811][961]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_560C86B5E48527B950E30C8A38A1869AE.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.17.19:822][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.723 ms (total: 13.4 sec)
+[2025.08.02-16.17.19:864][961]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.17.19:864][961]LogContentValidation: Enabled validators:
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.17.19:864][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.17.19:866][961]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.17.27:300][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-16.17.27:789][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.17.27:830][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.17.27:833][537]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.17.27:833][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.17.27:833][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.17.27:860][537]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.17.27:860][537]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_562E4940E4EA60395A03526AABF9F548A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.17.27:873][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.282 ms (total: 13.5 sec)
+[2025.08.02-16.17.27:919][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.17.27:919][537]LogContentValidation: Enabled validators:
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.17.27:919][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.17.27:920][537]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.18.48:763][393]LogEditorTransaction: Undo Edit Bottom
+[2025.08.02-16.18.49:243][403]LogEditorTransaction: Undo Edit Top
+[2025.08.02-16.18.49:690][425]LogEditorTransaction: Undo Edit Right
+[2025.08.02-16.18.50:110][447]LogEditorTransaction: Undo Edit Left
+[2025.08.02-16.18.50:536][468]LogEditorTransaction: Undo Edit Padding
+[2025.08.02-16.19.08:758][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.02-16.19.09:301][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.19.09:345][873]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.19.09:348][873]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.19.09:348][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.19.09:348][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.19.09:375][873]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.19.09:375][873]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_52558419B48984212A24F848EDCE55345.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.19.09:386][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.293 ms (total: 13.6 sec)
+[2025.08.02-16.19.09:423][873]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.19.09:423][873]LogContentValidation: Enabled validators:
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.19.09:423][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.19.09:424][873]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.19.50:037][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.02-16.19.50:439][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.19.50:472][ 90]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.19.50:475][ 90]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.19.50:476][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.19.50:476][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.19.50:502][ 90]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.19.50:502][ 90]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5FE4609B5438D45E9C71D05AA2A24640B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.19.50:515][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.097 ms (total: 13.7 sec)
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: Enabled validators:
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.19.50:556][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.19.50:558][ 90]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.20.15:260][930]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.20.22:978][545]LogEditorTransaction: Undo Edit Right
+[2025.08.02-16.20.49:712][523]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.20.55:170][950]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.21.01:137][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.08.02-16.21.02:046][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.21.02:084][466]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.21.02:087][466]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.21.02:087][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.21.02:087][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.21.02:114][466]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.21.02:114][466]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5281818C04CB54697BACD319CF30F1737.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.21.02:124][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.838 ms (total: 13.8 sec)
+[2025.08.02-16.21.02:165][466]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.21.02:165][466]LogContentValidation: Enabled validators:
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.21.02:165][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.21.02:167][466]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.21.16:468][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-16.21.16:478][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.21.16:525][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/Character_Karen_wav] ([1] browsable assets)...
+[2025.08.02-16.21.16:525][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/Character_Karen_wav]
+[2025.08.02-16.21.16:525][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Character_Karen_wav" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/SFX/Character_Karen_wav.uasset" SILENT=true
+[2025.08.02-16.21.16:526][334]LogSavePackage: Moving output files for package: /Game/SFX/Character_Karen_wav
+[2025.08.02-16.21.16:526][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/Character_Karen_wavE20F6B654F3E735BAD420ABD24575030.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/SFX/Character_Karen_wav.uasset'
+[2025.08.02-16.21.16:528][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/1] ([1] browsable assets)...
+[2025.08.02-16.21.16:529][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/1.1]
+[2025.08.02-16.21.16:529][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/1]
+[2025.08.02-16.21.16:529][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/1" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/1.uasset" SILENT=true
+[2025.08.02-16.21.16:534][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/1
+[2025.08.02-16.21.16:534][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/125CF21D04B6C81CB951C1AB178D47196.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/1.uasset'
+[2025.08.02-16.21.16:535][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/3] ([1] browsable assets)...
+[2025.08.02-16.21.16:536][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/3.3]
+[2025.08.02-16.21.16:536][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/3]
+[2025.08.02-16.21.16:536][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/3" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/3.uasset" SILENT=true
+[2025.08.02-16.21.16:542][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/3
+[2025.08.02-16.21.16:542][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/35FFC288B46913778EE1D04B4A061499E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/3.uasset'
+[2025.08.02-16.21.16:542][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/2] ([1] browsable assets)...
+[2025.08.02-16.21.16:543][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/2.2]
+[2025.08.02-16.21.16:543][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/2]
+[2025.08.02-16.21.16:543][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/2" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/2.uasset" SILENT=true
+[2025.08.02-16.21.16:548][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/2
+[2025.08.02-16.21.16:548][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/25B879C6B40603E0C8D3358B8ADEE4CAD.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/2.uasset'
+[2025.08.02-16.21.16:549][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/5] ([1] browsable assets)...
+[2025.08.02-16.21.16:550][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/5.5]
+[2025.08.02-16.21.16:550][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/5]
+[2025.08.02-16.21.16:550][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/5.uasset" SILENT=true
+[2025.08.02-16.21.16:555][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/5
+[2025.08.02-16.21.16:555][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/5AF9EACBB48104202E38523A24D443443.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/5.uasset'
+[2025.08.02-16.21.16:556][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/发送框] ([1] browsable assets)...
+[2025.08.02-16.21.16:557][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/发送框.发送框]
+[2025.08.02-16.21.16:557][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/发送框]
+[2025.08.02-16.21.16:557][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/发送框" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/发送框.uasset" SILENT=true
+[2025.08.02-16.21.16:558][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/发送框
+[2025.08.02-16.21.16:558][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/发送框45820F7743C845139E82839A98B0001D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/发送框.uasset'
+[2025.08.02-16.21.16:560][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/对方气泡] ([1] browsable assets)...
+[2025.08.02-16.21.16:560][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/对方气泡.对方气泡]
+[2025.08.02-16.21.16:560][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/对方气泡]
+[2025.08.02-16.21.16:560][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/对方气泡" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/对方气泡.uasset" SILENT=true
+[2025.08.02-16.21.16:563][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/对方气泡
+[2025.08.02-16.21.16:563][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/对方气泡4FF93E034D3307F77FC3E48EB58B3470.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/对方气泡.uasset'
+[2025.08.02-16.21.16:563][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/消息红点] ([1] browsable assets)...
+[2025.08.02-16.21.16:564][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/消息红点.消息红点]
+[2025.08.02-16.21.16:564][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/消息红点]
+[2025.08.02-16.21.16:564][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/消息红点" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/消息红点.uasset" SILENT=true
+[2025.08.02-16.21.16:565][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/消息红点
+[2025.08.02-16.21.16:565][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/消息红点B70586764AD3D85F54980486833A736C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/消息红点.uasset'
+[2025.08.02-16.21.16:565][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/选择框（四分之一）] ([1] browsable assets)...
+[2025.08.02-16.21.16:566][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/选择框（四分之一）.选择框（四分之一）]
+[2025.08.02-16.21.16:566][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/选择框（四分之一）]
+[2025.08.02-16.21.16:566][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/选择框（四分之一）" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/选择框（四分之一）.uasset" SILENT=true
+[2025.08.02-16.21.16:567][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/选择框（四分之一）
+[2025.08.02-16.21.16:567][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/选择框（四分之一）28392B39499B7879EF7B37B84DD8FC19.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/选择框（四分之一）.uasset'
+[2025.08.02-16.21.16:567][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——loop] ([1] browsable assets)...
+[2025.08.02-16.21.16:568][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——loop.主界面——loop]
+[2025.08.02-16.21.16:568][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——loop]
+[2025.08.02-16.21.16:568][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——loop" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——loop.uasset" SILENT=true
+[2025.08.02-16.21.16:569][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——loop
+[2025.08.02-16.21.16:569][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——loop27E47AF340D512D5E2C88E83C35BDBDE.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——loop.uasset'
+[2025.08.02-16.21.16:571][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/玩家气泡] ([1] browsable assets)...
+[2025.08.02-16.21.16:572][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/玩家气泡.玩家气泡]
+[2025.08.02-16.21.16:572][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/玩家气泡]
+[2025.08.02-16.21.16:572][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/玩家气泡" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/玩家气泡.uasset" SILENT=true
+[2025.08.02-16.21.16:575][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/玩家气泡
+[2025.08.02-16.21.16:575][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/玩家气泡265610544F9CB99A2352A1BC1D2CFFC7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/玩家气泡.uasset'
+[2025.08.02-16.21.16:575][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/4] ([1] browsable assets)...
+[2025.08.02-16.21.16:576][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/4.4]
+[2025.08.02-16.21.16:576][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/4]
+[2025.08.02-16.21.16:576][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/4" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/4.uasset" SILENT=true
+[2025.08.02-16.21.16:581][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/4
+[2025.08.02-16.21.16:581][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/47D5679D74EF38F7E4655F1A19E210C85.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/4.uasset'
+[2025.08.02-16.21.16:581][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面背景] ([1] browsable assets)...
+[2025.08.02-16.21.16:583][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面背景.主界面背景]
+[2025.08.02-16.21.16:583][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面背景]
+[2025.08.02-16.21.16:583][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面背景" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面背景.uasset" SILENT=true
+[2025.08.02-16.21.16:588][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面背景
+[2025.08.02-16.21.16:588][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面背景3949C9A94A06DE45B7DC92B87BF4BBDF.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面背景.uasset'
+[2025.08.02-16.21.16:588][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——客服] ([1] browsable assets)...
+[2025.08.02-16.21.16:591][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——客服.主界面——客服]
+[2025.08.02-16.21.16:591][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——客服]
+[2025.08.02-16.21.16:591][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——客服" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——客服.uasset" SILENT=true
+[2025.08.02-16.21.16:592][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——客服
+[2025.08.02-16.21.16:592][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——客服25DAE51A46E2EC60121648A1136E58FC.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——客服.uasset'
+[2025.08.02-16.21.16:594][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——老板] ([1] browsable assets)...
+[2025.08.02-16.21.16:594][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——老板.主界面——老板]
+[2025.08.02-16.21.16:594][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——老板]
+[2025.08.02-16.21.16:594][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——老板" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——老板.uasset" SILENT=true
+[2025.08.02-16.21.16:596][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——老板
+[2025.08.02-16.21.16:596][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——老板078F85B7454289CEAA26BFB3EFC2368D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——老板.uasset'
+[2025.08.02-16.21.16:596][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——朋友] ([1] browsable assets)...
+[2025.08.02-16.21.16:598][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——朋友.主界面——朋友]
+[2025.08.02-16.21.16:598][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——朋友]
+[2025.08.02-16.21.16:598][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——朋友" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——朋友.uasset" SILENT=true
+[2025.08.02-16.21.16:599][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——朋友
+[2025.08.02-16.21.16:600][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——朋友DD3B7CCA472C0FEA41BF3E8DC1FB2514.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——朋友.uasset'
+[2025.08.02-16.21.16:600][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/Chat/主界面——男友] ([1] browsable assets)...
+[2025.08.02-16.21.16:601][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/UI/Chat/主界面——男友.主界面——男友]
+[2025.08.02-16.21.16:601][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/主界面——男友]
+[2025.08.02-16.21.16:601][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/主界面——男友" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——男友.uasset" SILENT=true
+[2025.08.02-16.21.16:602][334]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/主界面——男友
+[2025.08.02-16.21.16:602][334]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/主界面——男友3F0F790947153A2FC3511F84AE71D65F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/主界面——男友.uasset'
+[2025.08.02-16.21.16:627][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.458 ms (total: 13.9 sec)
+[2025.08.02-16.21.16:668][334]LogContentValidation: Display: Starting to validate 17 assets
+[2025.08.02-16.21.16:669][334]LogContentValidation: Enabled validators:
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.21.16:669][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/SFX/Character_Karen_wav Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/1 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/3 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/2 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/5 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/发送框 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/对方气泡 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/消息红点 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/选择框（四分之一） Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面——loop Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/玩家气泡 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/4 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面背景 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面——客服 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面——老板 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面——朋友 Validating asset
+[2025.08.02-16.21.16:669][334]AssetCheck: /Game/Blueprint/UI/Chat/主界面——男友 Validating asset
+[2025.08.02-16.21.20:490][587]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.02-16.21.41:861][930]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.21.44:133][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-16.21.44:589][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.21.44:632][170]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.21.44:635][170]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.21.44:635][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.21.44:635][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.21.44:662][170]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.21.44:662][170]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5663D0DCA4E5F0B8E2C866B9FE08329D6.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.21.44:673][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.563 ms (total: 14.0 sec)
+[2025.08.02-16.21.44:712][170]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.21.44:712][170]LogContentValidation: Enabled validators:
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.21.44:712][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.21.44:714][170]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.22.22:026][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.02-16.22.22:491][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.22.22:535][564]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.22.22:538][564]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.22.22:538][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.22.22:538][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.22.22:566][564]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.22.22:566][564]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_554AE071D49ECC8613186C7BBD8F4125B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.22.22:577][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.709 ms (total: 14.1 sec)
+[2025.08.02-16.22.22:615][564]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.22.22:615][564]LogContentValidation: Enabled validators:
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.22.22:617][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.22.22:619][564]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.22.26:159][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.22.26:200][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.22.26:200][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.22.26:200][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.22.26:227][835]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.22.26:228][835]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5F7AEC0FC4D875B7D4C69F689B8D403E4.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.22.26:239][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.590 ms (total: 14.2 sec)
+[2025.08.02-16.22.26:283][835]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.22.26:283][835]LogContentValidation: Enabled validators:
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.22.26:283][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.22.26:285][835]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.22.48:238][ 17]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.22.50:694][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:696][183]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:764][184]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:777][184]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:792][185]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:795][185]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:857][186]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:884][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:888][187]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:949][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.50:963][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:040][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:041][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:054][190]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:068][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:071][191]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:133][192]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:162][193]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:233][194]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:323][196]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:339][197]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.22.51:400][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.02-16.23.05:718][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.23.05:761][105]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.23.05:764][105]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.23.05:764][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.23.05:764][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.23.05:792][105]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.23.05:792][105]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_58E73CC2240DA92D51EE9EA82D20F57A6.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.23.05:801][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.234 ms (total: 14.3 sec)
+[2025.08.02-16.23.05:844][105]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.23.05:844][105]LogContentValidation: Enabled validators:
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.23.05:844][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.23.05:846][105]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.23.06:657][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-16.23.07:318][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.23.07:359][175]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.23.07:362][175]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.23.07:362][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.23.07:362][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.23.07:389][175]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.23.07:390][175]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_59E5241C5405BAF843B82658E85AC0E4C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.23.07:400][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.181 ms (total: 14.3 sec)
+[2025.08.02-16.23.07:441][175]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.23.07:443][175]LogContentValidation: Enabled validators:
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.23.07:443][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.23.07:444][175]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.23.15:886][698]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.23.38:052][114]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.02-16.23.42:090][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11595.035156
+[2025.08.02-16.23.42:768][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-16.23.42:768][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11595.700195, Update Interval: 303.059784
+[2025.08.02-16.24.14:609][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.24.14:644][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/UI/Chat/发送框] ([1] browsable assets)...
+[2025.08.02-16.24.14:644][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/Chat/发送框]
+[2025.08.02-16.24.14:644][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/Chat/发送框" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/发送框.uasset" SILENT=true
+[2025.08.02-16.24.14:646][509]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/Chat/发送框
+[2025.08.02-16.24.14:646][509]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/发送框FABF835D4B16385C6625B8B5596DD41F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/Chat/发送框.uasset'
+[2025.08.02-16.24.14:655][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.027 ms (total: 14.4 sec)
+[2025.08.02-16.24.14:692][509]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.24.14:692][509]LogContentValidation: Enabled validators:
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.24.14:692][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.24.14:693][509]AssetCheck: /Game/Blueprint/UI/Chat/发送框 Validating asset
+[2025.08.02-16.24.36:611][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.24.36:653][747]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.24.36:655][747]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.24.36:655][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.24.36:655][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.24.36:683][747]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.24.36:683][747]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5E0C31A5940FEAE49B7581F903101876B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.24.36:693][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.534 ms (total: 14.5 sec)
+[2025.08.02-16.24.36:737][747]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.24.36:737][747]LogContentValidation: Enabled validators:
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.24.36:737][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.24.36:739][747]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.24.37:533][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.02-16.24.37:914][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.24.37:956][843]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.24.37:958][843]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.24.37:958][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.24.37:958][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.24.37:986][843]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.24.37:986][843]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_569AD8D87476FA5C99F1532B769168DBA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.24.37:998][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.676 ms (total: 14.5 sec)
+[2025.08.02-16.24.38:030][843]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.24.38:030][843]LogContentValidation: Enabled validators:
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.24.38:030][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.24.38:032][843]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.25.48:638][994]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.25.50:104][ 95]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.25.59:850][725]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.26.10:946][504]LogEditorTransaction: Undo Edit Y
+[2025.08.02-16.26.11:503][514]Cmd: TRANSACTION UNDO
+[2025.08.02-16.26.11:503][514]LogEditorTransaction: Undo Edit X
+[2025.08.02-16.26.30:163][709]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.26.57:633][347]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.02-16.27.02:604][601]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.02-16.27.09:382][991]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.27.10:877][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.27.18:612][597]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.27.26:913][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.27.26:953][134]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.27.26:956][134]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.27.26:956][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.27.26:956][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.27.26:984][134]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.27.26:985][134]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5BFE265DF41B72B275332DF839203B76C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.27.26:995][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.442 ms (total: 14.6 sec)
+[2025.08.02-16.27.27:032][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.27.27:032][134]LogContentValidation: Enabled validators:
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.27.27:032][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.27.27:034][134]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.27.27:601][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.02-16.27.27:993][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.27.28:035][207]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.27.28:039][207]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.27.28:039][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.27.28:039][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.27.28:067][207]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.27.28:067][207]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5E1B4F13E44FFE3D1E783CC9EA5E37D2E.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.27.28:077][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.307 ms (total: 14.7 sec)
+[2025.08.02-16.27.28:116][207]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.27.28:116][207]LogContentValidation: Enabled validators:
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.27.28:116][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.27.28:119][207]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.27.49:693][653]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.27.55:695][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-16.27.56:159][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.27.56:195][ 73]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.27.56:198][ 73]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.27.56:198][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.27.56:198][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.27.56:226][ 73]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.27.56:226][ 73]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_56404623B468FCD1EF10CA58F8B3F3E8F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.27.56:236][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.827 ms (total: 14.8 sec)
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: Enabled validators:
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.27.56:278][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.27.56:279][ 73]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.28.18:103][394]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.02-16.28.33:524][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.28.33:560][335]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.28.33:562][335]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.28.33:562][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.28.33:562][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.28.33:590][335]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.28.33:591][335]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_54C856C884306D8127E46F6AAEABAABAA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.28.33:600][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.965 ms (total: 14.9 sec)
+[2025.08.02-16.28.33:636][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.28.33:636][335]LogContentValidation: Enabled validators:
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.28.33:636][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.28.33:637][335]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.28.34:434][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.02-16.28.34:816][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.28.34:854][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.28.34:856][433]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.28.34:856][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.28.34:856][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.28.34:885][433]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.28.34:885][433]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_51A1014AF4F7A52E926F20A9786E41108.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.28.34:896][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.142 ms (total: 14.9 sec)
+[2025.08.02-16.28.34:940][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.28.34:940][433]LogContentValidation: Enabled validators:
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.28.34:940][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.28.34:942][433]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.28.43:405][974]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.28.44:501][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.28.44:538][ 74]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.28.44:539][ 74]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.28.44:539][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.28.44:539][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.28.44:568][ 74]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.28.44:568][ 74]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5F4484BCD40AFE539072B26BCA1278098.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.28.44:578][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.972 ms (total: 15.0 sec)
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: Enabled validators:
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.28.44:618][ 74]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.28.44:621][ 74]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.28.45:135][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.02-16.28.45:550][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.28.45:592][149]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.02-16.28.45:595][149]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.02-16.28.45:595][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.02-16.28.45:595][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.02-16.28.45:623][149]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.02-16.28.45:623][149]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_52C6D44754F67C81F9E6AB287185ADB15.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.02-16.28.45:635][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.206 ms (total: 15.1 sec)
+[2025.08.02-16.28.45:681][149]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.28.45:681][149]LogContentValidation: Enabled validators:
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.28.45:681][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.28.45:683][149]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.02-16.29.18:419][130]LogSlate: Window 'WB_Drag_Chat_5' being destroyed
+[2025.08.02-16.29.18:427][130]LogSlate: Window 'WB_Drag_Chat_5' being destroyed
+[2025.08.02-16.29.18:440][130]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.18:440][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.18:445][130]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.18:445][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.18:487][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.08.02-16.29.24:649][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.02-16.29.24:651][833]LogStreaming: Display: FlushAsyncLoading(793): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-16.29.24:707][833]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.02-16.29.24:708][833]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.02-16.29.24:708][833]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-16.29.24:708][833]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/TestGround.TestGround, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-16.29.24:712][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-16.29.24:713][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim (0xFB2615E22E472EB1)
+[2025.08.02-16.29.24:713][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.24:726][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking (0xE09DA6071733B09E)
+[2025.08.02-16.29.24:726][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-16.29.24:730][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking (0xA2C0BCE7A6E7F9E9)
+[2025.08.02-16.29.24:730][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset (0x447C9EE3FB010242)
+[2025.08.02-16.29.24:732][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.24:732][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-16.29.24:732][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.24:734][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-16.29.24:734][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-16.29.24:735][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim (0xA41675DE6395A77)
+[2025.08.02-16.29.24:735][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-16.29.24:735][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat (0xF7BD2BC7D8474C62)
+[2025.08.02-16.29.24:778][833]LogWorldPartition: Display: WorldPartition initialize took 70.073 ms (total: 489.816 ms)
+[2025.08.02-16.29.24:784][833]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-16.29.24:785][833]Cmd: MAP LOAD FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Maps/TestGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.02-16.29.24:887][833]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.24:888][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.24:917][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-16.29.24:950][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.08.02-16.29.24:964][833]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.24:964][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.24:964][833]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-16.29.24:965][833]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.24:968][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.24:972][833]LogWorld: UWorld::CleanupWorld for Demonstration_Evening, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.24:982][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.25:026][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.02-16.29.25:051][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.02-16.29.25:072][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestGround'.
+[2025.08.02-16.29.25:072][833]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.02-16.29.25:073][833]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.02-16.29.25:073][833]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-16.29.25:073][833]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/TestGround.TestGround, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-16.29.25:077][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-16.29.25:077][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim (0xFB2615E22E472EB1)
+[2025.08.02-16.29.25:077][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.25:079][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking (0xE09DA6071733B09E)
+[2025.08.02-16.29.25:079][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-16.29.25:083][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking (0xA2C0BCE7A6E7F9E9)
+[2025.08.02-16.29.25:083][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset (0x447C9EE3FB010242)
+[2025.08.02-16.29.25:083][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.25:084][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-16.29.25:084][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-16.29.25:086][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-16.29.25:086][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-16.29.25:086][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim (0xA41675DE6395A77)
+[2025.08.02-16.29.25:086][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-16.29.25:087][833]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat (0xF7BD2BC7D8474C62)
+[2025.08.02-16.29.25:089][833]LogWorldPartition: Display: WorldPartition initialize took 15.789 ms (total: 505.606 ms)
+[2025.08.02-16.29.25:103][833]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.02-16.29.25:117][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.02-16.29.25:123][833]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.02-16.29.25:124][833]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.897ms to complete.
+[2025.08.02-16.29.25:165][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:165][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:165][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:165][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:166][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:167][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:167][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:167][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:167][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.25:167][833]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-16.29.31:926][465]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/TestGround.TestGround:PersistentLevel.TestGround
+[2025.08.02-16.29.31:926][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_91
+[2025.08.02-16.29.36:248][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11949.300781
+[2025.08.02-16.29.36:837][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-16.29.36:837][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11949.876953, Update Interval: 332.667023
+[2025.08.02-16.29.48:595][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.08.02-16.29.48:600][500]LogStreaming: Display: FlushAsyncLoading(881): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-16.29.48:855][500]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-16.29.48:904][500]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InTheLoopEnvArt.InTheLoopEnvArt
+[2025.08.02-16.29.48:905][500]Cmd: MAP LOAD FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.02-16.29.48:928][500]LogSlate: Window 'TestGround' being destroyed
+[2025.08.02-16.29.48:971][500]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.48:971][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.49:000][500]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.49:000][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.49:000][500]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-16.29.49:044][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-16.29.49:046][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.02-16.29.49:055][500]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-16.29.49:062][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.29.49:091][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.08.02-16.29.49:105][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-16.29.49:316][500]LogAudio: Display: Audio Device (ID: 1) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-16.29.49:317][500]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-16.29.49:423][500]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.02-16.29.49:456][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.02-16.29.49:463][500]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.02-16.29.49:463][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2025.08.02-16.29.49:532][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.02-16.29.55:532][163]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.InTheLoopEnvArt
+[2025.08.02-16.29.55:533][163]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2025.08.02-16.29.59:214][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.29.59:256][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.29.59:298][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-16.29.59:748][531]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.29.59:748][531]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArtD9730E1D40F5CC871042EB8C654751FA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.29.59:766][531]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.512
+[2025.08.02-16.29.59:770][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 556.101 ms (total: 15.7 sec)
+[2025.08.02-16.29.59:826][531]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.29.59:826][531]LogContentValidation: Enabled validators:
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.29.59:826][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.29.59:827][531]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.30.23:992][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.30.24:047][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.30.24:072][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.30.24:508][599]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.30.24:508][599]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArtD7489DAC4CEB12A61F3AAFBA6916C35F.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.30.24:525][599]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.479
+[2025.08.02-16.30.24:534][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 542.515 ms (total: 16.2 sec)
+[2025.08.02-16.30.24:585][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.30.24:585][599]LogContentValidation: Enabled validators:
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.30.24:585][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.30.24:586][599]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.30.50:319][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.30.50:717][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.30.50:768][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.30.50:792][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-16.30.51:226][503]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.30.51:227][503]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt234F27EE42B1D7DBBF4469A3CA75D8F2.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.30.51:248][503]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.483
+[2025.08.02-16.30.51:257][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 540.140 ms (total: 16.7 sec)
+[2025.08.02-16.30.51:309][503]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.30.51:309][503]LogContentValidation: Enabled validators:
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.30.51:309][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.30.51:311][503]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.31.07:236][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.31.07:289][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.31.07:314][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.31.07:758][ 36]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.31.07:758][ 36]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt4DAF92C64A913D4F0C60338D18A6E970.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.31.07:775][ 36]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.487
+[2025.08.02-16.31.07:784][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 547.677 ms (total: 17.3 sec)
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: Enabled validators:
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.31.07:831][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.31.07:832][ 36]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.31.08:177][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-16.31.15:715][657]LogSlate: Took 0.003804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.08.02-16.31.38:172][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.08.02-16.31.38:593][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.31.38:635][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.31.38:659][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.31.39:100][143]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.31.39:102][143]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt8A86669D40752579318B6BBC1AA705E6.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.31.39:117][143]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.485
+[2025.08.02-16.31.39:125][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 532.997 ms (total: 17.8 sec)
+[2025.08.02-16.31.39:184][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.31.39:184][143]LogContentValidation: Enabled validators:
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.31.39:184][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.31.39:185][143]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.32.17:735][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-16.32.20:967][894]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.02-16.32.22:032][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.02-16.32.22:062][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-16.32.23:812][189]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-16.32.26:241][429]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.08.02-16.32.26:384][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.32.26:421][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.32.26:447][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.02-16.32.26:892][435]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.32.26:892][435]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArtF048DC504F32ADBE191A23A0B1531B3B.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.32.26:910][435]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.489
+[2025.08.02-16.32.26:918][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 534.530 ms (total: 18.4 sec)
+[2025.08.02-16.32.26:978][435]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.32.26:978][435]LogContentValidation: Enabled validators:
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.32.26:978][435]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.32.26:979][435]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.33.18:611][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.08.02-16.33.18:611][730]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.08.02-16.33.19:448][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.08.02-16.33.19:450][793]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.08.02-16.33.19:463][793]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.08.02-16.33.19:463][793]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.08.02-16.33.24:899][377]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 471790
+[2025.08.02-16.33.24:899][377]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2025.08.02-16.33.24:899][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-16.33.38:724][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-16.33.47:517][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.33.47:555][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.33.47:580][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.02-16.33.48:024][969]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.33.48:024][969]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt76F28E404D42818FB8520799247C5680.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.33.48:042][969]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.488
+[2025.08.02-16.33.48:049][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 531.774 ms (total: 18.9 sec)
+[2025.08.02-16.33.48:104][969]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.33.48:104][969]LogContentValidation: Enabled validators:
+[2025.08.02-16.33.48:104][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.33.48:105][969]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.33.48:105][969]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.33.48:105][969]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.33.48:105][969]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.33.48:105][969]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.33.48:106][969]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.33.51:624][356]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.33.58:213][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-16.34.01:739][461]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.02-16.34.08:807][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.34.08:849][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.34.08:874][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.02-16.34.09:315][167]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.34.09:315][167]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt515FD1FA4D2C085F19CA68B5C4F22404.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.34.09:330][167]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.484
+[2025.08.02-16.34.09:350][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 543.238 ms (total: 19.4 sec)
+[2025.08.02-16.34.09:394][167]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.34.09:394][167]LogContentValidation: Enabled validators:
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.34.09:394][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.34.09:396][167]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.34.19:514][785]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.08.02-16.34.19:525][785]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.011 s
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: === Handled ensure: ===
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: 
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: Ensure condition failed: CategoryChain.IsEmpty()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphSchema.cpp] [Line: 106] 
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: 
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: Stack: 
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffc553054b7 UnrealEditor-Engine.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffc5530515d UnrealEditor-Engine.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc2c79c84 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc2c70e4e UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc2d4af5e UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc2d4aa45 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc2d8e37b UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcc30fc434 UnrealEditor-Kismet.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcee68b3b1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcee5a6bf9 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcee5bbca4 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffcee68d00a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeaaa046 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeaaa520 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeaaa520 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeac892e UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeaaa611 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeae6d11 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffceeae677a UnrealEditor-Slate.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69a78f0 UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69c57ac UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69c589a UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69c9114 UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69dbd04 UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ff7b69df0ba UnrealEditor.exe!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffd8b08e8d7 KERNEL32.DLL!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: [Callstack] 0x00007ffd8c4fc34c ntdll.dll!UnknownFunction []
+[2025.08.02-16.34.19:525][785]LogOutputDevice: Error: 
+[2025.08.02-16.34.19:531][785]LogStats:                SubmitErrorReport -  0.000 s
+[2025.08.02-16.34.20:229][785]LogStats:                    SendNewReport -  0.699 s
+[2025.08.02-16.34.20:230][785]LogStats:             FDebug::EnsureFailed -  0.715 s
+[2025.08.02-16.34.36:644][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.34.36:682][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.34.36:710][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.02-16.34.37:148][297]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.34.37:148][297]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt1EC46BE14EB776440EB580AAC09C5D1C.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.34.37:170][297]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.489
+[2025.08.02-16.34.37:175][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 531.048 ms (total: 20.0 sec)
+[2025.08.02-16.34.37:216][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.34.37:216][297]LogContentValidation: Enabled validators:
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.34.37:216][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.34.37:218][297]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.34.37:675][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.35.12:154][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.08.02-16.35.12:499][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.35.12:539][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.35.12:565][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-16.35.13:007][735]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.35.13:007][735]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt68FEF1A3443BAB7A973B429C6E802DEA.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.35.13:023][735]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.485
+[2025.08.02-16.35.13:031][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 532.388 ms (total: 20.5 sec)
+[2025.08.02-16.35.13:093][735]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.35.13:093][735]LogContentValidation: Enabled validators:
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.35.13:093][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.35.13:094][735]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.35.20:737][461]Cmd: DELETE
+[2025.08.02-16.35.20:737][461]Cmd: ACTOR DELETE
+[2025.08.02-16.35.20:770][461]LogEditorActor: Deleted Actor: PointLight
+[2025.08.02-16.35.20:771][461]LogEditorActor: Deleted Actor: PointLight
+[2025.08.02-16.35.20:784][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.02-16.35.20:788][461]LogEditorActor: Deleted 2 Actors (0.050 secs)
+[2025.08.02-16.35.26:113][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-16.35.26:151][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-16.35.26:175][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.02-16.35.26:617][ 71]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-16.35.26:617][ 71]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt7E9FF82745273CDA1944C895B7061118.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-16.35.26:633][ 71]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.483
+[2025.08.02-16.35.26:643][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 529.149 ms (total: 21.0 sec)
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: Enabled validators:
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-16.35.26:700][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-16.35.26:701][ 71]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-16.35.28:476][267]Cmd: DELETE
+[2025.08.02-16.35.28:476][267]Cmd: ACTOR DELETE
+[2025.08.02-16.35.28:509][267]LogEditorActor: Deleted Actor: PointLight
+[2025.08.02-16.35.28:523][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.02-16.35.28:526][267]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.08.02-16.35.40:209][597]Cmd: DUPLICATE
+[2025.08.02-16.35.40:209][597]Cmd: ACTOR DUPLICATE
+[2025.08.02-16.35.44:626][ 86]Cmd: DELETE
+[2025.08.02-16.35.44:626][ 86]Cmd: ACTOR DELETE
+[2025.08.02-16.35.44:660][ 86]LogEditorActor: Deleted Actor: PointLight
+[2025.08.02-16.35.44:672][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-16.35.44:676][ 86]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.08.02-16.35.59:792][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12333.092773
+[2025.08.02-16.36.01:125][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-16.36.01:125][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12334.092773, Update Interval: 346.277649
