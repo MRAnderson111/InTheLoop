@@ -1754,3 +1754,478 @@ FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Charact
 [2025.08.02-18.04.35:128][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.02-18.04.35:128][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.02-18.04.35:128][225]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.07.01:768][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.02-18.07.05:434][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.02-18.07.05:654][936]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.02-18.07.08:189][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1329.399536
+[2025.08.02-18.07.08:539][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-18.07.08:539][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1329.741943, Update Interval: 305.507996
+[2025.08.02-18.07.08:686][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.08.02-18.07.39:153][175]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.08.02-18.07.48:146][ 34]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.08.02-18.08.44:929][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.08.44:968][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.08.44:999][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.02-18.08.45:500][745]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.08.45:500][745]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt7299EF8648F505528B8A3089A827D001.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.08.45:519][745]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.553
+[2025.08.02-18.08.45:526][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 597.032 ms (total: 1.98 sec)
+[2025.08.02-18.08.45:583][745]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.08.45:583][745]LogContentValidation: Enabled validators:
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.08.45:583][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.08.45:584][745]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: ================================================
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Total job queries 564, among them cache hits 241 (42.73%), DDC hits 315 (55.85%), Duplicates 7 (1.24%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Tracking 316 distinct input hashes that result in 241 distinct outputs (76.27%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: RAM used: 148.59 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Job execution time: average 3.55 s, max 3.55 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Job life time (pending + execution): average 3.56 s, max 3.56
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Shader code size: average 32.262 KiB, min 32.262 KiB, max 32.262 KiB
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.56 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Average processing rate: 0.28 jobs/sec
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Total thread time: 1.522 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Total thread preprocess time: 6.621 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Percentage time preprocessing: 434.97%
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Effective parallelization: 0.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: === Material stats ===
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Materials Translated:    178
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Material Translation Only: 0.03 s (44%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: Material Cache Hits: 41 (23%)
+[2025.08.02-18.09.02:388][622]LogShaderCompilers: Display: ================================================
+[2025.08.02-18.09.08:873][336]Cmd: TRANSACTION UNDO
+[2025.08.02-18.09.08:873][336]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.09.10:430][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.09.10:476][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.09.10:503][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.08.02-18.09.11:013][474]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.09.11:013][474]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt9F9687284F042215ABA0038455396879.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.09.11:031][474]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.557
+[2025.08.02-18.09.11:054][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 623.358 ms (total: 2.60 sec)
+[2025.08.02-18.09.11:112][474]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.09.11:112][474]LogContentValidation: Enabled validators:
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.09.11:112][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.09.11:113][474]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.12.41:183][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1662.389648
+[2025.08.02-18.12.42:183][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-18.12.42:183][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1663.056641, Update Interval: 355.751831
+[2025.08.02-18.15.56:056][193]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 62153
+[2025.08.02-18.15.56:056][193]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2025.08.02-18.15.56:057][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-18.16.18:900][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.08.02-18.16.18:903][571]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-18.16.18:971][571]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.02-18.16.18:976][571]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.02-18.16.18:977][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-18.16.18:977][571]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/TestGround.TestGround, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-18.16.18:996][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-18.16.19:001][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim (0xFB2615E22E472EB1)
+[2025.08.02-18.16.19:001][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:015][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking (0xE09DA6071733B09E)
+[2025.08.02-18.16.19:015][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-18.16.19:050][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking (0xA2C0BCE7A6E7F9E9)
+[2025.08.02-18.16.19:050][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset (0x447C9EE3FB010242)
+[2025.08.02-18.16.19:062][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:069][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-18.16.19:069][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:084][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-18.16.19:084][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-18.16.19:088][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim (0xA41675DE6395A77)
+[2025.08.02-18.16.19:088][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-18.16.19:095][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat (0xF7BD2BC7D8474C62)
+[2025.08.02-18.16.19:149][571]LogWorldPartition: Display: WorldPartition initialize took 172.946 ms (total: 267.008 ms)
+[2025.08.02-18.16.19:155][571]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-18.16.19:156][571]Cmd: MAP LOAD FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/FirstPerson/Maps/TestGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.02-18.16.19:217][571]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-18.16.19:218][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-18.16.19:240][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-18.16.19:258][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.08.02-18.16.19:263][571]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-18.16.19:263][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-18.16.19:263][571]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-18.16.19:278][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.02-18.16.19:291][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.02-18.16.19:307][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestGround'.
+[2025.08.02-18.16.19:307][571]LogChaosDD: Creating Chaos Debug Draw Scene for world TestGround
+[2025.08.02-18.16.19:308][571]LogWorldPartition: ULevel::OnLevelLoaded(TestGround)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.08.02-18.16.19:308][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.02-18.16.19:308][571]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/TestGround.TestGround, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.02-18.16.19:312][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0 (0x1336BA7CFC4CCF12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-18.16.19:313][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim (0xFB2615E22E472EB1)
+[2025.08.02-18.16.19:313][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5 (0x4685D94DC5AFE1CA) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:314][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking (0xE09DA6071733B09E)
+[2025.08.02-18.16.19:314][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL (0xA4FD648C50667A83) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-18.16.19:318][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking (0xA2C0BCE7A6E7F9E9)
+[2025.08.02-18.16.19:318][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13 (0xCC0422373CAA4031) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset (0x447C9EE3FB010242)
+[2025.08.02-18.16.19:319][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7 (0xD41DA029E5170F45) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:320][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-18.16.19:320][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9 (0xBCEF67B53C4C8612) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit (0x4142560E72EE63B)
+[2025.08.02-18.16.19:321][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim (0xBA58134BD18B565B)
+[2025.08.02-18.16.19:321][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0 (0xB8FEA60964931A12) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman (0xC5BFF54A17993716)
+[2025.08.02-18.16.19:321][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim (0xA41675DE6395A77)
+[2025.08.02-18.16.19:321][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI (0x374A13DF0CFA20EF) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt (0xAC560A27EFC47021)
+[2025.08.02-18.16.19:322][571]LogStreaming: Display: ImportPackages: SkipPackage: /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG (0x20FFB002B98B0A17) - Skipping non mounted imported package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat (0xF7BD2BC7D8474C62)
+[2025.08.02-18.16.19:324][571]LogWorldPartition: Display: WorldPartition initialize took 15.342 ms (total: 282.351 ms)
+[2025.08.02-18.16.19:338][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.02-18.16.19:351][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.08.02-18.16.19:358][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.02-18.16.19:359][571]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.827ms to complete.
+[2025.08.02-18.16.19:396][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:396][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/3/VO/GD07Y4U5MZVQR53MHNTJP0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:396][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:396][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/5/KD/SGY0MBFHDQI5G0LBZ23CS5, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/businesswomen-walking has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/7/KR/CD7KXIUZOZEDBSYKLVE9WL, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/KO/I7FFIRLVFQ1C51RLYHIJ13, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/A/X3/DWMF3XWO1TQ15EENDX1ZY7, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/B/89/2URBM3VPMF4DU6KT5MK2Q9, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/C/DF/FUMQ55TO0YCE3RW35T62X0, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:398][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:398][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/D/80/DNZ96DTEL2AZ5NO3FVNGQI, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:399][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][571]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/FirstPerson/Maps/TestGround/E/05/TG9C8FS9JRC87XJ7MTKQRG, a dependent package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.02-18.16.19:399][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_Suit_WalkingBusinessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][571]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/businesswomen-walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_PhysicsAsset which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:399][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Businessman_inshirt_walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:400][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:400][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/Strut_Walking_Anim which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:400][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.19:400][572]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/fbx/PolygonCity/Meshes/Characters/SK_Character_Female_Coat which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.02-18.16.30:394][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track
+[2025.08.02-18.16.30:394][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.08.02-18.17.05:175][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Blue_Common.BP_Car_Blue_Common
+[2025.08.02-18.17.05:175][764]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.08.02-18.17.05:429][764]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.08.02-18.17.13:290][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.02-18.17.13:291][484]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-18.17.13:566][484]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-18.17.13:620][484]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InTheLoopEnvArt.InTheLoopEnvArt
+[2025.08.02-18.17.13:621][484]Cmd: MAP LOAD FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.02-18.17.13:667][484]LogWorld: UWorld::CleanupWorld for TestGround, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-18.17.13:667][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-18.17.13:667][484]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/TestGround.TestGround
+[2025.08.02-18.17.13:712][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.02-18.17.13:714][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.08.02-18.17.13:717][484]LogWorld: UWorld::CleanupWorld for InTheLoopEnvArt, bSessionEnded=true, bCleanupResources=true
+[2025.08.02-18.17.13:724][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.02-18.17.13:756][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.08.02-18.17.13:771][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.08.02-18.17.14:005][484]LogAudio: Display: Audio Device (ID: 1) registered with world 'InTheLoopEnvArt'.
+[2025.08.02-18.17.14:005][484]LogChaosDD: Creating Chaos Debug Draw Scene for world InTheLoopEnvArt
+[2025.08.02-18.17.14:119][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.02-18.17.14:154][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.02-18.17.14:158][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.02-18.17.14:158][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2025.08.02-18.17.38:805][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.08.02-18.17.38:839][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.08.02-18.17.38:864][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.08.02-18.17.38:918][ 46]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.08.02-18.17.54:825][855]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.02-18.17.55:707][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.08.02-18.17.55:749][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.08.02-18.17.55:777][930]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.08.02-18.17.55:792][931]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.08.02-18.17.57:964][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.17.57:964][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.17.57:966][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_0
+[2025.08.02-18.17.57:967][171]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_0
+[2025.08.02-18.17.58:326][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.08.02-18.17.58:328][181]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.08.02-18.17.58:336][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.17.58:336][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.17.58:340][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_1
+[2025.08.02-18.17.58:341][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_1
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: ================================================
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Total job queries 571, among them cache hits 241 (42.21%), DDC hits 319 (55.87%), Duplicates 7 (1.23%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Tracking 323 distinct input hashes that result in 246 distinct outputs (76.16%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: RAM used: 150.11 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Average time worker was idle: 649.11 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.31 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 3.55 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 3.56
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Shader code size: average 14.018 KiB, min 4.051 KiB, max 32.262 KiB
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.78 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Average processing rate: 0.84 jobs/sec
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Total thread time: 2.366 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Total thread preprocess time: 6.676 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Percentage time preprocessing: 282.23%
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Effective parallelization: 0.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 64.35% of total time (compiled    1 times, average 1.52 sec, max 1.52 sec, min 1.52 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 19.11% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                                FMeshDecalsPS - 9.46% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                                FMeshDecalsVS - 7.08% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: === Material stats ===
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Materials Translated:    178
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Material Translation Only: 0.03 s (44%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: Material Cache Hits: 41 (23%)
+[2025.08.02-18.18.02:529][602]LogShaderCompilers: Display: ================================================
+[2025.08.02-18.18.09:838][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.18.09:880][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.18.09:905][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.08.02-18.18.10:409][347]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.18.10:409][347]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt00CD2A2E4EAC30750B3DE69C508D7760.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.18.10:426][347]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.548
+[2025.08.02-18.18.10:436][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 598.109 ms (total: 3.20 sec)
+[2025.08.02-18.18.10:493][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.18.10:493][347]LogContentValidation: Enabled validators:
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.18.10:493][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.18.10:494][347]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.18.18:529][ 86]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-18.19.32:940][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2074.159424
+[2025.08.02-18.19.33:317][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-18.19.33:317][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2074.467773, Update Interval: 356.057617
+[2025.08.02-18.20.38:935][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.20.38:975][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.20.39:001][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.02-18.20.39:503][770]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.20.39:503][770]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArtC3203CBB459DD9723FDA1892005BE645.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.20.39:521][770]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.547
+[2025.08.02-18.20.39:539][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 603.726 ms (total: 3.80 sec)
+[2025.08.02-18.20.39:592][770]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.20.39:592][770]LogContentValidation: Enabled validators:
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.20.39:592][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.20.39:593][770]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.21.20:260][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.20:260][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.20:262][355]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_2
+[2025.08.02-18.21.20:264][355]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_2
+[2025.08.02-18.21.21:143][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.08.02-18.21.21:161][416]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.08.02-18.21.21:170][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.21:170][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.21:175][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_3
+[2025.08.02-18.21.21:176][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_3
+[2025.08.02-18.21.26:997][926]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.26:997][926]LogEditorTransaction: Undo Rotate Elements
+[2025.08.02-18.21.28:566][ 59]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.28:566][ 59]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.21.28:998][ 87]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.28:998][ 87]LogEditorTransaction: Undo Select Spline Point
+[2025.08.02-18.21.29:065][ 87]LogSplineComponentDetails: Error: Spline component details selected keys contains invalid index 22 for spline /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_3.Car_Spline with 2 points, 2 rotations, 2 scales
+[2025.08.02-18.21.33:342][555]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.33:342][555]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.21.35:345][739]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.08.02-18.21.42:614][487]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.42:614][487]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.21.46:872][846]Cmd: TRANSACTION UNDO
+[2025.08.02-18.21.46:872][846]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.21.51:270][275]Cmd: DELETE
+[2025.08.02-18.21.51:270][275]Cmd: ACTOR DELETE
+[2025.08.02-18.21.51:270][275]LogEditorActor: Cannot delete component SceneComponent /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_3.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2025.08.02-18.21.53:482][538]Cmd: DELETE
+[2025.08.02-18.21.53:482][538]Cmd: ACTOR DELETE
+[2025.08.02-18.21.53:482][538]LogEditorActor: Cannot delete component SceneComponent /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_3.DefaultSceneRoot: Can't delete non-instanced components or the scene root.
+[2025.08.02-18.21.55:664][788]Cmd: DELETE
+[2025.08.02-18.21.55:664][788]Cmd: ACTOR DELETE
+[2025.08.02-18.21.55:700][788]LogEditorActor: Deleted Actor: BP_Car_Track_C
+[2025.08.02-18.21.55:714][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.02-18.21.55:716][788]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2025.08.02-18.21.56:760][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.56:760][902]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.56:763][902]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_4
+[2025.08.02-18.21.56:765][902]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_4
+[2025.08.02-18.21.57:284][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.02-18.21.57:286][923]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.08.02-18.21.57:295][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.57:295][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track_C
+[2025.08.02-18.21.57:298][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_5
+[2025.08.02-18.21.57:299][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Station_Bravo/Blueprints/BP_Car_Track.BP_Car_Track as actor: BP_Car_Track_C /Game/InTheLoopEnvArt.InTheLoopEnvArt:PersistentLevel.BP_Car_Track_C_5
+[2025.08.02-18.25.00:250][353]Cmd: TRANSACTION UNDO
+[2025.08.02-18.25.00:250][353]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.25.00:793][366]Cmd: TRANSACTION UNDO
+[2025.08.02-18.25.00:793][366]LogEditorTransaction: Undo Move Elements
+[2025.08.02-18.26.04:257][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2465.461182
+[2025.08.02-18.26.04:569][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-18.26.04:569][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.763428, Update Interval: 358.132263
+[2025.08.02-18.26.15:281][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.26.15:320][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.26.15:350][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.02-18.26.15:871][718]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.26.15:871][718]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt3CD72BAD49AAC978DF7D5F83843ABFE7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.26.15:890][718]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.571
+[2025.08.02-18.26.15:899][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 618.330 ms (total: 4.42 sec)
+[2025.08.02-18.26.15:956][718]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.26.15:956][718]LogContentValidation: Enabled validators:
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.26.15:956][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.26.15:957][718]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.32.58:595][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2879.795654
+[2025.08.02-18.32.59:595][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.02-18.32.59:595][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2880.462402, Update Interval: 306.253235
+[2025.08.02-18.34.12:184][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BluePrint/BP_WindowFixedTrigger.BP_WindowFixedTrigger
+[2025.08.02-18.34.12:185][766]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.08.02-18.34.30:741][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.02-18.34.31:113][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.34.31:156][305]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BluePrint/BP_WindowFixedTrigger] ([2] browsable assets)...
+[2025.08.02-18.34.31:156][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BluePrint/BP_WindowFixedTrigger]
+[2025.08.02-18.34.31:156][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BluePrint/BP_WindowFixedTrigger" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_WindowFixedTrigger.uasset" SILENT=true
+[2025.08.02-18.34.31:161][305]LogSavePackage: Moving output files for package: /Game/Blueprint/BluePrint/BP_WindowFixedTrigger
+[2025.08.02-18.34.31:161][305]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/BP_WindowFixedTrigger5297B6714E7A07576EE0AD891BA726F3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/BluePrint/BP_WindowFixedTrigger.uasset'
+[2025.08.02-18.34.31:170][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.807 ms (total: 4.48 sec)
+[2025.08.02-18.34.31:209][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.34.31:209][305]LogContentValidation: Enabled validators:
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.34.31:209][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.34.31:209][305]AssetCheck: /Game/Blueprint/BluePrint/BP_WindowFixedTrigger Validating asset
+[2025.08.02-18.35.03:924][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.35.03:971][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.35.03:996][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.02-18.35.04:512][156]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.35.04:512][156]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt196A21F540A56BF9F06E7391FE9AB9F9.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.35.04:529][156]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.560
+[2025.08.02-18.35.04:537][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 612.661 ms (total: 5.09 sec)
+[2025.08.02-18.35.04:591][156]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.35.04:591][156]LogContentValidation: Enabled validators:
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.35.04:591][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.35.04:592][156]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.35.04:848][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.02-18.35.04:898][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InTheLoopEnvArt" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.08.02-18.35.04:921][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.02-18.35.05:431][182]LogSavePackage: Moving output files for package: /Game/InTheLoopEnvArt
+[2025.08.02-18.35.05:431][182]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/InTheLoopEnvArt4D93454C4FF5B306EA15AA9070844706.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/InTheLoopEnvArt.umap'
+[2025.08.02-18.35.05:448][182]LogFileHelpers: Saving map 'InTheLoopEnvArt' took 0.551
+[2025.08.02-18.35.05:465][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 616.837 ms (total: 5.71 sec)
+[2025.08.02-18.35.05:517][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.02-18.35.05:517][182]LogContentValidation: Enabled validators:
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.02-18.35.05:517][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.02-18.35.05:518][182]AssetCheck: /Game/InTheLoopEnvArt Validating asset
+[2025.08.02-18.36.22:387][154]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.02-18.36.22:442][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/5.5 (BGRA8, 173x199 x1x1x1) (Required Memory Estimate: 2.181942 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:442][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/2.2 (TFO_AutoDXT, 824x424 x1x1x1) (Required Memory Estimate: 61.104635 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:443][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/4.4 (BGRA8, 504x477 x1x1x1) (Required Memory Estimate: 9.253754 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:445][154]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Drag_0_Animated.WB_Drag_0_Animated
+[2025.08.02-18.36.22:445][154]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.08.02-18.36.22:446][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/1.1 (TFO_AutoDXT, 1200x1200 x1x1x1) (Required Memory Estimate: 209.505859 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:446][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/方形底.方形底 (TFO_AutoDXT, 1200x1200 x1x1x1) (Required Memory Estimate: 209.505859 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:446][154]LogTexture: Display: Building textures: /Game/Blueprint/UI/Image/1/3.3 (TFO_AutoDXT, 1200x1200 x1x1x1) (Required Memory Estimate: 209.505859 MB), EncodeSpeed: Fast
+[2025.08.02-18.36.22:452][154]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
