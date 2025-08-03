@@ -5694,3 +5694,184 @@ Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled
 [2025.08.03-08.22.56:041][490]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall
 [2025.08.03-08.22.56:041][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_149
 [2025.08.03-08.22.56:047][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_150
+[2025.08.03-08.25.15:212][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.25.15:250][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.25.15:250][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.25.15:250][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.25.15:264][198]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.25.15:264][198]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCallD4778A4745B8AA31011D2FA694A8B0F7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.25.15:272][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.711 ms (total: 14.5 sec)
+[2025.08.03-08.25.15:306][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.25.15:306][198]LogContentValidation: Enabled validators:
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.25.15:306][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.25.15:306][198]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.25.48:285][729]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] On Clicked (ExitButtom)  does not have a valid matching component!
+[2025.08.03-08.25.48:344][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.03-08.25.49:097][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.25.49:127][797]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.25.49:127][797]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall]
+[2025.08.03-08.25.49:127][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.25.49:127][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.25.49:141][797]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.25.49:141][797]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCallB1E2452F40B446DD1F3D4D92EFA65CF3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.25.49:149][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.589 ms (total: 14.5 sec)
+[2025.08.03-08.25.49:186][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.25.49:186][797]LogContentValidation: Enabled validators:
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.25.49:186][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.25.49:187][797]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.26.44:403][429]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] On Clicked (ExitButtom)  does not have a valid matching component!
+[2025.08.03-08.26.44:410][429]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' WindowImage ': Unknown Error
+[2025.08.03-08.26.44:474][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.03-08.26.44:976][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.26.45:010][475]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.26.45:011][475]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall]
+[2025.08.03-08.26.45:011][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.26.45:011][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.26.45:024][475]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.26.45:024][475]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCallB928013C4C8521F7E05610A48A8F93C3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.26.45:033][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.904 ms (total: 14.6 sec)
+[2025.08.03-08.26.45:067][475]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.26.45:067][475]LogContentValidation: Enabled validators:
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.26.45:067][475]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.26.45:067][475]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.26.51:740][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18560.593750
+[2025.08.03-08.26.52:070][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-08.26.52:070][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18560.910156, Update Interval: 321.850647
+[2025.08.03-08.27.15:583][543]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprint/UI/Call/挂断.挂断
+[2025.08.03-08.27.32:836][793]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-08.27.40:506][347]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] On Clicked (ExitButtom)  does not have a valid matching component!
+[2025.08.03-08.27.40:512][347]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' WindowImage ': Unknown Error
+[2025.08.03-08.27.40:588][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.03-08.27.41:069][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.27.41:104][372]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.27.41:105][372]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall]
+[2025.08.03-08.27.41:105][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.27.41:105][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.27.41:119][372]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.27.41:119][372]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCall3C9DDF964FD4EC4517C6228A6B208B6D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.27.41:127][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.683 ms (total: 14.6 sec)
+[2025.08.03-08.27.41:166][372]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.27.41:166][372]LogContentValidation: Enabled validators:
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.27.41:166][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.27.41:166][372]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.28.17:792][293]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.03-08.29.12:032][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-08.29.13:317][184]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] On Clicked (ExitButtom)  does not have a valid matching component!
+[2025.08.03-08.29.13:323][184]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' WindowImage ': Unknown Error
+[2025.08.03-08.29.13:379][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.08.03-08.29.13:995][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.29.14:029][211]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.29.14:030][211]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall]
+[2025.08.03-08.29.14:030][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.29.14:030][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.29.14:043][211]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.29.14:044][211]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCallF4B6FE5246E266622423F9A654DE9B2D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.29.14:052][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.436 ms (total: 14.7 sec)
+[2025.08.03-08.29.14:083][211]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.29.14:083][211]LogContentValidation: Enabled validators:
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.29.14:083][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.29.14:084][211]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.29.35:125][454]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] On Clicked (ExitButtom)  does not have a valid matching component!
+[2025.08.03-08.29.35:131][454]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_11_NanaCall.uasset: [Compiler] Binding: Property ' /Script/UMG.Image:OnMouseButtonDownEvent ' on Widget ' WindowImage ': Unknown Error
+[2025.08.03-08.29.35:185][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.03-08.29.35:644][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-08.29.35:666][477]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_11_NanaCall] ([2] browsable assets)...
+[2025.08.03-08.29.35:668][477]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_11_NanaCall.WB_Drag_11_NanaCall]
+[2025.08.03-08.29.35:668][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_11_NanaCall]
+[2025.08.03-08.29.35:668][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_11_NanaCall" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset" SILENT=true
+[2025.08.03-08.29.35:682][477]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_11_NanaCall
+[2025.08.03-08.29.35:682][477]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_11_NanaCallAB416E1C4741AB1737D255849F45E6F6.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_11_NanaCall.uasset'
+[2025.08.03-08.29.35:690][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.322 ms (total: 14.7 sec)
+[2025.08.03-08.29.35:725][477]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-08.29.35:725][477]LogContentValidation: Enabled validators:
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-08.29.35:725][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-08.29.35:725][477]AssetCheck: /Game/Blueprint/UI/WB_Drag_11_NanaCall Validating asset
+[2025.08.03-08.32.50:566][609]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18919.755859
+[2025.08.03-08.32.51:566][612]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-08.32.51:567][612]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18920.421875, Update Interval: 320.742828
+[2025.08.03-08.39.00:333][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19289.796875
+[2025.08.03-08.39.01:996][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-08.39.01:996][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19291.130859, Update Interval: 329.319733
+[2025.08.03-08.40.48:720][868]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.03-08.40.48:736][868]LogStreaming: Display: ImportPackages: SkipPackage: /Game/PolygonCity/Maps/Demonstration_Evening (0xAAF6F3E82088302E) /Game/PolygonCity/Maps/Demonstration_Evening (0xAAF6F3E82088302E) - Skipping non mounted imported package /Game/PolygonCity/Maps/Demonstration_Evening_BuiltData (0x8ACD1EEBF52C9FF3)
+[2025.08.03-08.40.49:617][868]LogChaosDD: Creating Chaos Debug Draw Scene for world Demonstration_Evening
+[2025.08.03-08.40.49:915][868]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/PolygonCity/Maps/Demonstration_Evening_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.03-08.40.49:915][868]LoadErrors: Warning: While trying to load package /Game/PolygonCity/Maps/Demonstration_Evening, a dependent package /Game/PolygonCity/Maps/Demonstration_Evening_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/PolygonCity/Maps/Demonstration_Evening_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'D:/UnrealEngine/Git_InTheLoop/InTheLoop/InTheLoop/Content/PolygonCity/Maps/Demonstration_Evening_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.03-08.41.02:416][297]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.03-08.41.02:504][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Audience_Look_At_Target
+[2025.08.03-08.41.02:551][297]LogNavigation: Warning: RecastNavMesh /Game/Population_System/Maps/Audience_Path.Audience_Path:PersistentLevel.RecastNavMesh-Default: ARecastNavMesh: Navmesh version 13 < Min compatible 20. Navmesh needs to be rebuilt. 
+
+[2025.08.03-08.41.02:610][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Audience_Path
+[2025.08.03-08.41.02:691][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Audience_Rotate_Body_To_Target
+[2025.08.03-08.41.03:832][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Armored_Truck_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:849][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Armored_Truck_01_Hover.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:865][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Armored_Truck_02.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:879][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Armored_Truck_02_Hover.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:896][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Classic_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:911][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Future_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:917][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Demonstration
+[2025.08.03-08.41.03:922][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Future_Cop_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:932][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Hover_Bike_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:941][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Garbage_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:956][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Retro_01_Hover.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:958][297]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Veh_Retro_01_Hover) ...
+[2025.08.03-08.41.03:974][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Retro_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:988][297]LogSkeletalMesh: Display: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\PolygonScifi\Meshes\Vehicles\SK_Veh_Sweepo_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.08.03-08.41.03:992][297]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Veh_Sweepo_01) ...
+[2025.08.03-08.41.04:099][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Talking_People
+[2025.08.03-08.41.04:156][297]LogNavigation: Warning: RecastNavMesh /Game/Population_System/Maps/Walking_People.Walking_People:PersistentLevel.RecastNavMesh-Default: ARecastNavMesh: Navmesh version 13 < Min compatible 20. Navmesh needs to be rebuilt. 
+
+[2025.08.03-08.41.04:162][297]LogChaosDD: Creating Chaos Debug Draw Scene for world Walking_People
+[2025.08.03-08.41.04:171][297]LogObjectTools: Deleting 7 worlds: /Game/Population_System/Maps/Audience_Look_At_Target.Audience_Look_At_Target, /Game/Population_System/Maps/Audience_Path.Audience_Path, /Game/Population_System/Maps/Audience_Rotate_Body_To_Target.Audience_Rotate_Body_To_Target, /Game/PolygonScifi/Maps/Demonstration.Demonstration, /Game/PolygonCity/Maps/Demonstration_Evening.Demonstration_Evening, /Game/Population_System/Maps/Talking_People.Talking_People, /Game/Population_System/Maps/Walking_People.Walking_People
+[2025.08.03-08.41.04:171][297]LogObjectTools: Currently 27 active worlds: /Game/InTheLoopEnvArt.InTheLoopEnvArt, /Engine/Transient.World_79, /Engine/Transient.World_80, /Engine/Transient.World_81, /Engine/Transient.World_82, /Engine/Transient.World_83, /Engine/Transient.World_84, /Engine/Transient.World_85, /Engine/Transient.World_87, /Engine/Transient.World_88, /Engine/Transient.World_89, /Engine/Transient.World_90, /Engine/Transient.World_91, /Engine/Transient.World_92, /Engine/Transient.World_93, /Engine/Transient.World_94, /Engine/Transient.World_95, /Engine/Transient.World_96, /Engine/Transient.World_97, /Engine/Transient.World_98, /Engine/Transient.World_99, /Engine/Transient.World_103, /Engine/Transient.World_104, /Engine/Transient.World_106, /Engine/Transient.World_108, /Engine/Transient.World_149, /Engine/Transient.World_150
+[2025.08.03-08.41.04:219][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.08.03-08.41.06:910][297]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.03-08.41.06:922][297]LogWorld: UWorld::CleanupWorld for Audience_Look_At_Target, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:922][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:923][297]LogWorld: UWorld::CleanupWorld for Audience_Path, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:923][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:924][297]LogWorld: UWorld::CleanupWorld for Audience_Rotate_Body_To_Target, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:924][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:924][297]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:926][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:928][297]LogWorld: UWorld::CleanupWorld for Demonstration_Evening, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:936][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:938][297]LogWorld: UWorld::CleanupWorld for Talking_People, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:938][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.06:938][297]LogWorld: UWorld::CleanupWorld for Walking_People, bSessionEnded=true, bCleanupResources=true
+[2025.08.03-08.41.06:938][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.03-08.41.07:022][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.08.03-08.41.07:042][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.03-08.41.07:056][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
