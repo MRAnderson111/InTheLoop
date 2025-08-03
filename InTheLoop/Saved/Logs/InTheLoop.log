@@ -1823,3 +1823,607 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.08.03-03.40.41:841][284]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2025.08.03-03.40.41:841][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.08.03-03.40.41:917][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.03-03.45.52:316][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1705.285889
+[2025.08.03-03.45.52:663][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-03.45.52:663][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1705.625366, Update Interval: 333.553284
+[2025.08.03-03.51.35:529][995]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5
+[2025.08.03-03.51.35:529][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.08.03-03.51.35:534][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.08.03-03.52.06:553][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2079.518066
+[2025.08.03-03.52.06:878][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-03.52.06:878][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2079.830566, Update Interval: 355.766479
+[2025.08.03-03.53.58:082][268]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.03-03.54.22:229][ 68]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprint/UI/Chat/选择框（四分之一）.选择框（四分之一）
+[2025.08.03-03.55.04:562][537]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-03.55.17:583][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.03-03.55.18:129][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.55.18:179][489]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.55.18:183][489]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.55.18:183][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.55.18:183][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.55.18:216][489]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.55.18:216][489]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_52E8EC79348876387ECB5908A946FD13D.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.55.18:229][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.900 ms (total: 542.770 ms)
+[2025.08.03-03.55.18:274][489]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.55.18:274][489]LogContentValidation: Enabled validators:
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.55.18:274][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.55.18:276][489]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.55.22:791][819]LogSlate: Window '选择框（四分之一）' being destroyed
+[2025.08.03-03.55.22:799][819]LogSlate: Window '选择框（四分之一）' being destroyed
+[2025.08.03-03.55.49:795][620]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-03.55.51:155][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.08.03-03.55.51:697][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.55.51:740][735]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.55.51:743][735]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.55.51:743][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.55.51:743][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.55.51:776][735]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.55.51:776][735]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_56B8587824A0F36D1D2F70890B1D58409.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.55.51:787][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.797 ms (total: 632.568 ms)
+[2025.08.03-03.55.51:830][735]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.55.51:830][735]LogContentValidation: Enabled validators:
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.55.51:830][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.55.51:832][735]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.55.54:977][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.55.55:018][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.55.55:018][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.55.55:018][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.55.55:051][937]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.55.55:051][937]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_533432FF04C35CD07FF3B9F8B251683B1.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.55.55:063][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.021 ms (total: 719.589 ms)
+[2025.08.03-03.55.55:106][937]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.55.55:106][937]LogContentValidation: Enabled validators:
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.55.55:106][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.55.55:108][937]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.56.49:556][811]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-03.57.27:354][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.08.03-03.57.27:750][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.57.27:796][676]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.57.27:798][676]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.57.27:798][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.57.27:798][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.57.27:832][676]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.57.27:832][676]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5C36FA98E476B6144ED16298FB9CB5A08.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.57.27:845][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.110 ms (total: 813.700 ms)
+[2025.08.03-03.57.27:889][676]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.57.27:889][676]LogContentValidation: Enabled validators:
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.57.27:889][676]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.57.27:892][676]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.58.28:809][549]LogStreaming: Display: FlushAsyncLoading(607): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.03-03.58.39:488][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2472.474121
+[2025.08.03-03.58.39:822][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-03.58.39:822][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2472.797363, Update Interval: 328.043457
+[2025.08.03-03.58.43:495][794]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage4" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage4
+[2025.08.03-03.58.43:495][794]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage3" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage3
+[2025.08.03-03.58.43:495][794]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage2" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage2
+[2025.08.03-03.58.43:499][794]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 2  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.58.43:499][794]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 3  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.58.43:499][794]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 4  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.58.43:565][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.03-03.58.44:177][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.58.44:217][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.58.44:220][833]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.58.44:220][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.58.44:220][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.58.44:254][833]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.58.44:254][833]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5EA37734F410A5A459C6BAFAEA349DEB3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.58.44:264][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.900 ms (total: 900.600 ms)
+[2025.08.03-03.58.44:307][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.58.44:307][833]LogContentValidation: Enabled validators:
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.58.44:307][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.58.44:309][833]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.58.47:317][ 67]LogEditorTransaction: Undo Duplicate selection
+[2025.08.03-03.58.47:815][ 82]LogEditorTransaction: Undo Duplicate selection
+[2025.08.03-03.59.27:739][191]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage4" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage4
+[2025.08.03-03.59.27:739][191]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage3" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage3
+[2025.08.03-03.59.27:739][191]LogBlueprint: Warning: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Could not find a variable named "Object_NewMessage2" in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'.
+Make sure '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C' has been compiled for  Get Object_NewMessage2
+[2025.08.03-03.59.27:743][191]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 2  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.59.27:743][191]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 3  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.59.27:743][191]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] The property associated with  Object New Message 4  could not be found in '/Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5_C'
+[2025.08.03-03.59.27:824][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.03-03.59.28:274][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.59.28:310][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.59.28:313][217]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.59.28:313][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.59.28:313][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.59.28:345][217]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.59.28:345][217]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5BFD5BC6444C7CFE9EDEEBBA86F76D493.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.59.28:357][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.149 ms (total: 982.749 ms)
+[2025.08.03-03.59.28:396][217]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.59.28:396][217]LogContentValidation: Enabled validators:
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.59.28:396][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.59.28:398][217]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.59.47:025][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.59.47:071][720]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.59.47:073][720]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.59.47:073][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.59.47:073][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.59.47:106][720]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.59.47:106][720]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_526970B8C4554D5F91606F28F7D64AB3A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.59.47:117][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.011 ms (total: 1.07 sec)
+[2025.08.03-03.59.47:161][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.59.47:161][720]LogContentValidation: Enabled validators:
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.59.47:161][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.59.47:164][720]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.59.47:855][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] In use pin  Object New Message 4  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.08.03-03.59.47:855][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] In use pin  Object New Message 3  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.08.03-03.59.47:855][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] In use pin  Object New Message 2  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.08.03-03.59.47:859][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Failed to find class for pin  Object New Message 2
+[2025.08.03-03.59.47:859][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Failed to find class for pin  Object New Message 3
+[2025.08.03-03.59.47:859][774]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Failed to find class for pin  Object New Message 4
+[2025.08.03-03.59.47:929][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.08.03-03.59.48:799][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.59.48:842][831]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.59.48:845][831]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-03.59.48:845][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.59.48:845][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.59.48:877][831]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.59.48:877][831]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5274BDCEC4CCE2E4815B4238F214045F0.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.59.48:888][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.378 ms (total: 1.16 sec)
+[2025.08.03-03.59.48:927][831]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.59.48:927][831]LogContentValidation: Enabled validators:
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.59.48:927][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.59.48:930][831]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-03.59.54:048][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-03.59.54:090][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-03.59.54:090][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-03.59.54:090][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-03.59.54:122][192]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-03.59.54:122][192]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_51E5B05504BD92F0AC4E0498D3DBE2402.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-03.59.54:136][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.113 ms (total: 1.25 sec)
+[2025.08.03-03.59.54:182][192]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-03.59.54:182][192]LogContentValidation: Enabled validators:
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-03.59.54:182][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-03.59.54:184][192]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.00.23:427][729]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] In use pin  Object New Message 4  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.08.03-04.00.23:427][729]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] In use pin  Object New Message 3  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.08.03-04.00.23:432][729]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Failed to find class for pin  Object New Message 3
+[2025.08.03-04.00.23:432][729]LogBlueprint: Error: [AssetLog] D:\UnrealEngine\Git_InTheLoop\InTheLoop\InTheLoop\Content\Blueprint\UI\WB_Drag_Chat_5.uasset: [Compiler] Failed to find class for pin  Object New Message 4
+[2025.08.03-04.00.23:532][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.08.03-04.00.24:221][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.00.24:260][773]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.00.24:263][773]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.00.24:263][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.00.24:263][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.00.24:296][773]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.00.24:296][773]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5E35CCC674126DF8524EF648508B87212.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.00.24:307][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.955 ms (total: 1.33 sec)
+[2025.08.03-04.00.24:350][773]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.00.24:350][773]LogContentValidation: Enabled validators:
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.00.24:350][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.00.24:352][773]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.00.35:518][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.08.03-04.00.36:066][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.00.36:106][720]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.00.36:109][720]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.00.36:109][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.00.36:109][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.00.36:141][720]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.00.36:141][720]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5A6714D6E4AE8B1D707269489C1AB0961.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.00.36:151][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.653 ms (total: 1.42 sec)
+[2025.08.03-04.00.36:190][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.00.36:190][720]LogContentValidation: Enabled validators:
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.00.36:190][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.00.36:193][720]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.00.58:056][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.00.58:094][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.00.58:094][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.00.58:094][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.00.58:129][651]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.00.58:130][651]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5E307D7FA41974D349D091AB8B05FD6DF.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.00.58:140][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.711 ms (total: 1.50 sec)
+[2025.08.03-04.00.58:185][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.00.58:185][651]LogContentValidation: Enabled validators:
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.00.58:185][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.00.58:187][651]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.01.33:031][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.08.03-04.01.33:559][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.01.33:594][557]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.01.33:598][557]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.01.33:598][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.01.33:598][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.01.33:632][557]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.01.33:632][557]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_52F7B22D74FC9B67484C67AB0CBE8FBE0.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.01.33:645][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.729 ms (total: 1.59 sec)
+[2025.08.03-04.01.33:689][557]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.01.33:689][557]LogContentValidation: Enabled validators:
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.01.33:689][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.01.33:691][557]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.02.33:175][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.03-04.02.33:640][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.02.33:683][123]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.02.33:685][123]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.02.33:685][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.02.33:685][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.02.33:719][123]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.02.33:719][123]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_59582656B48D0CDBEFC7AFB8E692C902A.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.02.33:729][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.138 ms (total: 1.68 sec)
+[2025.08.03-04.02.33:769][123]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.02.33:769][123]LogContentValidation: Enabled validators:
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.02.33:769][123]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.02.33:771][123]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.03.06:579][436]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-04.03.18:719][401]LogEditorTransaction: Undo Set Vector Property
+[2025.08.03-04.04.43:446][355]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2836.437012
+[2025.08.03-04.04.44:447][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-04.04.44:447][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2837.108643, Update Interval: 301.488678
+[2025.08.03-04.04.56:821][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:822][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:825][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:885][828]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:905][829]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:911][829]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:973][830]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:981][830]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.56:994][831]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:065][832]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:080][833]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:142][834]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:166][835]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:233][836]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:307][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:314][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:316][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:319][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:321][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:331][838]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:345][839]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:348][839]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:354][839]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:415][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:418][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:421][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:424][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:427][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:429][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:432][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:434][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:437][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:439][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:442][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:445][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:447][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:449][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:452][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:473][841]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:476][841]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:478][841]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:484][841]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:546][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:550][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:560][842]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:574][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:576][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:579][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:582][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:583][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:587][843]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:651][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:654][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:664][844]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:678][845]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:683][845]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:689][845]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:751][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:753][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:756][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:759][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:762][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:764][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:767][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:769][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:771][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:775][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:777][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:780][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:783][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:785][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:787][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:790][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:792][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:794][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:796][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:798][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:802][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:804][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:806][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:808][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:810][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:813][846]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:834][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:838][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:843][847]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:909][848]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.57:990][850]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:005][851]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:085][853]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:151][854]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:231][856]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:247][857]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:328][859]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:396][860]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.58:471][862]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.04.59:473][934]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.03-04.07.01:465][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.03-04.07.02:234][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.07.02:274][176]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.07.02:277][176]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.07.02:277][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.07.02:277][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.07.02:310][176]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.07.02:310][176]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_5B8E1A72C40F65FC9348285A7BFA934D3.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.07.02:323][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.778 ms (total: 1.77 sec)
+[2025.08.03-04.07.02:354][176]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.07.02:354][176]LogContentValidation: Enabled validators:
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.07.02:354][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.07.02:356][176]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.07.05:266][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:269][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:331][405]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:333][405]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:353][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:359][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:419][407]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:431][407]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:511][409]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:527][410]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:607][412]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:664][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:669][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:672][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:674][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:684][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:698][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:701][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:706][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:708][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:710][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:712][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:776][415]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:787][415]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:797][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:803][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:866][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:869][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:871][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:874][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:877][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:879][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:881][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:883][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:886][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:890][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:892][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:894][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:896][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:899][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:901][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:903][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:906][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:909][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:911][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:913][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:916][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:918][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:920][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:923][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:925][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:927][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:929][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:932][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:934][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:936][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:938][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:940][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:943][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:944][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:947][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:950][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:952][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:955][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:957][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:959][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:962][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:964][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:967][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:970][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:971][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:974][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:996][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.05:999][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:004][418]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:065][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:069][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:072][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:075][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:077][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:079][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:081][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:084][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:087][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:089][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:091][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:093][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:096][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:098][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:100][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:103][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:105][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:107][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:109][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:111][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:113][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:116][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:119][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:128][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:142][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:145][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:147][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:151][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:153][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:155][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:157][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:160][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:224][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:236][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:250][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:311][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:313][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:317][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:320][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:322][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:324][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:327][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:347][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:350][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:352][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:354][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:360][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:423][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:433][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:515][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:530][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.06:591][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.03-04.07.07:454][487]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.08.03-04.10.39:254][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3192.252686
+[2025.08.03-04.10.40:255][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.03-04.10.40:255][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3192.919922, Update Interval: 315.242157
+[2025.08.03-04.11.06:584][845]LogEditorTransaction: Undo Edit X
+[2025.08.03-04.11.17:656][654]LogEditorTransaction: Undo Edit X
+[2025.08.03-04.11.44:037][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.11.44:077][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.11.44:079][767]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.11.44:079][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.11.44:079][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.11.44:114][767]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.11.44:114][767]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_521FF319A4CF8A23A5250AA9210667029.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.11.44:127][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.475 ms (total: 1.86 sec)
+[2025.08.03-04.11.44:171][767]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.11.44:171][767]LogContentValidation: Enabled validators:
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.11.44:171][767]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.11.44:174][767]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.11.44:728][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.08.03-04.11.54:086][501]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.03-04.11.59:194][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.11.59:235][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.11.59:239][ 81]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.11.59:239][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.11.59:239][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.11.59:272][ 81]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.11.59:272][ 81]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_59E05ABB34BCF2CEDA6EEA0968B4F37FF.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.11.59:281][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.439 ms (total: 1.94 sec)
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: Enabled validators:
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.11.59:326][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.11.59:328][ 81]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
+[2025.08.03-04.11.59:653][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.03-04.13.08:514][506]LogEditorTransaction: Undo Edit X
+[2025.08.03-04.14.10:406][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.03-04.14.10:954][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-04.14.10:998][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/UI/WB_Drag_Chat_5] ([2] browsable assets)...
+[2025.08.03-04.14.11:001][450]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/UI/WB_Drag_Chat_5.WB_Drag_Chat_5]
+[2025.08.03-04.14.11:001][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/UI/WB_Drag_Chat_5]
+[2025.08.03-04.14.11:001][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/UI/WB_Drag_Chat_5" FILE="../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset" SILENT=true
+[2025.08.03-04.14.11:034][450]LogSavePackage: Moving output files for package: /Game/Blueprint/UI/WB_Drag_Chat_5
+[2025.08.03-04.14.11:034][450]LogSavePackage: Moving '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Saved/WB_Drag_Chat_50854C0664639A6E74B0A19924B9E88C7.tmp' to '../../../../Git_InTheLoop/InTheLoop/InTheLoop/Content/Blueprint/UI/WB_Drag_Chat_5.uasset'
+[2025.08.03-04.14.11:046][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.747 ms (total: 2.03 sec)
+[2025.08.03-04.14.11:087][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.03-04.14.11:087][450]LogContentValidation: Enabled validators:
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-04.14.11:087][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-04.14.11:089][450]AssetCheck: /Game/Blueprint/UI/WB_Drag_Chat_5 Validating asset
